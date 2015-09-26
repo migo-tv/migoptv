@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<items>
+<items_info> <!-- this is opitonal -->
+      <title>Lista de MIGUEL</title> 
+      <genre>Tv Live</genre>
+      <description>: Lista de Canales arabes :</description>
+      <thumbnail></thumbnail>
+      <fanart></fanart>
+      <date>25.09.2015</date>
+      <credits>MiGo</credits>
+    </items_info>
+	
+	
+	
+		
+	
+	
+
+
+
+<item>
+<title>                                [COLOR skyblue][B]CANALES [/COLOR] [COLOR deepskyblue]ARABES[/B][/COLOR]</title>
+<link></link><thumbnail></thumbnail><fanart></fanart>
+</item>
+
+
+
+
+
+<item>
+<title>                     [COLOR lightblue]   Actualizado: [COLOR orange]26[/COLOR] • Septiembre • 2015[/COLOR]      </title>
+<link></link><thumbnail></thumbnail><fanart></fanart>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<item>
+<title>[COLOR lime]  •[/COLOR][COLOR deepskyblue]    Deportes[/COLOR] </title>
+<link>http://ignorame</link><thumbnail>http://i.imgur.com/oxTNPnp.png</thumbnail><fanart>http://i.imgur.com/O4Kz3Al.jpg</fanart>
+<externallink>http://shadowcrew.info/adryan/deportes_adryan_list.xml</externallink>
+</item>
+<item>
+<title>[COLOR lime]  •[/COLOR][COLOR deepskyblue]    [B]Drama[/B]   [/COLOR][COLOR skyblue][p2p@Plexus] [/COLOR]</title>
+<link>http://ignorame</link><thumbnail>http://i.imgur.com/oxTNPnp.png</thumbnail><fanart>http://i.imgur.com/O4Kz3Al.jpg</fanart>
+<externallink>http://shadowcrew.info/adryan/ace.xml</externallink>
+</item>
+
+<item>
+<title>[COLOR lime]  •[/COLOR][COLOR deepskyblue]    Entretenimiento [/COLOR]</title>
+<link>http://ignorame</link><thumbnail>http://i.imgur.com/oxTNPnp.png</thumbnail><fanart>http://i.imgur.com/O4Kz3Al.jpg</fanart>
+<externallink>http://shadowcrew.info/adryan/esp.xml</externallink>
+</item>
+<item>
+<title>[COLOR lime]  •[/COLOR][COLOR deepskyblue]    Música[/COLOR] </title>
+<link>http://ignorame</link><thumbnail>http://i.imgur.com/oxTNPnp.png</thumbnail><fanart>http://i.imgur.com/O4Kz3Al.jpg</fanart>
+<externallink>http://shadowcrew.info/adryan/mx.xml</externallink>
+</item>
+
+<item>
+<title>[COLOR lime]  •[/COLOR][COLOR deepskyblue]    Peliculas & [B]Series de TV [COLOR skyblue]24/7[/COLOR][/B][/COLOR] [COLOR green] [/COLOR]</title>
+<link>http://ignorame</link><thumbnail>http://i.imgur.com/oxTNPnp.png</thumbnail><fanart>http://i.imgur.com/O4Kz3Al.jpg</fanart>
+<externallink>http://shadowcrew.info/adryan/p247.xml</externallink>
+</item>
+<item>
+<title>[COLOR lime]  •[/COLOR][COLOR deepskyblue]    Peliculas [/COLOR]   [COLOR lime] [/COLOR] </title>
+<link>http://ignorame</link><thumbnail>http://i.imgur.com/oxTNPnp.png</thumbnail><fanart>http://i.imgur.com/O4Kz3Al.jpg</fanart>
+<externallink>http://shadowcrew.info/adryan/peliculas.xml</externallink>
+</item>
+<item>
+<title>[COLOR lime]  •[/COLOR][COLOR deepskyblue]    Series de TV [/COLOR]   [COLOR gray] [/COLOR]  </title>
+<link>http://ignorame</link><thumbnail>http://i.imgur.com/oxTNPnp.png</thumbnail><fanart>http://i.imgur.com/O4Kz3Al.jpg</fanart>
+<externallink>http://shadowcrew.info/adryan/tv.xml</externallink>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<item>
+<title>             </title>
+<link>http://ignorame</link><thumbnail></thumbnail><fanart></fanart>
+<externallink></externallink>
+</item>
+
+
+
+
+<item>
+<title>        [COLOR orange]  + [/COLOR][COLOR white]Member of [B]MiGosTV[/B] / MigoPTV [/COLOR]</title>
+<link>http://ignorame</link><thumbnail></thumbnail><fanart></fanart>
+<externallink></externallink>
+</item>
+
+
+
+
+</items>
