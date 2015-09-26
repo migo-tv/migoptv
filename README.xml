@@ -19,91 +19,8 @@
 
 
 
-					BIENVENIDO  A ADRYANLIST
-					
-					
-					www.adryanlist.info
-					
-					LISTA DE CANALES PARA KODI
-					
-					
-					
+					BIENVENIDO  A MIGO TVs
 
-
-					
-
-					
-					1. instalar el Addon AdryanList 
-						Descargar: http://addon.adryanlist.info
-						Mirror Mediafire: http://bit.ly/addonal
-
-					2.- tambien puedes buscar el addon RobinHood  o Livestreamspro
-						2.1: en el Livestreamspro agregar la url http://adryanlist.info
-
-
-					3.- Disfrutar ! 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-					
-					
-					
-					PARA QUE LA LISTA SIGA ACTIVA , APOYAME INVITANDOME UN CAFE 
-					
-					A TRAVES DE UNA DONACION POR PAYPAL
-					
-					
-					a la cuenta adrian.bu@gmail.com
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					AYUDA  , SOPORTE, QUEJAS Y SUGERENCIAS
-					
-					
-					
-					twitter: @adryan
-					fb: adrian.bu
-					whatsapp / line / Telegram / +521 462 123 35 81
-
-					
-					
-					
-					
-					http://blog.adryanlist.info
 
 
 
@@ -224,15 +141,7 @@
 
 
 <items>
-<items_info> <!-- this is opitonal -->
-      <title>Adryan List </title> 
-      <genre>Tv Live</genre>
-      <description>: Lista de Canales para el Livestreamspro :</description>
-      <thumbnail>http://i.imgur.com/oxTNPnp.png</thumbnail>
-      <fanart>http://i.imgur.com/O4Kz3Al.jpg</fanart>
-      <date>13.02.2015</date>
-      <credits>adryan</credits>
-    </items_info>
+
 	
 	
 	
@@ -243,7 +152,7 @@
 
 
 <item>
-<title>                                [COLOR skyblue][B]A D R Y A N [/COLOR][COLOR deepskyblue]L I S T[/B][/COLOR]</title>
+<title>                                [COLOR skyblue][B]MIGO [/COLOR][COLOR deepskyblue] TVs[/B][/COLOR]</title>
 <link>http://shadowcrew.info/adryan/liist.xml</link><thumbnail>http://i.imgur.com/oxTNPnp.png</thumbnail><fanart>http://i.imgur.com/O4Kz3Al.jpg</fanart>
 </item>
 
@@ -252,7 +161,7 @@
 
 
 <item>
-<title>                     [COLOR lightblue]   update: [COLOR orange]26[/COLOR] • September • 2015[/COLOR]      </title>
+<title>                     [COLOR lightblue]   Actualizado: [COLOR orange]26[/COLOR] • Septiembre • 2015[/COLOR]      </title>
 <link>http://shadowcrew.info/adryan/liist.xml</link><thumbnail>http://i.imgur.com/oxTNPnp.png</thumbnail><fanart>http://i.imgur.com/O4Kz3Al.jpg</fanart>
 </item>
 
@@ -268,42 +177,6 @@
 
 
 
-
-<item>
-<title>MBC 1 [COLOR=FF00FF00]HD[/COLOR]</title>         
-<link>http://lv003.cdn.lbcdn.com/live/m3u8/Zq3pR3yqtesX1.m3u8?bccdeb79adf4199059baa6fd5ceba239853f8a32e98c7aff4f240ad74f71be45745bb6e300d7af576f6d26d3f3f40605aef3756c253dc6992c915cf665692fe4e1598069f421ddf63c1a739dee1f</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mbc1.jpg</thumbnail>
-</item>
-
-<item>
-<title>MBC 2 [COLOR=FF00FF00]HD[/COLOR]</title>         
-<link>http://lv003.cdn.lbcdn.com/live/m3u8/Zq3pR3yqtesX2.m3u8?bccdeb79adf4199059baa6fd5ceba239853f8a32e98c7aff4f240ad74f71be45745bb6e300d7af576f6d26d3f3f40605aef3756c253dc6992c915cf665692fe4e1598069f421ddf63c1a739dee1f</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mbc2_ae.jpg</thumbnail>
-</item>
-
-<item>
-<title>MBC 3 [COLOR=FF00FF00]HD[/COLOR]</title>         
-<link>http://lv003.cdn.lbcdn.com/live/m3u8/Zq3pR3yqtesX3.m3u8?bccdeb79adf4199059baa6fd5ceba239853f8a32e98c7aff4f240ad74f71be45745bb6e300d7af576f6d26d3f3f40605aef3756c253dc6992c915cf665692fe4e1598069f421ddf63c1a739dee1f</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mbc3.jpg</thumbnail>
-</item>
-
-<item>
-<title>MBC 4 [COLOR=FF00FF00]HD[/COLOR]</title>         
-<link>http://lv003.cdn.lbcdn.com/live/m3u8/Zq3pR3yqtesX4.m3u8?bccdeb79adf4199059baa6fd5ceba239853f8a32e98c7aff4f240ad74f71be45745bb6e300d7af576f6d26d3f3f40605aef3756c253dc6992c915cf665692fe4e1598069f421ddf63c1a739dee1f</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mbc4.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>[COLOR lime]  •[/COLOR][COLOR deepskyblue]  Sports[/COLOR] </title>
-<link>http://ignorame</link><thumbnail>http://i.imgur.com/oxTNPnp.png</thumbnail><fanart>http://i.imgur.com/O4Kz3Al.jpg</fanart>
-<externallink>http://shadowcrew.info/adryan/deportes_adryan_list.xml</externallink>
-</item>
-<item>
-<title>[COLOR lime]  •[/COLOR][COLOR deepskyblue]  [B]Sports[/B]   [/COLOR][COLOR skyblue][p2p@Plexus] [/COLOR]</title>
-<link>http://ignorame</link><thumbnail>http://i.imgur.com/oxTNPnp.png</thumbnail><fanart>http://i.imgur.com/O4Kz3Al.jpg</fanart>
-<externallink>http://shadowcrew.info/adryan/ace.xml</externallink>
-</item>
 
 <item>
 <title>[COLOR lime]  •[/COLOR][COLOR deepskyblue]  Canales Arabes [/COLOR]</title>
@@ -316,16 +189,16 @@
 <item>
 <title>             </title>
 <link>http://ignorame</link><thumbnail>http://i.imgur.com/oxTNPnp.png</thumbnail><fanart>http://i.imgur.com/O4Kz3Al.jpg</fanart>
-<externallink>http://shadowcrew.info/adryan/movi.m3u</externallink>
+<externallink></externallink>
 </item>
 
 
 
 
 <item>
-<title>        [COLOR orange]  + [/COLOR][COLOR white]Member of [B]ShadowCrew[/B]  [/COLOR]</title>
+<title>        [COLOR orange]  + [/COLOR][COLOR white]Miembro de [B]MiGosTv[/B]  [/COLOR]</title>
 <link>http://ignorame</link><thumbnail>http://i.imgur.com/oxTNPnp.png</thumbnail><fanart>http://i.imgur.com/O4Kz3Al.jpg</fanart>
-<externallink>http://shadowcrew.info/adryan/liisst..xml</externallink>
+<externallink></externallink>
 </item>
 
 
