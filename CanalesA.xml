@@ -8,225 +8,30 @@
 	
 	
 <channel>
-<name>Tahoun Al Shar 2</name>
-<thumbnail>http://www.pixentral.com/pics/1IVxkLqPIgzBPk0CjPZTNOYvpddCvm1.jpg</thumbnail>
+<name>ROTANA Radio</name>
+<thumbnail>http://i.imgur.com/gt32Xz0.jpg</thumbnail>
 <items>
 
 <item>
-<title>Episodio 1</title> 
-<link>rtmpe://mbc3.csl.delvenetworks.com/a6344/v1/ playpath=mp4:media/2fda1d3fd7ab453cad983544e8ed70e4/532470b29a1e4c929a04f5a40491aed2/59cf63567dc04ff0b5df8398efce7897/tahoun_alshar_s02_e01_vod.mp4  pageURL=http://assets.delvenetworks.com/player/fp10loader.swf?allowEmbed=true&allowSharePanel=true&allowHttpDownload=&startQuality=200&mediaId=08e681cdd644444e8cedd2507d027a1a&autoplay=true&playerForm=64fc5d4a5f47400fac523fba125a8de8&deepLink=true&77926330 swfUrl=http://s.delvenetworks.com/deployments/flash-player/flash-player-5.6.2.swf?ldr=ldr</link>
-<thumbnail>http://static.shahid.mbc.net/imagery/0/51731/1_150_84_9_1378903321.jpg</thumbnail>
+<title>1</title> 
+<link>http://188.247.86.67:8002/2
+http://188.247.86.67:8002/3
+http://188.247.86.67:8002/1</link>
+<thumbnail></thumbnail>
 </item>
 
 <item>
-<title>Episodio 2</title> 
-<link>rtmpe://mbc3.csl.delvenetworks.com/a6344/v1/ playpath=mp4:media/2fda1d3fd7ab453cad983544e8ed70e4/050447626d2d4db59abffcb72b208bc9/c19030cf75054805ac0f827587379689/tahoun_alshar_s02_e02_vod.mp4  pageURL=http://assets.delvenetworks.com/player/fp10loader.swf?allowEmbed=true&allowSharePanel=true&allowHttpDownload=&startQuality=200&mediaId=08e681cdd644444e8cedd2507d027a1a&autoplay=true&playerForm=64fc5d4a5f47400fac523fba125a8de8&deepLink=true&77926330 swfUrl=http://s.delvenetworks.com/deployments/flash-player/flash-player-5.6.2.swf?ldr=ldr</link>
-<thumbnail>http://static.shahid.mbc.net/imagery/0/51777/1_150_84_9_1378970281.jpg</thumbnail>
+<title>2</title> 
+<link>http://opml.radiotime.com/Tune.ashx?id=s93633</link>
+<thumbnail></thumbnail>
 </item>
 
 <item>
-<title>Episodio 3</title> 
-<link>rtmpe://mbc3.csl.delvenetworks.com/a6344/v1/ playpath=mp4:media/2fda1d3fd7ab453cad983544e8ed70e4/3a2ec286f9124b03b7fbabe3fb10f774/98828eb48b0a4fae98482caa1655431c/tahoun_alshar_s02_e03_new_vod.mp4  pageURL=http://assets.delvenetworks.com/player/fp10loader.swf?allowEmbed=true&allowSharePanel=true&allowHttpDownload=&startQuality=200&mediaId=08e681cdd644444e8cedd2507d027a1a&autoplay=true&playerForm=64fc5d4a5f47400fac523fba125a8de8&deepLink=true&77926330 swfUrl=http://s.delvenetworks.com/deployments/flash-player/flash-player-5.6.2.swf?ldr=ldr</link>
-<thumbnail>http://static.shahid.mbc.net/imagery/0/51871/1_150_84_9_1379270101.jpg</thumbnail>
+<title>3</title> 
+<link>mms://stream.rotanaradio.fm/rotanahifi</link>
+<thumbnail></thumbnail>
 </item>
 
-<item>
-<title>Episodio 4</title> 
-<link>rtmpe://mbc3.csl.delvenetworks.com/a6344/v1/ playpath=mp4:media/2fda1d3fd7ab453cad983544e8ed70e4/de71d53c6bb0440b92e41c8200bf3d49/b2d405b4b2de4e0a9fde63ac4ac7de4c/tahoun_alshar_s02_e04_new_vod.mp4  pageURL=http://assets.delvenetworks.com/player/fp10loader.swf?allowEmbed=true&allowSharePanel=true&allowHttpDownload=&startQuality=200&mediaId=08e681cdd644444e8cedd2507d027a1a&autoplay=true&playerForm=64fc5d4a5f47400fac523fba125a8de8&deepLink=true&77926330 swfUrl=http://s.delvenetworks.com/deployments/flash-player/flash-player-5.6.2.swf?ldr=ldr</link>
-<thumbnail>http://static.shahid.mbc.net/imagery/0/51915/1_150_84_9_1379348701.jpg</thumbnail>
-</item>
-
-<item>
-<title>Episodio 5</title> 
-<link>rtmpe://mbc3.csl.delvenetworks.com/a6344/v1/ playpath=mp4:media/2fda1d3fd7ab453cad983544e8ed70e4/bf9ddb3ccd974a4885a4c883236ce55e/8bf841cb7405407f99be94c932926ca4/tahoun_alshar_s02_e05_new_vod.mp4  pageURL=http://assets.delvenetworks.com/player/fp10loader.swf?allowEmbed=true&allowSharePanel=true&allowHttpDownload=&startQuality=200&mediaId=08e681cdd644444e8cedd2507d027a1a&autoplay=true&playerForm=64fc5d4a5f47400fac523fba125a8de8&deepLink=true&77926330 swfUrl=http://s.delvenetworks.com/deployments/flash-player/flash-player-5.6.2.swf?ldr=ldr</link>
-<thumbnail>http://static.shahid.mbc.net/imagery/0/51953/1_150_84_9_1379432161.jpg</thumbnail>
-</item>
-
-<item>
-<title>Episodio 6</title> 
-<link>rtmpe://mbc3.csl.delvenetworks.com/a6344/v1/ playpath=mp4:media/2fda1d3fd7ab453cad983544e8ed70e4/bb28dcc250a64fba98bcfb2d53eeed95/276ac35b456148f68e2e8ec0511316c5/tahoun_alshar_s02_e06_new_vod.mp4  pageURL=http://assets.delvenetworks.com/player/fp10loader.swf?allowEmbed=true&allowSharePanel=true&allowHttpDownload=&startQuality=200&mediaId=08e681cdd644444e8cedd2507d027a1a&autoplay=true&playerForm=64fc5d4a5f47400fac523fba125a8de8&deepLink=true&77926330 swfUrl=http://s.delvenetworks.com/deployments/flash-player/flash-player-5.6.2.swf?ldr=ldr</link>
-<thumbnail>http://static.shahid.mbc.net/imagery/0/51987/1_150_84_9_1379514301.jpg</thumbnail>
-</item>
-
-<item>
-<title>Episodio 7</title> 
-<link>rtmpe://mbc3.csl.delvenetworks.com/a6344/v1/ playpath=mp4:media/2fda1d3fd7ab453cad983544e8ed70e4/d63832d97bde42728047f7159ff8a941/0925231342ca44f9ade506c1aa3cd893/tahoun_alshar_s02_e07_new_vod.mp4  pageURL=http://assets.delvenetworks.com/player/fp10loader.swf?allowEmbed=true&allowSharePanel=true&allowHttpDownload=&startQuality=200&mediaId=08e681cdd644444e8cedd2507d027a1a&autoplay=true&playerForm=64fc5d4a5f47400fac523fba125a8de8&deepLink=true&77926330 swfUrl=http://s.delvenetworks.com/deployments/flash-player/flash-player-5.6.2.swf?ldr=ldr</link>
-<thumbnail>http://static.shahid.mbc.net/imagery/0/52012/1_150_84_9_1379593082.jpg</thumbnail>
-</item>
-
-<item>
-<title>Episodio 8</title> 
-<link>rtmpe://mbc3.csl.delvenetworks.com/a6344/v1/ playpath=mp4:media/2fda1d3fd7ab453cad983544e8ed70e4/67ab751afcfa4ea4b0f1aa3f3a103631/0a8efc6f184e43e78052249deecf9fb1/tahoun_alshar_s02_e08_new_vod.mp4  pageURL=http://assets.delvenetworks.com/player/fp10loader.swf?allowEmbed=true&allowSharePanel=true&allowHttpDownload=&startQuality=200&mediaId=08e681cdd644444e8cedd2507d027a1a&autoplay=true&playerForm=64fc5d4a5f47400fac523fba125a8de8&deepLink=true&77926330 swfUrl=http://s.delvenetworks.com/deployments/flash-player/flash-player-5.6.2.swf?ldr=ldr</link>
-<thumbnail>http://static.shahid.mbc.net/imagery/0/52137/1_150_84_9_1379880541.jpg</thumbnail>
-</item>
-
-<item>
-<title>Episodio 9</title> 
-<link>rtmpe://mbc3.csl.delvenetworks.com/a6344/v1/ playpath=mp4:media/2fda1d3fd7ab453cad983544e8ed70e4/2dadd2db80e347e69b2fbc974f792da4/010cc56486384b7d9ddd40084b885e43/tahoun_alshar_s02_e09_new_vod.mp4  pageURL=http://assets.delvenetworks.com/player/fp10loader.swf?allowEmbed=true&allowSharePanel=true&allowHttpDownload=&startQuality=200&mediaId=08e681cdd644444e8cedd2507d027a1a&autoplay=true&playerForm=64fc5d4a5f47400fac523fba125a8de8&deepLink=true&77926330 swfUrl=http://s.delvenetworks.com/deployments/flash-player/flash-player-5.6.2.swf?ldr=ldr</link>
-<thumbnail>http://static.shahid.mbc.net/imagery/0/52197/1_150_84_9_1379955542.jpg</thumbnail>
-</item>
-
-<item>
-<title>Episodio 10</title> 
-<link>rtmpe://mbc3.csl.delvenetworks.com/a6344/v1/ playpath=mp4:media/2fda1d3fd7ab453cad983544e8ed70e4/6a36c10184aa492a9f35e12c4bd70c31/8061603e24c04e1b88454f8181212327/tahoun_alshar_s02_e10_new_vod.mp4  pageURL=http://assets.delvenetworks.com/player/fp10loader.swf?allowEmbed=true&allowSharePanel=true&allowHttpDownload=&startQuality=200&mediaId=08e681cdd644444e8cedd2507d027a1a&autoplay=true&playerForm=64fc5d4a5f47400fac523fba125a8de8&deepLink=true&77926330 swfUrl=http://s.delvenetworks.com/deployments/flash-player/flash-player-5.6.2.swf?ldr=ldr</link>
-<thumbnail>http://static.shahid.mbc.net/imagery/0/52238/1_150_84_9_1380036541.jpg</thumbnail>
-</item>
-
-<item>
-<title>Episodio 11</title> 
-<link>rtmpe://mbc3.csl.delvenetworks.com/a6344/v1/ playpath=mp4:media/2fda1d3fd7ab453cad983544e8ed70e4/9749d8ed47614090bb2c0764ee761d14/0d6e9bcb65d54d4a8c196743d2f991e5/tahoun_al_shar_s02_e11_vod.mp4  pageURL=http://assets.delvenetworks.com/player/fp10loader.swf?allowEmbed=true&allowSharePanel=true&allowHttpDownload=&startQuality=200&mediaId=08e681cdd644444e8cedd2507d027a1a&autoplay=true&playerForm=64fc5d4a5f47400fac523fba125a8de8&deepLink=true&77926330 swfUrl=http://s.delvenetworks.com/deployments/flash-player/flash-player-5.6.2.swf?ldr=ldr</link>
-<thumbnail>http://static.shahid.mbc.net/imagery/0/52304/1_150_84_9_1380151861.jpg</thumbnail>
-</item>
-
-<item>
-<title>Episodio 12</title> 
-<link>rtmpe://mbc3.csl.delvenetworks.com/a6344/v1/ playpath=mp4:media/2fda1d3fd7ab453cad983544e8ed70e4/8a53ed5e450e4ba19fda077394ed16ae/6fe6bb6e79674f41a6b666981dc12472/tahoun_alshar_s02_e12_new_vod.mp4  pageURL=http://assets.delvenetworks.com/player/fp10loader.swf?allowEmbed=true&allowSharePanel=true&allowHttpDownload=&startQuality=200&mediaId=8a53ed5e450e4ba19fda077394ed16ae&autoplay=true&playerForm=64fc5d4a5f47400fac523fba125a8de8&deepLink=true&77926330 swfUrl=http://s.delvenetworks.com/deployments/flash-player/flash-player-5.6.2.swf?ldr=ldr</link>
-<thumbnail>http://static.shahid.mbc.net/imagery/0/52340/1_150_84_9_1380206521.jpg</thumbnail>
-</item>
-
-<item>
-<title>Episodio 13</title> 
-<link>rtmpe://mbc3.csl.delvenetworks.com/a6344/v1/ playpath=mp4:media/2fda1d3fd7ab453cad983544e8ed70e4/ff0b64546ac04796ab1bc785677467e9/b80f2c93181b47a088c2a577a3abb3ec/tahoun_alshar_s02_e13_new_vod.mp4  pageURL=http://assets.delvenetworks.com/player/fp10loader.swf?allowEmbed=true&allowSharePanel=true&allowHttpDownload=&startQuality=200&mediaId=08e681cdd644444e8cedd2507d027a1a&autoplay=true&playerForm=64fc5d4a5f47400fac523fba125a8de8&deepLink=true&77926330 swfUrl=http://s.delvenetworks.com/deployments/flash-player/flash-player-5.6.2.swf?ldr=ldr</link>
-<thumbnail>http://static.shahid.mbc.net/imagery/0/52438/1_150_84_9_1380475502.jpg</thumbnail>
-</item>
-
-<item>
-<title>Episodio 14</title> 
-<link>rtmpe://mbc3.csl.delvenetworks.com/a6344/v1/ playpath=mp4:media/2fda1d3fd7ab453cad983544e8ed70e4/13ca986236ac4e4097345bb1d7f93c8e/516ff2692d094490b8f72402115d7d99/tahoun_alshar_s02_e14_new_vod.mp4  pageURL=http://assets.delvenetworks.com/player/fp10loader.swf?allowEmbed=true&allowSharePanel=true&allowHttpDownload=&startQuality=200&mediaId=08e681cdd644444e8cedd2507d027a1a&autoplay=true&playerForm=64fc5d4a5f47400fac523fba125a8de8&deepLink=true&77926330 swfUrl=http://s.delvenetworks.com/deployments/flash-player/flash-player-5.6.2.swf?ldr=ldr</link>
-<thumbnail>http://static.shahid.mbc.net/imagery/0/52484/1_150_84_9_1380549181.jpg</thumbnail>
-</item>
-
-<item>
-<title>Episodio 15</title> 
-<link>rtmpe://mbc3.csl.delvenetworks.com/a6344/v1/ playpath=mp4:media/2fda1d3fd7ab453cad983544e8ed70e4/18984f916fc84c15bfe2a0c43ae020e2/8934ba925a3744f7a9f1525bf39a7b7b/tahoun_alshar_s02_e15_new_vod.mp4  pageURL=http://assets.delvenetworks.com/player/fp10loader.swf?allowEmbed=true&allowSharePanel=true&allowHttpDownload=&startQuality=200&mediaId=08e681cdd644444e8cedd2507d027a1a&autoplay=true&playerForm=64fc5d4a5f47400fac523fba125a8de8&deepLink=true&77926330 swfUrl=http://s.delvenetworks.com/deployments/flash-player/flash-player-5.6.2.swf?ldr=ldr</link>
-<thumbnail>http://static.shahid.mbc.net/imagery/0/52560/1_150_84_9_1380642541.jpg</thumbnail>
-</item>
-
-<item>
-<title>Episodio 16</title> 
-<link>rtmpe://mbc3.csl.delvenetworks.com/a6344/v1/ playpath=mp4:media/2fda1d3fd7ab453cad983544e8ed70e4/0cbb050ed37a4170b1fe0738e5f963dd/c65ce6fa3b5749ae8498e30e25608bd0/tahoun_alshar_s02_e16_new_vod.mp4  pageURL=http://assets.delvenetworks.com/player/fp10loader.swf?allowEmbed=true&allowSharePanel=true&allowHttpDownload=&startQuality=200&mediaId=08e681cdd644444e8cedd2507d027a1a&autoplay=true&playerForm=64fc5d4a5f47400fac523fba125a8de8&deepLink=true&77926330 swfUrl=http://s.delvenetworks.com/deployments/flash-player/flash-player-5.6.2.swf?ldr=ldr</link>
-<thumbnail>http://static.shahid.mbc.net/imagery/0/52604/1_150_84_9_1380722701.jpg</thumbnail>
-</item>
-
-<item>
-<title>Episodio 17</title> 
-<link>rtmpe://mbc3.csl.delvenetworks.com/a6344/v1/ playpath=mp4:media/2fda1d3fd7ab453cad983544e8ed70e4/35fe7df92f65447bb380b946daab0905/403e2a2544c24dc0a69a81bb08254d4f/tahoun_alshar_s02_e17_new_vod.mp4  pageURL=http://assets.delvenetworks.com/player/fp10loader.swf?allowEmbed=true&allowSharePanel=true&allowHttpDownload=&startQuality=200&mediaId=08e681cdd644444e8cedd2507d027a1a&autoplay=true&playerForm=64fc5d4a5f47400fac523fba125a8de8&deepLink=true&77926330 swfUrl=http://s.delvenetworks.com/deployments/flash-player/flash-player-5.6.2.swf?ldr=ldr</link>
-<thumbnail>http://static.shahid.mbc.net/imagery/0/52633/1_150_84_9_1380787561.jpg</thumbnail>
-</item>
-
-<item>
-<title>Episodio 18</title> 
-<link>rtmpe://mbc3.csl.delvenetworks.com/a6344/v1/ playpath=mp4:media/2fda1d3fd7ab453cad983544e8ed70e4/9bd62675ddf84532bc3b124eda9aa05d/a780553d5c2044028a78069149abceb7/tahoun_alshar_s02_e18_new_vod.mp4  pageURL=http://assets.delvenetworks.com/player/fp10loader.swf?allowEmbed=true&allowSharePanel=true&allowHttpDownload=&startQuality=200&mediaId=08e681cdd644444e8cedd2507d027a1a&autoplay=true&playerForm=64fc5d4a5f47400fac523fba125a8de8&deepLink=true&77926330 swfUrl=http://s.delvenetworks.com/deployments/flash-player/flash-player-5.6.2.swf?ldr=ldr</link>
-<thumbnail>http://static.shahid.mbc.net/imagery/0/52764/1_150_84_9_1381074661.jpg</thumbnail>
-</item>
-
-<item>
-<title>Episodio 19</title> 
-<link>rtmpe://mbc3.csl.delvenetworks.com/a6344/v1/ playpath=mp4:media/2fda1d3fd7ab453cad983544e8ed70e4/bf4b796cff68484a9fd30eaaef87b7d7/358e6a83979947ff8c448b4a2bedc456/tahoun_alshar_s02_e19_new_vod.mp4  pageURL=http://assets.delvenetworks.com/player/fp10loader.swf?allowEmbed=true&allowSharePanel=true&allowHttpDownload=&startQuality=200&mediaId=08e681cdd644444e8cedd2507d027a1a&autoplay=true&playerForm=64fc5d4a5f47400fac523fba125a8de8&deepLink=true&77926330 swfUrl=http://s.delvenetworks.com/deployments/flash-player/flash-player-5.6.2.swf?ldr=ldr</link>
-<thumbnail>http://static.shahid.mbc.net/imagery/0/52797/1_150_84_9_1381135441.jpg</thumbnail>
-</item>
-
-<item>
-<title>Episodio 20</title> 
-<link>rtmpe://mbc3.csl.delvenetworks.com/a6344/v1/ playpath=mp4:media/2fda1d3fd7ab453cad983544e8ed70e4/4fe5a9d3c19c49a5adba8f96e60c760b/0ffcc229d86c4d64ae19e3e3c89c25c5/tahoun_alshar_s02_e20_new_vod.mp4  pageURL=http://assets.delvenetworks.com/player/fp10loader.swf?allowEmbed=true&allowSharePanel=true&allowHttpDownload=&startQuality=200&mediaId=08e681cdd644444e8cedd2507d027a1a&autoplay=true&playerForm=64fc5d4a5f47400fac523fba125a8de8&deepLink=true&77926330 swfUrl=http://s.delvenetworks.com/deployments/flash-player/flash-player-5.6.2.swf?ldr=ldr</link>
-<thumbnail>http://static.shahid.mbc.net/imagery/0/52840/1_150_84_9_1381155361.jpg</thumbnail>
-</item>
-
-<item>
-<title>Episodio 21</title> 
-<link>rtmpe://mbc3.csl.delvenetworks.com/a6344/v1/ playpath=mp4:media/2fda1d3fd7ab453cad983544e8ed70e4/7e59f25a1a4c4907bdd9c3943cbef161/2d7b515df0ba4cc3b06733ec13b16939/tahoun_alshar_s02_e21_vod.mp4  pageURL=http://assets.delvenetworks.com/player/fp10loader.swf?allowEmbed=true&allowSharePanel=true&allowHttpDownload=&startQuality=200&mediaId=08e681cdd644444e8cedd2507d027a1a&autoplay=true&playerForm=64fc5d4a5f47400fac523fba125a8de8&deepLink=true&77926330 swfUrl=http://s.delvenetworks.com/deployments/flash-player/flash-player-5.6.2.swf?ldr=ldr</link>
-<thumbnail>http://static.shahid.mbc.net/imagery/0/52963/1_150_84_9_1381334402.jpg</thumbnail>
-</item>
-
-<item>
-<title>Episodio 22</title> 
-<link>rtmpe://mbc3.csl.delvenetworks.com/a6344/v1/ playpath=mp4:media/2fda1d3fd7ab453cad983544e8ed70e4/c786840634174f2c85c80665f1985898/00f5fba52b65479f85fb5888bf1570a2/tahoun_alshar_s02_e22_vod.mp4  pageURL=http://assets.delvenetworks.com/player/fp10loader.swf?allowEmbed=true&allowSharePanel=true&allowHttpDownload=&startQuality=200&mediaId=08e681cdd644444e8cedd2507d027a1a&autoplay=true&playerForm=64fc5d4a5f47400fac523fba125a8de8&deepLink=true&77926330 swfUrl=http://s.delvenetworks.com/deployments/flash-player/flash-player-5.6.2.swf?ldr=ldr</link>
-<thumbnail>http://static.shahid.mbc.net/imagery/0/53029/1_150_84_9_1381417562.jpg</thumbnail>
-</item>
-
-<item>
-<title>Episodio 23</title> 
-<link>rtmpe://mbc3.csl.delvenetworks.com/a6344/v1/ playpath=mp4:media/2fda1d3fd7ab453cad983544e8ed70e4/04a008644b834b9e9f0a5fd18344e26c/8470ffad46ec4714ba420860ae65795e/tahoun_alshar_s02_e23.mp4  pageURL=http://assets.delvenetworks.com/player/fp10loader.swf?allowEmbed=true&allowSharePanel=true&allowHttpDownload=&startQuality=200&mediaId=08e681cdd644444e8cedd2507d027a1a&autoplay=true&playerForm=64fc5d4a5f47400fac523fba125a8de8&deepLink=true&77926330 swfUrl=http://s.delvenetworks.com/deployments/flash-player/flash-player-5.6.2.swf?ldr=ldr</link>
-<thumbnail>http://static.shahid.mbc.net/imagery/0/53145/1_150_84_9_1381679701.jpg</thumbnail>
-</item>
-
-<item>
-<title>Episodio 24</title> 
-<link>rtmpe://mbc3.csl.delvenetworks.com/a6344/v1/ playpath=mp4:media/2fda1d3fd7ab453cad983544e8ed70e4/2fb473db0de84d0a99bd4ce4d8b9b7f1/a9225f8ebe1348329f1a4dc21941c532/tahoun_alshar_s02_e24.mp4  pageURL=http://assets.delvenetworks.com/player/fp10loader.swf?allowEmbed=true&allowSharePanel=true&allowHttpDownload=&startQuality=200&mediaId=08e681cdd644444e8cedd2507d027a1a&autoplay=true&playerForm=64fc5d4a5f47400fac523fba125a8de8&deepLink=true&77926330 swfUrl=http://s.delvenetworks.com/deployments/flash-player/flash-player-5.6.2.swf?ldr=ldr</link>
-<thumbnail>http://static.shahid.mbc.net/imagery/0/53252/1_150_84_9_1381856641.jpg</thumbnail>
-</item>
-
-<item>
-<title>Episodio 25</title> 
-<link>rtmpe://mbc3.csl.delvenetworks.com/a6344/v1/ playpath=mp4:media/2fda1d3fd7ab453cad983544e8ed70e4/807cf6058d024da0a1eba842a73d5167/6d37d13566a94f33aa8f4b8b7e68f1e2/tahoun_alshar_s02_e25.mp4  pageURL=http://assets.delvenetworks.com/player/fp10loader.swf?allowEmbed=true&allowSharePanel=true&allowHttpDownload=&startQuality=200&mediaId=08e681cdd644444e8cedd2507d027a1a&autoplay=true&playerForm=64fc5d4a5f47400fac523fba125a8de8&deepLink=true&77926330 swfUrl=http://s.delvenetworks.com/deployments/flash-player/flash-player-5.6.2.swf?ldr=ldr</link>
-<thumbnail>http://static.shahid.mbc.net/imagery/0/53271/1_150_84_9_1381940761.jpg</thumbnail>
-</item>
-
-<item>
-<title>Episodio 26</title> 
-<link>rtmpe://mbc3.csl.delvenetworks.com/a6344/v1/ playpath=mp4:media/2fda1d3fd7ab453cad983544e8ed70e4/7ca612c8c3a14cac993d1d8f5c04ea67/0dbf21ae843345f28e7d496c801c64f8/tahoun_alshar_s02_e26.mp4  pageURL=http://assets.delvenetworks.com/player/fp10loader.swf?allowEmbed=true&allowSharePanel=true&allowHttpDownload=&startQuality=200&mediaId=08e681cdd644444e8cedd2507d027a1a&autoplay=true&playerForm=64fc5d4a5f47400fac523fba125a8de8&deepLink=true&77926330 swfUrl=http://s.delvenetworks.com/deployments/flash-player/flash-player-5.6.2.swf?ldr=ldr</link>
-<thumbnail>http://static.shahid.mbc.net/imagery/0/53274/1_150_84_9_1381950481.jpg</thumbnail>
-</item>
-
-<item>
-<title>Episodio 27</title> 
-<link>rtmpe://mbc3.csl.delvenetworks.com/a6344/v1/ playpath=mp4:media/2fda1d3fd7ab453cad983544e8ed70e4/62465ce86bf04bb49302d81405e86913/b3b5ac7cc3514d1ba5b6acd2b5fe202b/tahoun_alshar_s02_e27_vod.mp4  pageURL=http://assets.delvenetworks.com/player/fp10loader.swf?allowEmbed=true&allowSharePanel=true&allowHttpDownload=&startQuality=200&mediaId=08e681cdd644444e8cedd2507d027a1a&autoplay=true&playerForm=64fc5d4a5f47400fac523fba125a8de8&deepLink=true&77926330 swfUrl=http://s.delvenetworks.com/deployments/flash-player/flash-player-5.6.2.swf?ldr=ldr</link>
-<thumbnail>http://static.shahid.mbc.net/imagery/0/53390/1_150_84_9_1382282402.jpg</thumbnail>
-</item>
-
-<item>
-<title>Episodio 28</title> 
-<link>rtmpe://mbc3.csl.delvenetworks.com/a6344/v1/ playpath=mp4:media/2fda1d3fd7ab453cad983544e8ed70e4/9d3d144c9c2d489b96c493dffafa2c72/3adb38cd9a324dcc94f83cf671910f75/tahoun_al_shar_s02_e28_vod.mp4  pageURL=http://assets.delvenetworks.com/player/fp10loader.swf?allowEmbed=true&allowSharePanel=true&allowHttpDownload=&startQuality=200&mediaId=08e681cdd644444e8cedd2507d027a1a&autoplay=true&playerForm=64fc5d4a5f47400fac523fba125a8de8&deepLink=true&77926330 swfUrl=http://s.delvenetworks.com/deployments/flash-player/flash-player-5.6.2.swf?ldr=ldr</link>
-<thumbnail>http://static.shahid.mbc.net/imagery/0/53457/1_150_84_9_1382370781.jpg</thumbnail>
-</item>
-
-<item>
-<title>Episodio 29</title> 
-<link>rtmpe://mbc3.csl.delvenetworks.com/a6344/v1/ playpath=mp4:media/2fda1d3fd7ab453cad983544e8ed70e4/db718a2fa3354ab99bfd6c80f07d4770/363ce4de0f76459f8b72dbd34d3f78f7/tahoun_al_shar_s02_e29_vod.mp4  pageURL=http://assets.delvenetworks.com/player/fp10loader.swf?allowEmbed=true&allowSharePanel=true&allowHttpDownload=&startQuality=200&mediaId=08e681cdd644444e8cedd2507d027a1a&autoplay=true&playerForm=64fc5d4a5f47400fac523fba125a8de8&deepLink=true&77926330 swfUrl=http://s.delvenetworks.com/deployments/flash-player/flash-player-5.6.2.swf?ldr=ldr</link>
-<thumbnail>http://static.shahid.mbc.net/imagery/0/53508/1_150_84_9_1382476322.jpg</thumbnail>
-</item>
-
-<item>
-<title>Episodio 30</title> 
-<link>rtmpe://mbc3.csl.delvenetworks.com/a6344/v1/ playpath=mp4:media/2fda1d3fd7ab453cad983544e8ed70e4/c8d7977ed4bb41889b0f63ed97ab5e1f/320b43c2655447dbb020c3fe6e6d0808/tahoun_al_shar_s02_e30_vod.mp4  pageURL=http://assets.delvenetworks.com/player/fp10loader.swf?allowEmbed=true&allowSharePanel=true&allowHttpDownload=&startQuality=200&mediaId=08e681cdd644444e8cedd2507d027a1a&autoplay=true&playerForm=64fc5d4a5f47400fac523fba125a8de8&deepLink=true&77926330 swfUrl=http://s.delvenetworks.com/deployments/flash-player/flash-player-5.6.2.swf?ldr=ldr</link>
-<thumbnail>http://static.shahid.mbc.net/imagery/0/53694/1_150_84_9_1382881081.jpg</thumbnail>
-</item>
-
-<item>
-<title>Episodio 31</title> 
-<link>rtmpe://mbc3.csl.delvenetworks.com/a6344/v1/ playpath=mp4:media/2fda1d3fd7ab453cad983544e8ed70e4/d5920e2ccadf486696ceaedd10aa9af7/bb2d04ffdc65408e94abbf44a49e8c2f/tahoun_al_shar_s02_e31_vod.mp4  pageURL=http://assets.delvenetworks.com/player/fp10loader.swf?allowEmbed=true&allowSharePanel=true&allowHttpDownload=&startQuality=200&mediaId=08e681cdd644444e8cedd2507d027a1a&autoplay=true&playerForm=64fc5d4a5f47400fac523fba125a8de8&deepLink=true&77926330 swfUrl=http://s.delvenetworks.com/deployments/flash-player/flash-player-5.6.2.swf?ldr=ldr</link>
-<thumbnail>http://static.shahid.mbc.net/imagery/0/53596/1_150_84_9_1382626681.jpg</thumbnail>
-</item>
-
-<item>
-<title>Episodio 32</title> 
-<link>rtmpe://mbc3.csl.delvenetworks.com/a6344/v1/ playpath=mp4:media/2fda1d3fd7ab453cad983544e8ed70e4/a604f947396a4265985946cae72ef87e/25101ecb93454dd19a07177a78896e2b/tahoun_al_shar_s02_e32_vod.mp4  pageURL=http://assets.delvenetworks.com/player/fp10loader.swf?allowEmbed=true&allowSharePanel=true&allowHttpDownload=&startQuality=200&mediaId=08e681cdd644444e8cedd2507d027a1a&autoplay=true&playerForm=64fc5d4a5f47400fac523fba125a8de8&deepLink=true&77926330 swfUrl=http://s.delvenetworks.com/deployments/flash-player/flash-player-5.6.2.swf?ldr=ldr</link>
-<thumbnail>http://static.shahid.mbc.net/imagery/0/53696/1_150_84_9_1382883061.jpg</thumbnail>
-</item>
-
-<item>
-<title>Episodio 33</title> 
-<link>rtmpe://mbc3.csl.delvenetworks.com/a6344/v1/ playpath=mp4:media/2fda1d3fd7ab453cad983544e8ed70e4/962cdce1eedb4f6b8e58b533d5c785df/1c5cfdfe630643d287641376135da954/tahoun_al_shar_s02_e33_vod.mp4  pageURL=http://assets.delvenetworks.com/player/fp10loader.swf?allowEmbed=true&allowSharePanel=true&allowHttpDownload=&startQuality=200&mediaId=08e681cdd644444e8cedd2507d027a1a&autoplay=true&playerForm=64fc5d4a5f47400fac523fba125a8de8&deepLink=true&77926330 swfUrl=http://s.delvenetworks.com/deployments/flash-player/flash-player-5.6.2.swf?ldr=ldr</link>
-<thumbnail>http://static.shahid.mbc.net/imagery/0/53748/1_150_84_9_1382975881.jpg</thumbnail>
-</item>
-
-<item>
-<title>Episodio 34</title> 
-<link>rtmpe://mbc3.csl.delvenetworks.com/a6344/v1/ playpath=mp4:media/2fda1d3fd7ab453cad983544e8ed70e4/f682ccbceb1f4c578b9f7e6d7e882245/8f0585f2e7d94a60be60426ac60eaac7/tahoun_al_shar_s02_e34_vod.mp4  pageURL=http://assets.delvenetworks.com/player/fp10loader.swf?allowEmbed=true&allowSharePanel=true&allowHttpDownload=&startQuality=200&mediaId=08e681cdd644444e8cedd2507d027a1a&autoplay=true&playerForm=64fc5d4a5f47400fac523fba125a8de8&deepLink=true&77926330 swfUrl=http://s.delvenetworks.com/deployments/flash-player/flash-player-5.6.2.swf?ldr=ldr</link>
-<thumbnail>http://static.shahid.mbc.net/imagery/0/53779/1_150_84_9_1383059161.jpg</thumbnail>
-</item>
-
-<item>
-<title>Episodio 35</title> 
-<link>rtmpe://mbc3.csl.delvenetworks.com/a6344/v1/ playpath=mp4:media/2fda1d3fd7ab453cad983544e8ed70e4/c488805e970345baade8fdce8d6b9dfa/66e189a002834ef0ab2999ab475c914e/tahoun_al_shar_s02_e35_vod.mp4  pageURL=http://assets.delvenetworks.com/player/fp10loader.swf?allowEmbed=true&allowSharePanel=true&allowHttpDownload=&startQuality=200&mediaId=08e681cdd644444e8cedd2507d027a1a&autoplay=true&playerForm=64fc5d4a5f47400fac523fba125a8de8&deepLink=true&77926330 swfUrl=http://s.delvenetworks.com/deployments/flash-player/flash-player-5.6.2.swf?ldr=ldr</link>
-<thumbnail>http://static.shahid.mbc.net/imagery/0/53815/1_150_84_9_1383164942.jpg</thumbnail>
-</item>
-
-<item>
-<title>Episodio 36</title> 
-<link>rtmpe://mbc3.csl.delvenetworks.com/a6344/v1/ playpath=mp4:media/2fda1d3fd7ab453cad983544e8ed70e4/487fc47ffad84019aa7c242b7998fc3f/13093768796f43f291934d881bfe9a39/tahoun_al_shar_s02_e36_vod.mp4  pageURL=http://assets.delvenetworks.com/player/fp10loader.swf?allowEmbed=true&allowSharePanel=true&allowHttpDownload=&startQuality=200&mediaId=08e681cdd644444e8cedd2507d027a1a&autoplay=true&playerForm=64fc5d4a5f47400fac523fba125a8de8&deepLink=true&77926330 swfUrl=http://s.delvenetworks.com/deployments/flash-player/flash-player-5.6.2.swf?ldr=ldr</link>
-<thumbnail>http://static.shahid.mbc.net/imagery/0/53836/1_150_84_9_1383234781.jpg</thumbnail>
-</item>
 </items>
 </channel>
 
