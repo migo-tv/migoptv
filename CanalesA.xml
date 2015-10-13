@@ -1,38 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
-<channels>
-
-
-
-	
-	
 <channel>
-<name>ROTANA Radio</name>
-<thumbnail>http://i.imgur.com/gt32Xz0.jpg</thumbnail>
-<items>
+
+
+
+	
 
 <item>
-<title>1</title> 
+<title>ROTANA</title> 
 <link>http://188.247.86.67:8002/2
 http://188.247.86.67:8002/3
 http://188.247.86.67:8002/1</link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/gt32Xz0.jpg</thumbnail>
 </item>
 
-<item>
-<title>2</title> 
-<link>http://opml.radiotime.com/Tune.ashx?id=s93633</link>
-<thumbnail></thumbnail>
-</item>
 
-<item>
-<title>3</title> 
-<link>mms://stream.rotanaradio.fm/rotanahifi</link>
-<thumbnail></thumbnail>
-</item>
-
-</items>
 </channel>
 
 
@@ -40,131 +23,3 @@ http://188.247.86.67:8002/1</link>
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<channel>
-<name>Arabs Got Talent 3</name>
-<thumbnail>http://www.pixentral.com/pics/1IWHtew8p1XtpA5w6opKf9WcIZgznK0.jpg</thumbnail>
-<items>
-
-<item>
-<title>ROTANA 1</title> 
-<link>rtmp://188.247.86.66/RotanaRadio/Audio64 playpath=movie  pageURL=http://www.rotanaradio.jo swfUrl=http://fpdownload.adobe.com/strobe/FlashMediaPlayback.swf streamType=live</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Episodio 2</title> 
-<link>rtmpe://mbc3.csl.delvenetworks.com/a6344/v1/ playpath=mp4:  pageURL=http://assets.delvenetworks.com/player/fp10loader.swf?allowEmbed=true&allowSharePanel=true&allowHttpDownload=&startQuality=200&mediaId=08e681cdd644444e8cedd2507d027a1a&autoplay=true&playerForm=64fc5d4a5f47400fac523fba125a8de8&deepLink=true&77926330 swfUrl=http://s.delvenetworks.com/deployments/flash-player/flash-player-5.6.2.swf?ldr=ldr</link>
-<thumbnail>http://static.shahid.mbc.net/imagery/0/52055/1_150_84_9_1379780641.jpg</thumbnail>
-</item>
-
-<item>
-<title>Episodio 3</title> 
-<link>rtmpe://mbc3.csl.delvenetworks.com/a6344/v1/ playpath=mp4:  pageURL=http://assets.delvenetworks.com/player/fp10loader.swf?allowEmbed=true&allowSharePanel=true&allowHttpDownload=&startQuality=200&mediaId=08e681cdd644444e8cedd2507d027a1a&autoplay=true&playerForm=64fc5d4a5f47400fac523fba125a8de8&deepLink=true&77926330 swfUrl=http://s.delvenetworks.com/deployments/flash-player/flash-player-5.6.2.swf?ldr=ldr</link>
-<thumbnail>http://static.shahid.mbc.net/imagery/0/52414/1_150_84_9_1380402961.jpg</thumbnail>
-</item>
-
-<item>
-<title>Episodio 4</title> 
-<link>rtmpe://mbc3.csl.delvenetworks.com/a6344/v1/ playpath=mp4:  pageURL=http://assets.delvenetworks.com/player/fp10loader.swf?allowEmbed=true&allowSharePanel=true&allowHttpDownload=&startQuality=200&mediaId=08e681cdd644444e8cedd2507d027a1a&autoplay=true&playerForm=64fc5d4a5f47400fac523fba125a8de8&deepLink=true&77926330 swfUrl=http://s.delvenetworks.com/deployments/flash-player/flash-player-5.6.2.swf?ldr=ldr</link>
-<thumbnail>http://static.shahid.mbc.net/imagery/0/52839/1_150_84_9_1381155061.jpg</thumbnail>
-</item>
-
-<item>
-<title>Episodio 5</title> 
-<link>rtmpe://mbc3.csl.delvenetworks.com/a6344/v1/ playpath=mp4:  pageURL=http://assets.delvenetworks.com/player/fp10loader.swf?allowEmbed=true&allowSharePanel=true&allowHttpDownload=&startQuality=200&mediaId=08e681cdd644444e8cedd2507d027a1a&autoplay=true&playerForm=64fc5d4a5f47400fac523fba125a8de8&deepLink=true&77926330 swfUrl=http://s.delvenetworks.com/deployments/flash-player/flash-player-5.6.2.swf?ldr=ldr</link>
-<thumbnail>http://static.shahid.mbc.net/imagery/0/53103/1_150_84_9_1381606442.jpg</thumbnail>
-</item>
-
-<item>
-<title>Episodio 6</title> 
-<link>rtmpe://mbc3.csl.delvenetworks.com/a6344/v1/ playpath=mp4:  pageURL=http://assets.delvenetworks.com/player/fp10loader.swf?allowEmbed=true&allowSharePanel=true&allowHttpDownload=&startQuality=200&mediaId=08e681cdd644444e8cedd2507d027a1a&autoplay=true&playerForm=64fc5d4a5f47400fac523fba125a8de8&deepLink=true&77926330 swfUrl=http://s.delvenetworks.com/deployments/flash-player/flash-player-5.6.2.swf?ldr=ldr</link>
-<thumbnail>http://static.shahid.mbc.net/imagery/0/53346/1_150_84_9_1382192043.jpg</thumbnail>
-</item>
-
-<item>
-<title>Episodio 7</title> 
-<link>rtmpe://mbc3.csl.delvenetworks.com/a6344/v1/ playpath=mp4:  pageURL=http://assets.delvenetworks.com/player/fp10loader.swf?allowEmbed=true&allowSharePanel=true&allowHttpDownload=&startQuality=200&mediaId=08e681cdd644444e8cedd2507d027a1a&autoplay=true&playerForm=64fc5d4a5f47400fac523fba125a8de8&deepLink=true&77926330 swfUrl=http://s.delvenetworks.com/deployments/flash-player/flash-player-5.6.2.swf?ldr=ldr</link>
-<thumbnail>http://static.shahid.mbc.net/imagery/0/53675/1_150_84_9_1382857141.jpg</thumbnail>
-</item>
-
-<item>
-<title>Episodio 8</title> 
-<link>rtmpe://mbc3.csl.delvenetworks.com/a6344/v1/ playpath=mp4:  pageURL=http://assets.delvenetworks.com/player/fp10loader.swf?allowEmbed=true&allowSharePanel=true&allowHttpDownload=&startQuality=200&mediaId=08e681cdd644444e8cedd2507d027a1a&autoplay=true&playerForm=64fc5d4a5f47400fac523fba125a8de8&deepLink=true&77926330 swfUrl=http://s.delvenetworks.com/deployments/flash-player/flash-player-5.6.2.swf?ldr=ldr</link>
-<thumbnail>http://static.shahid.mbc.net/imagery/0/54104/1_150_84_9_1383924781.jpg</thumbnail>
-</item>
-
-<item>
-<title>Episodio 9</title> 
-<link>rtmpe://mbc3.csl.delvenetworks.com/a6344/v1/ playpath=mp4:media/2fda1d3fd7ab453cad983544e8ed70e4/5e72347717b14c639993c5c1786d982f/0e6630d76b994d059364bf8d6c58c05d/arabs_got_talent_s03_e03_vod.mp4  pageURL=http://assets.delvenetworks.com/player/fp10loader.swf?allowEmbed=true&allowSharePanel=true&allowHttpDownload=&startQuality=200&mediaId=08e681cdd644444e8cedd2507d027a1a&autoplay=true&playerForm=64fc5d4a5f47400fac523fba125a8de8&deepLink=true&77926330 swfUrl=http://s.delvenetworks.com/deployments/flash-player/flash-player-5.6.2.swf?ldr=ldr</link>
-<thumbnail>http://static.shahid.mbc.net/imagery/0/53901/1_150_84_9_1383431402.jpg</thumbnail>
-</item>
-
-<item>
-<title>Episodio 10</title> 
-<link>rtmpe://mbc3.csl.delvenetworks.com/a6344/v1/mp4:media/2fda1d3fd7ab453cad983544e8ed70e4/f395712d203146bfb6c773330ea161bc/1e6e369d8125435c91d3006391a208f9/hob_fi_mahab_al_reeh_s03_e01.mp4</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Episodio 11</title> 
-<link>rtmpe://mbc3.csl.delvenetworks.com/a6344/v1/mp4:media/2fda1d3fd7ab453cad983544e8ed70e4/0c0d5121b14c4d5eb46752981de067af/16c00e0bcd074aa6b48fc652fa0945b8/al_arraf_s01_e26.mp4</link>
-<thumbnail>http://shahid.mbc.net/mediaObject/thumbs/Hob_fi_mahab-alreeh/Ep01/original/Ep01.jpg</thumbnail>
-</item>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</items>
-</channel>
-<channel>
-<name>THE Voice S02</name>
-<thumbnail>http://www.pixentral.com/pics/1jbM3Xc0mxoihEPXPG0SUhy3hUaLXS1.jpg</thumbnail>
-<items>
-
-<item>
-<title>THE VOICE E01</title>
-<link>rtmpe://mbc3.csl.delvenetworks.com/a6344/v1/ playpath=mp4:media/2fda1d3fd7ab453cad983544e8ed70e4/6868d1e486034d7180ddcc31af84f5d0/105bb52737ca43a2aff9e5e5398c8e21/the-voice_s02_e01_vod.mp4?e=1394398844&h=ed2e25c6f9dc4bc5f0ee8d80adf94a3e swfUrl=swfUrl=http://s.delvenetworks.com/deployments/player/player-3.37.5.12.swf pageUrl=http://live.1hd.ro/</link>
-<thumbnail>http://shahid.mbc.net/mediaObject/thumbs/The-Voice/THE-VOICE_S02_E01_THUMB/resolutions/res-222x126/THE-VOICE_S02_E01_THUMB.jpg</thumbnail>
-</item>
-
-<item>
-<title>THE VOICE E02</title>
-<link>rtmpe://mbc3.csl.delvenetworks.com/a6344/v1/ playpath=mp4:media/2fda1d3fd7ab453cad983544e8ed70e4/971f0c816b9a4ffc88b83a0ebb5f8677/fcae8938392f4024b4163e08ffb3addf/the-voice_s02_e02_vod.mp4?e=1394399165&h=9d222e195ae2bde7de80f9a0e6d2f9e2 swfUrl=swfUrl=http://s.delvenetworks.com/deployments/player/player-3.37.5.12.swf pageUrl=http://live.1hd.ro/</link>
-<thumbnail>http://shahid.mbc.net/mediaObject/thumbs/The-Voice/the-voice2/resolutions/res-222x126/the-voice2.jpg</thumbnail>
-</item>
-
-
-</items>
-</channel>
-
-
-
-</channels>
