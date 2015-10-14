@@ -4,9 +4,18 @@
 <channel>
 
 
+<item>
+<title>Rotana Style</title> 
+<link>http://167.114.131.90:5380/;</link>
+<thumbnail>http://i.imgur.com/Z5Q9PVk.jpg</thumbnail>
+</item>
 
+<item>
+<title>Al Madina FM</title> 
+<link>http://192.99.17.12:6015/;</link>
+<thumbnail>http://i.imgur.com/6nF3Ydo.jpg</thumbnail>
+</item>
 	
-
 <item>
 <title>ROTANA</title> 
 <link>http://188.247.86.67:8002/2
