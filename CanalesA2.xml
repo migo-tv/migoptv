@@ -5,7 +5,7 @@
 
 
 
-	
+<channel>	
 	
 	
 	
@@ -355,3 +355,5 @@
 <link>http://lv004.cdn.lbcdn.com/live/m3u8/CBCSofra.m3u8?__token__=ip=190.38.123.201~exp=2909937722~acl=*~data=1351~hmac=04433bde8a629aa633273c93bae9ae702e32e1e7235df139c7a25c051f11f2ab</link>
 <thumbnail></thumbnail>
 </item>
+
+</channel>
