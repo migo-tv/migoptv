@@ -356,6 +356,30 @@
 <thumbnail></thumbnail>
 </item>
 
+<item>
+<title>CBC Drama 1[COLOR=FF00FF00]HD[/COLOR]</title> 
+<link>http://lv004.cdn.lbcdn.com/live/m3u8/CBCDrama.m3u8?bccdeb79adf4199059baa6fd5ceba239853f8a32e98c7aff4f240ad74f71be45745bb6e300d7af576f6d26d3f3f40605aef3756c253dc6992c915cf665692fe4e1598069f421dcf067c11746caef</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>CBC Drama 2[COLOR=FF00FF00]HD[/COLOR]</title> 
+<link>http://lv004.cdn.lbcdn.com/live/m3u8/CBCDrama.m3u8?__token__=ip=190.38.123.201~exp=2909937722~acl=*~data=1351~hmac=04433bde8a629aa633273c93bae9ae702e32e1e7235df139c7a25c051f11f2ab</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>CBC Drama 3[COLOR=FF00FF00]HD[/COLOR]</title> 
+<link>http://lv004.cdn03.greek.zaaptv.com/live/m3u8/CBCDrama.m3u8?__token__=ip=190.38.123.201~exp=2909937722~acl=/live/m3u8/CBCDrama.m3u8*~hmac=04433bde8a629aa633273c93bae9ae702e32e1e7235df139c7a25c051f11f2ab</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>CBC Drama 4[COLOR=FF00FF00]HD[/COLOR]</title> 
+<link>http://lv004.cdn03.greek.zaaptv.com/live/m3u8/CBCDrama.m3u8?bccdeb79adf4199059baa6fd5ceba239853f8a32e98c7aff4f240ad74f71be45745bb6e300d7af576f6d26d3f3f40605aef3756c253dc6992c915cf665692fe4e1598069f421dcf067c11746caef</link>
+<thumbnail></thumbnail>
+</item>
+
 
 
 </channel>
