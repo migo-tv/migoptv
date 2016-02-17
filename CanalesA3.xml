@@ -20,9 +20,22 @@
 
 <item>
 <title>Syria Drama [COLOR=FF00FF00]HD[/COLOR]</title> 
-<link>http://lv003.cdn.lbcdn.com/live/m3u8/syriadram.m3u8?__token__=ip=190.38.123.201~exp=1455758289~acl=*~data=1351~hmac=a9744c4f726e21c1527566bc71f1c96f8dd2c2f48373aa40d38515e997a018ab</link>
+<link>http://lv003.cdn.lbcdn.com/live/m3u8/syriadram.m3u8?__token__=ip=190.38.123.201~exp=1455840191~acl=/live/m3u8/syriadram.m3u8*~hmac=f33515fe3baab98746bb102bd6d7f3d69f49ce6889188a621804b36d24319ec4</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/syria_drama_channel.jpg</thumbnail>
 </item>
+
+<item>
+<title>Syria Drama 2[COLOR=FF00FF00]HD[/COLOR]</title> 
+<link>http://lv003.cdn03.greek.zaaptv.com:80/live/m3u8/syriadram.m3u8?__token__=ip=190.38.123.201~exp=1455840191~acl=/live/m3u8/syriadram.m3u8*~hmac=f33515fe3baab98746bb102bd6d7f3d69f49ce6889188a621804b36d24319ec4</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/syria_drama_channel.jpg</thumbnail>
+</item>
+
+<item>
+<title>Syria Drama 3[COLOR=FF00FF00]HD[/COLOR]</title> 
+<link>http://lv003.cdn.lbcdn.com/live/m3u8/syriadram.m3u8?__token__=ip=190.38.123.201~exp=1455840191~acl=*~data=1351~hmac=f33515fe3baab98746bb102bd6d7f3d69f49ce6889188a621804b36d24319ec4</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/syria_drama_channel.jpg</thumbnail>
+</item>
+
 
 
 <item>
