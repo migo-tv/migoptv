@@ -147,8 +147,14 @@
 
 <item>
 <title>Wahed Men El Nas [COLOR=FF00FF00]HD[/COLOR]</title> 
-<link>http://lb.lbcdn.com:1935/vod/_definst_/mp4:vod/A_M_LCE/192_Wahed_Men_El_Nas.mp4/chunklist.m3u8?bccdeb79adf4199059baa6fc55eba239eb6718c3e10c6a87bb05de328737ab9f789677c1c15355d6ee9546cb1d219cd97ede9307576f3345f4a9c6a97c</link>
-<thumbnail></thumbnail>
+<link>http://lb.lbcdn.com:1935/vod/_definst_/mp4:vod/A_M_LCE/192_Wahed_Men_El_Nas.mp4/chunklist.m3u8?bccdeb79adf4199059baa6fc55eba239eb6718c3e10c6a87bb05de328933a195ab5d1861d511b50f818ae1dea366bb4fe3b660575251a95d62527fe21b</link>
+<thumbnail>https://s3-eu-west-1.amazonaws.com/static.prod/storage/26/content/thumbs/564dbaa4-3d7c-4667-9058-4c1fac1f2e8b-WahedMenAlNaszaaptv-cover.jpg</thumbnail>
+</item>
+
+<item>
+<title>Ayez Haki [COLOR=FF00FF00]HD[/COLOR]</title> 
+<link>http://lb.lbcdn.com:1935/vod/_definst_/mp4:vod/A_M_LCE/065_Ayez_Haki.mp4/chunklist.m3u8?bccdeb79adf4199059baa6fc55eba239eb6718c3e10c6a87bb05de328933a195ab5d1861d511b50f818ae1dea366bb4fe3b660575251a95d62527fe21b</link>
+<thumbnail>https://s3-eu-west-1.amazonaws.com/static.prod/storage/26/content/thumbs/5652d829-1adc-4b30-b6f4-3366ac1f2e8b-AyezHakizaaptv-cover.jpg</thumbnail>
 </item>
 
 
