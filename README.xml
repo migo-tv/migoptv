@@ -161,7 +161,7 @@
 
 
 <item>
-<title>                     [COLOR lightblue]   Actualizado: [COLOR orange]10[/COLOR] • Octubre • 2015[/COLOR]      </title>
+<title>                     [COLOR lightblue]   Actualizado: [COLOR orange]19[/COLOR] • Febrero • 2016[/COLOR]      </title>
 <link>https://raw.githubusercontent.com/migo-tv/migoptv/master/README.xml</link><thumbnail></thumbnail><fanart></fanart>
 </item>
 
@@ -185,14 +185,9 @@
 </item>
 <item>
 
-<item>
-<title>[COLOR lime]  •[/COLOR][COLOR deepskyblue]  Canales Arabes [/COLOR]</title>
-<link>http://ignorame</link><thumbnail></thumbnail><fanart></fanart>
-<externallink>https://raw.githubusercontent.com/migo-tv/migoptv/master/CanalesA2.xml</externallink>
-</item>
 
 <item>
-<title>[COLOR lime]  •[/COLOR][COLOR deepskyblue]  Canales Arabes PRUEBA [/COLOR]</title>
+<title>[COLOR lime]  •[/COLOR][COLOR deepskyblue]  Canales Arabes [/COLOR]</title>
 <link>http://ignorame</link><thumbnail></thumbnail><fanart></fanart>
 <externallink>https://raw.githubusercontent.com/migo-tv/migoptv/master/CanalesA3.xml</externallink>
 </item>
@@ -201,7 +196,7 @@
 
 <item>
 <title>             </title>
-<link>http://ignorame</link><thumbnail>http://i.imgur.com/oxTNPnp.png</thumbnail><fanart></fanart>
+<link>http://ignorame</link><thumbnail></thumbnail><fanart></fanart>
 <externallink></externallink>
 </item>
 
@@ -210,7 +205,7 @@
 
 <item>
 <title>        [COLOR orange]  + [/COLOR][COLOR white]Miembro de [B]MiGosTv[/B]  [/COLOR]</title>
-<link>http://ignorame</link><thumbnail>http://i.imgur.com/oxTNPnp.png</thumbnail><fanart></fanart>
+<link>http://ignorame</link><thumbnail></thumbnail><fanart></fanart>
 <externallink></externallink>
 </item>
 
