@@ -50,6 +50,12 @@
 </item>
 
 <item>
+<title>LBC 2 [COLOR=FF00FF00]HD[/COLOR]</title>         
+<link>http://ts002.cdn03.greek.zaaptv.com:80/timeshift/m3u8/H7sKl3SdLBCSAT_delayed_3600.m3u8?__token__=ip=190.38.123.201~exp=1463097677~acl=/timeshift/m3u8/H7sKl3SdLBCSAT_delayed_3600.m3u8*~hmac=9e280bdadeb5187a28917572c00294edfe41753615edf9016295cb43e5b11b3c</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ll/lbc_sat.jpg</thumbnail>
+</item>
+
+<item>
 <title>MTV [COLOR=FF00FF00]HD[/COLOR]</title>
 <link>http://lv003.cdn03.greek.zaaptv.com:80/live/m3u8/H7sKl3SdMtvL.m3u8?__token__=ip=190.38.123.201~exp=1463097677~acl=/live/m3u8/H7sKl3SdMtvL.m3u8*~hmac=8eb82667831896f872d55b3e22ea5bae6c8e6f890e267aba7247377a8d2a6138</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/murr_tv_lebanon.jpg</thumbnail>
