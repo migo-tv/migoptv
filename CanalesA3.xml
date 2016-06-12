@@ -10,7 +10,23 @@
 	
 	
 
+<item>
+<title>Art Hekayat [COLOR=FF00FF00]HD[/COLOR]</title>         
+<link>http://ipsatpro.com:8000/live/persian.eagle/persian.eagle/101.ts</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/art_hekayat.png</thumbnail>
+</item>
 
+<item>
+<title>Art Hekayat 2 [COLOR=FF00FF00]HD[/COLOR]</title>         
+<link>http://ipsatpro.com:8000/live/persian.eagle/persian.eagle/100.ts</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/art_hekayat_2.png</thumbnail>
+</item>
+
+<item>
+<title>Osn AlYawm [COLOR=FF00FF00]HD[/COLOR]</title>         
+<link>http://ipsatpro.com:8000/live/persian.eagle/persian.eagle/178.ts</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/art_hekayat_2.png</thumbnail>
+</item>
 
 <item>
 <title>Syria TV [COLOR=FF00FF00]HD[/COLOR]</title> 
@@ -160,4 +176,15 @@
 <link>http://lv004.cdn.lbcdn.com/live/m3u8/H7sKl3SdRotanaMasr.m3u8?__token__=ip=190.38.123.201~exp=1456092364~acl=live/m3u8/H7sKl3SdRotanaMasr.m3u8*~hmac=341fc769f3e55c79fcc2a4882a8b7e5281eca7cfb3a4c976c8f1aff7297f161a</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rotana_masriya.jpg</thumbnail>
 </item>
+
+<item>
+<title>BEIN SPORT 4 [COLOR=FF2F8DB5]4K[/COLOR]</title>         
+<link>http://sat.010e.net:8000/live/7787/7787/336.ts</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rotana_masriya.jpg</thumbnail>
+</item>
+http://sat.010e.net:8000/live/7787/7787/336.ts
+
+
+
+
 </channel>
