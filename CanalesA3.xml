@@ -11,80 +11,80 @@
 
 <item>
 <title>Syria TV [COLOR=FF00FF00]HD[/COLOR]</title> 
-<link>http://lv003.cdn03.greek.zaaptv.com:80/live/m3u8/SyriaCh.m3u8?__token__=ip=190.38.123.201~exp=1471389124~acl=/live/m3u8/SyriaCh.m3u8*~hmac=e0b210a049d8f8ada34887aa7912985446c518929a440f740e4c65182271c026</link>
+<link>http://lv003.cdn03.greek.zaaptv.com:80/live/m3u8/SyriaCh.m3u8?__token__=ip=190.38.123.201~exp=1471560739~acl=/live/m3u8/SyriaCh.m3u8*~hmac=51dc7cd37f9018b49f83c27210f38912f793f7d1669bd95698ac141e85e3d2d6</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/syria_satellite_channel.jpg</thumbnail>
 </item>
 
 <item>
 <title>Syria Drama [COLOR=FF00FF00]HD[/COLOR]</title> 
-<link>http://lv003.cdn03.greek.zaaptv.com:80/live/m3u8/syriadram.m3u8?__token__=ip=190.38.123.201~exp=1471389124~acl=/live/m3u8/syriadram.m3u8*~hmac=10daabf90acd442eaf1320cf4173fa6db7581e3cba9383e104d8f50c90306b7b</link>
+<link>http://lv003.cdn03.greek.zaaptv.com:80/live/m3u8/syriadram.m3u8?__token__=ip=190.38.123.201~exp=1471560739~acl=/live/m3u8/syriadram.m3u8*~hmac=8293b5fac046d10d48a4214d1f25fc0018180f892615ae61bed48fd887c10aae</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/syria_drama_channel.png</thumbnail>
 </item>
 
 <item>
 <title>Sama [COLOR=FF00FF00]HD[/COLOR]</title> 
-<link>http://lv003.cdn03.greek.zaaptv.com:80/live/m3u8/Samatv.m3u8?__token__=ip=190.38.123.201~exp=1471389124~acl=/live/m3u8/Samatv.m3u8*~hmac=0eee69aa9c4508748eb25c9f87ef1e18f3acd017002b14eee45159ed8c65e650</link>
+<link>http://lv003.cdn03.greek.zaaptv.com:80/live/m3u8/Samatv.m3u8?__token__=ip=190.38.123.201~exp=1471560739~acl=/live/m3u8/Samatv.m3u8*~hmac=328a76ef7908305fd5abff4cbd8536328b85c92c4e18906ed3b01f491f950fa0</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sama_tv.png</thumbnail>
 </item>
 
 <item>
 <title>Sham FM [COLOR=FF00FF00]HD[/COLOR]</title> 
-<link>http://lv001.cdn03.greek.zaaptv.com:80/live/m3u8/Sham.m3u8?__token__=ip=190.38.123.201~exp=1471389124~acl=/live/m3u8/Sham.m3u8*~hmac=19a076179a08522f10fed31ef0d2dcbb43b1f54565310194517a844297fd3c32</link>
+<link>http://lv001.cdn03.greek.zaaptv.com:80/live/m3u8/Sham.m3u8?__token__=ip=190.38.123.201~exp=1471560739~acl=/live/m3u8/Sham.m3u8*~hmac=72bbe2a96a7733188f4574caabb66fb4bc7e029b43c9430775c91922354cfc7e</link>
 <thumbnail>http://www.pixentral.com/pics/1FWsvOPPlA2Y6Ucjlhoq8PxihNfY1.jpg</thumbnail>
 </item>
 
 <item>
 <title>OTV Lebanon [COLOR=FF00FF00]HD[/COLOR]</title>
-<link>http://lv004.cdn03.greek.zaaptv.com:80/live/m3u8/H7sKl3SdOTV.m3u8?__token__=ip=190.38.123.201~exp=1471389124~acl=/timeshift/m3u8/H7sKl3SdOTV_delayed_2100.m3u8*~hmac=90ccac034c0140b9da6d6d35b8d53da55101b06551d5b2a666a7f43ea6516d91</link>
+<link>http://lv004.cdn03.greek.zaaptv.com:80/live/m3u8/H7sKl3SdOTV.m3u8?__token__=ip=190.38.123.201~exp=1471560739~acl=/timeshift/m3u8/H7sKl3SdOTV_delayed_2100.m3u8*~hmac=089a2feb14d3f981c39d53c18c2a57782120f521a465779210a0937f64c04d8c</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/oo/otv_lb.jpg</thumbnail>
 </item>
 
 
 <item>
 <title>Al Jadeed  [COLOR=FFFF0000]SD[/COLOR]</title>
-<link>http://lv003.cdn03.greek.zaaptv.com:80/live/m3u8/aljadeed2.m3u8?__token__=ip=190.38.123.201~exp=1471389124~acl=/live/m3u8/aljadeed2.m3u8*~hmac=deecf360235bb9700f7860f6cc8c7400daaa4e72fc874e497708d958613c29b2</link>
+<link>http://lv003.cdn03.greek.zaaptv.com:80/live/m3u8/aljadeed2.m3u8?__token__=ip=190.38.123.201~exp=1471560739~acl=/live/m3u8/aljadeed2.m3u8*~hmac=e608dbb1ce52801fba7e75bd5b0eb64dd6148ddfed00e9ac57aff6a3446855a5</link>
 <thumbnail>http://www.pixentral.com/pics/1PDtMQpSeV39pmgEmb6xstFc2YMO.jpg</thumbnail>
 </item>
 
 <item>
 <title>Al Jadeed  2[COLOR=FFFF0000]SD[/COLOR]</title>
-<link>http://ts001.cdn03.greek.zaaptv.com:80/timeshift/m3u8/aljadeed2_delayed_2100.m3u8?__token__=ip=190.38.123.201~exp=1471389124~acl=/timeshift/m3u8/aljadeed2_delayed_2100.m3u8*~hmac=508462603c9a5a86d64b68e8c26c9f7ea1d32a36bf77ac4442543209f9889127</link>
+<link>http://ts001.cdn03.greek.zaaptv.com:80/timeshift/m3u8/aljadeed2_delayed_2100.m3u8?__token__=ip=190.38.123.201~exp=1471560739~acl=/timeshift/m3u8/aljadeed2_delayed_2100.m3u8*~hmac=69115142cce43e8d11cd55aa089088aaca5cb41c5046eee137eaac77673ed12b</link>
 <thumbnail>http://www.pixentral.com/pics/1PDtMQpSeV39pmgEmb6xstFc2YMO.jpg</thumbnail>
 </item>
 
 <item>
 <title>LDC [COLOR=FF00FF00]HD[/COLOR]</title>
-<link>http://lv003.cdn03.greek.zaaptv.com:80/live/m3u8/H7sKl3SdLDC.m3u8?__token__=ip=190.38.123.201~exp=1471389124~acl=/live/m3u8/H7sKl3SdLDC.m3u8*~hmac=85e198609b263a857a8aa9bc00b76272ebf70e4d534e51d003ba4a13fac60be7</link>
+<link>http://lv003.cdn03.greek.zaaptv.com:80/live/m3u8/H7sKl3SdLDC.m3u8?__token__=ip=190.38.123.201~exp=1471560739~acl=/live/m3u8/H7sKl3SdLDC.m3u8*~hmac=a69c19f2cdb1af450038126ecc7692052e1ef85f45dc4d10dd4099686b50444a</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ll/ldc_lb.jpg</thumbnail>
 </item>
 
 <item>
 <title>LBC International [COLOR=FF00FF00]HD[/COLOR]</title>         
-<link>http://lv004.cdn03.greek.zaaptv.com:80/live/m3u8/H7sKl3SdLBCSAT.m3u8?__token__=ip=190.38.123.201~exp=1471389124~acl=/live/m3u8/H7sKl3SdLBCSAT.m3u8*~hmac=936de4454a0250031eb544457b35afcaf67ab4944d713ef7c580944441fb9ede</link>
+<link>http://lv004.cdn03.greek.zaaptv.com:80/live/m3u8/H7sKl3SdLBCSAT.m3u8?__token__=ip=190.38.123.201~exp=1471560739~acl=/live/m3u8/H7sKl3SdLBCSAT.m3u8*~hmac=487b614b3c9bdfd6f36bac2b34c0cbc5dc241cf28ae5de407f19ff05e7fc425b</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ll/lbc_sat.jpg</thumbnail>
 </item>
 
 <item>
 <title>LBC 2 [COLOR=FF00FF00]HD[/COLOR]</title>         
-<link>http://ts002.cdn03.greek.zaaptv.com:80/timeshift/m3u8/H7sKl3SdLBCSAT_delayed_3600.m3u8?__token__=ip=190.38.123.201~exp=1471389124~acl=/timeshift/m3u8/H7sKl3SdLBCSAT_delayed_3600.m3u8*~hmac=930e20888b1cfe935401f39001eb33953072eef8277c02d620cd36fc119cf7d5</link>
+<link>http://ts002.cdn03.greek.zaaptv.com:80/timeshift/m3u8/H7sKl3SdLBCSAT_delayed_3600.m3u8?__token__=ip=190.38.123.201~exp=1471560739~acl=/timeshift/m3u8/H7sKl3SdLBCSAT_delayed_3600.m3u8*~hmac=483565a08c312244b68c5d118b9b61ea8e3b21039a3f27152695af81a87b67f3</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ll/lbc_sat.jpg</thumbnail>
 </item>
 
 <item>
 <title>MTV [COLOR=FF00FF00]HD[/COLOR]</title>
-<link>http://lv003.cdn03.greek.zaaptv.com:80/live/m3u8/H7sKl3SdMtvL.m3u8?__token__=ip=190.38.123.201~exp=1471389124~acl=/live/m3u8/H7sKl3SdMtvL.m3u8*~hmac=3551a1e83ea810a373b96aaf8691a0686e8271e201a02102c4fbcc40cf0533c5</link>
+<link>http://lv003.cdn03.greek.zaaptv.com:80/live/m3u8/H7sKl3SdMtvL.m3u8?__token__=ip=190.38.123.201~exp=1471560739~acl=/live/m3u8/H7sKl3SdMtvL.m3u8*~hmac=ceae49060258bfd30a68a131e78f9a9fc4b1f772a56b997b1caac88e5d51ae6f</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/murr_tv_lebanon.jpg</thumbnail>
 </item>
 
 <item>
 <title>MTV 2 [COLOR=FF00FF00]HD[/COLOR]</title>
-<link>http://ts001.cdn03.greek.zaaptv.com:80/timeshift/m3u8/H7sKl3SdMtvL_delayed_3600.m3u8?__token__=ip=190.38.123.201~exp=1471389124~acl=/timeshift/m3u8/H7sKl3SdMtvL_delayed_3600.m3u8*~hmac=d2bc66cd4761405a92a5230f7fec4d2a2657efeb3eafa6890bc82158bf2e1236</link>
+<link>http://ts001.cdn03.greek.zaaptv.com:80/timeshift/m3u8/H7sKl3SdMtvL_delayed_3600.m3u8?__token__=ip=190.38.123.201~exp=1471560739~acl=/timeshift/m3u8/H7sKl3SdMtvL_delayed_3600.m3u8*~hmac=2ca61b1d2af78835fbc3eaeeaef7a8d072899fc629c145537ba27c41484a851d</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/murr_tv_lebanon.jpg</thumbnail>
 </item>
       
 <item>
 <title>Future [COLOR=FF00FF00]HD[/COLOR]</title>         
-<link>http://lv004.cdn03.greek.zaaptv.com:80/live/m3u8/H7sKl3SdFutrI.m3u8?__token__=ip=190.38.123.201~exp=1471389124~acl=/live/m3u8/H7sKl3SdFutrI.m3u8*~hmac=116bc1628b922b40f22812c4d53c6e37031a8ace3709004063784d0b5041983f</link>
+<link>http://lv004.cdn03.greek.zaaptv.com:80/live/m3u8/H7sKl3SdFutrI.m3u8?__token__=ip=190.38.123.201~exp=1471560739~acl=/live/m3u8/H7sKl3SdFutrI.m3u8*~hmac=be751a561fd1b64a347c2190d0f03d5ecdde13c08c9b0e679ca0a1d1debbdcec</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ff/future_tv_satellite.jpg</thumbnail>
 </item>
 
@@ -92,20 +92,20 @@
 
 <item>
 <title>MBC 1 [COLOR=FF00FF00]HD[/COLOR]</title>         
-<link>http://lv004.cdn03.greek.zaaptv.com:80/live/m3u8/H7sKl3Sd1.m3u8?__token__=ip=190.38.123.201~exp=1471389124~acl=/live/m3u8/H7sKl3Sd1.m3u8*~hmac=f8b82ac431e89cc8f4f5f223e57655e51aa9349290bbe81315abe3cabd3a995f</link>
+<link>http://lv004.cdn03.greek.zaaptv.com:80/live/m3u8/H7sKl3Sd1.m3u8?__token__=ip=190.38.123.201~exp=1471560739~acl=/live/m3u8/H7sKl3Sd1.m3u8*~hmac=82669cd5c7f856812bcbc668a506623b7a8acec08bd749d00811d520add49a1e</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mbc1.jpg</thumbnail>
 </item>
 
 
 <item>
 <title>MBC 4 [COLOR=FF00FF00]HD[/COLOR]</title>         
-<link>http://lv004.cdn03.greek.zaaptv.com:80/live/m3u8/H7sKl3Sd4.m3u8?__token__=ip=190.38.123.201~exp=1471389124~acl=/live/m3u8/H7sKl3Sd4.m3u8*~hmac=6628483b16f82791633b298346fe0d38449296b6adc31e180f893166f9fd3073</link>
+<link>http://lv004.cdn03.greek.zaaptv.com:80/live/m3u8/H7sKl3Sd4.m3u8?__token__=ip=190.38.123.201~exp=1471560739~acl=/live/m3u8/H7sKl3Sd4.m3u8*~hmac=9d9c0512e8cb60c2484154c36f41fcd8fee18269cf12f7cf0873c740a1ca071c</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mbc4.jpg</thumbnail>
 </item>
 
 <item>
 <title>MBC Drama [COLOR=FF00FF00]HD[/COLOR]</title>         
-<link>http://lv004.cdn03.greek.zaaptv.com:80/live/m3u8/H7sKl3Sd5.m3u8?__token__=ip=190.38.123.201~exp=1471389124~acl=/live/m3u8/H7sKl3Sd5.m3u8*~hmac=fb270141de792c597d68d6b0bb303e84120cd24fd81588dcfc1489332e880c47</link>
+<link>http://lv004.cdn03.greek.zaaptv.com:80/live/m3u8/H7sKl3Sd5.m3u8?__token__=ip=190.38.123.201~exp=1471560739~acl=/live/m3u8/H7sKl3Sd5.m3u8*~hmac=678a935cf1d61690b310c07589a0e547b0afbe1a5623b889c59c2e8cbd4fb043</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mbc_plus_drama_hd.jpg</thumbnail>
 </item>
 
@@ -124,7 +124,7 @@
 
 <item>
 <title>ARABICA [COLOR=FF00FF00]HD[/COLOR]</title> 
-<link>http://ts001.cdn03.greek.zaaptv.com:80/timeshift/m3u8/arabica_delayed_2100.m3u8?__token__=ip=190.38.123.201~exp=1471389124~acl=/timeshift/m3u8/arabica_delayed_2100.m3u8*~hmac=a9c82dd8d4745556d55af49e9499eb85b9bcb39d97e4f51ce3d506388b4e5e79</link>
+<link>http://ts001.cdn03.greek.zaaptv.com:80/timeshift/m3u8/arabica_delayed_2100.m3u8?__token__=ip=190.38.123.201~exp=1471560739~acl=/timeshift/m3u8/arabica_delayed_2100.m3u8*~hmac=1bdafb8bf1cdb0a0e616f03e3f1541fda7c4f8c15bc1def39fca779f0a47fc9c</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/arabica_music_tv.png</thumbnail>
 </item>
 
