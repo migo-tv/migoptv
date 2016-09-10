@@ -92,7 +92,7 @@
 
 <item>
 <title>MBC 1 [COLOR=FF00FF00]HD[/COLOR]</title>         
-<link>http://lv004.cdn03.greek.zaaptv.com:80/live/m3u8/H7sKl3Sd1.m3u8?__token__=ip=190.38.123.201~exp=1473463895~acl=/live/m3u8/H7sKl3Sd1.m3u8*~hmac=c685b06dbd260d3294c0a84dcec13e5aad1799648c75fc05090f5e8d39d23007</link>
+<link>http://lv004.cdn03.greek.zaaptv.com:80/live/m3u8/H7sKl3Sd1.m3u8?__token__=ip=190.38.123.201~exp=1473638917~acl=/live/m3u8/H7sKl3Sd1.m3u8*~hmac=15170994e3d3892b0a973e870b94008c5fe2cc70e573601e828914a3fc65ae0d</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mbc1.jpg</thumbnail>
 </item>
 
@@ -124,7 +124,7 @@
 
 <item>
 <title>ARABICA [COLOR=FF00FF00]HD[/COLOR]</title> 
-<link>http://ts001.cdn03.greek.zaaptv.com:80/timeshift/m3u8/arabica_delayed_2100.m3u8?__token__=ip=190.38.123.201~exp=1473287134~acl=/timeshift/m3u8/arabica_delayed_2100.m3u8*~hmac=4036713f12cd2c741abeba24ac3f67546a2723a0d4c1d65843de2ff9b45f4f9c</link>
+<link>http://ts001.cdn03.greek.zaaptv.com:80/timeshift/m3u8/arabica_delayed_2100.m3u8?__token__=ip=190.38.123.201~exp=1473638917~acl=/timeshift/m3u8/arabica_delayed_2100.m3u8*~hmac=f64189c26e9023098a08459a7c2b318046f53bded51b0d84e037766b168b66aa</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/arabica_music_tv.png</thumbnail>
 </item>
 
