@@ -95,19 +95,19 @@
 <item>
 <title>Abu Dhabi [COLOR=FF00FF00]HD[/COLOR]</title>         
 <link>http://lv002.cdn03.greek.zaaptv.com:80/live/m3u8/AbuDhabitV.m3u8?__token__=ip=190.38.123.201~exp=1481656163~acl=/live/m3u8/AbuDhabitV.m3u8*~hmac=cd4aadc27409f60c17c5ccbb479d255c4ce2f352a0fd0bdfa3e501ee1e1fe8a4</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/abu_dhabi_tv_ae.png</thumbnail>
+<thumbnail>https://github.com/migo-tv/migoptv/blob/master/LOGOS%20TV/abu_dhabi_tv_ae.jpg?raw=true</thumbnail>
 </item>
       
 <item>
 <title>Abu Dhabi DRAMA [COLOR=FF00FF00]HD[/COLOR]</title>         
 <link>http://lv004.cdn03.greek.zaaptv.com:80/live/m3u8/abhudadrama.m3u8?__token__=ip=190.38.123.201~exp=1481656163~acl=/live/m3u8/abhudadrama.m3u8*~hmac=ca99ea8f233b27ccc7d2e5177e3f741e8bcc113cccafaba9fe47742e758f8829</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/abu_dhabi_drama.png</thumbnail>
+<thumbnail>https://github.com/migo-tv/migoptv/blob/master/LOGOS%20TV/abu_dhabi_drama.jpg?raw=true</thumbnail>
 </item>
 
 <item>
 <title>ZEE Alwan [COLOR=FF00FF00]HD[/COLOR]</title>         
 <link>http://lv001.cdn03.greek.zaaptv.com:80/live/m3u8/zeealwan.m3u8?__token__=ip=190.38.123.201~exp=1481656163~acl=/live/m3u8/zeealwan.m3u8*~hmac=49fed56974fa770421c3606110467c32a8e1a0a77032fd2ef34e74bab99e06f6</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/zz/zee_alwan_in.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/migo-tv/migoptv/master/LOGOS%20TV/zee_alwan_in.jpg</thumbnail>
 </item>
       
       
@@ -132,7 +132,7 @@
       <item>
 <title>Rotana Musica [COLOR=FF00FF00]HD[/COLOR]</title>         
 <link>http://lv004.cdn03.greek.zaaptv.com:80/live/m3u8/H7sKl3SdRotanaMu.m3u8?__token__=ip=190.38.123.201~exp=1481656163~acl=/live/m3u8/H7sKl3SdRotanaMu.m3u8*~hmac=52d6bf1139d87aba48a81d26c77752300afd276751bcd733648cd7cda6955637</link>
-<thumbnail>http://www.lyngsat.com/logo/tv/rr/rotana_musica.png</thumbnail>
+<thumbnail>https://github.com/migo-tv/migoptv/blob/master/LOGOS%20TV/rotana_musica.jpg?raw=true</thumbnail>
 </item>
       
 </channel>
