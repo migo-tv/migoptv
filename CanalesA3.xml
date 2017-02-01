@@ -82,20 +82,20 @@
 
 <item>
 <title>MBC 1 [COLOR=FF00FF00]HD[/COLOR]</title>         
-<link>http://lv004.cdn03.greek.zaaptv.com:80/live/m3u8/H7sKl3Sdx9219.m3u8?__token__=ip=190.38.123.201~exp=1486077598~acl=/live/m3u8/H7sKl3Sdx9219.m3u8*~hmac=04071239c946b218ca929b9940dc04f50ad943aa0eacfd0761071f05d96b1218</link>
+<link>http://lv004.cdn03.greek.zaaptv.com:80/live/m3u8/H7sKl3Sdx9219.m3u8?__token__=ip=190.38.123.201~exp=1486162730~acl=/live/m3u8/H7sKl3Sdx9219.m3u8*~hmac=0a156be3c519600c5101a2158c422c5bd1d462a95903b4aa9dd569f5e1620845</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mbc1.jpg</thumbnail>
 </item>
 
 <item>
 <title>MBC 4 [COLOR=FF00FF00]HD[/COLOR]</title>         
-<link>http://lv004.cdn03.greek.zaaptv.com:80/live/m3u8/H7sKl3Sdx9221.m3u8?__token__=ip=190.38.123.201~exp=1486077598~acl=/live/m3u8/H7sKl3Sdx9221.m3u8*~hmac=13a92586615ed9208bcc24a5cc01951089f3ad11db995169d1cce495200993b5</link>
+<link>http://lv004.cdn03.greek.zaaptv.com:80/live/m3u8/H7sKl3Sdx9221.m3u8?__token__=ip=190.38.123.201~exp=1486162730~acl=/live/m3u8/H7sKl3Sdx9221.m3u8*~hmac=4888e456c865c9e31d8d44f63267e888965313985a0e455d26ce19d9febb6150</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mbc4.jpg</thumbnail>
 </item>
       
  <item>
 <title>ON E [COLOR=FF00FF00]HD[/COLOR]</title>         
 <link>http://lv004.cdn03.greek.zaaptv.com:80/live/m3u8/H7sKl3Sdx9237.m3u8?__token__=ip=190.38.123.201~exp=1486162730~acl=/live/m3u8/H7sKl3Sdx9237.m3u8*~hmac=242c0737d36bdc4880daab8d3fe1b7c2ca8e95287a0dafc95b59861be90b30f9</link>
-<thumbnail>https://www.lyngsat.com/logo/tv/oo/on_tv_eg.png</thumbnail>
+<thumbnail>https://github.com/migo-tv/migoptv/blob/master/LOGOS%20TV/on_tv_eg.jpg?raw=true</thumbnail>
 </item>     
       
 
@@ -136,7 +136,7 @@
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rotana_clip.jpg</thumbnail>
 </item>
       
-      <item>
+<item>
 <title>Rotana Musica [COLOR=FF00FF00]HD[/COLOR]</title>         
 <link>http://lv004.cdn03.greek.zaaptv.com:80/live/m3u8/H7sKl3SdRotanaMu.m3u8?__token__=ip=190.38.123.201~exp=1483380064~acl=/live/m3u8/H7sKl3SdRotanaMu.m3u8*~hmac=da6ad636c9a6b2a6ba2368cab43e358fd0e72c64608b8824d96d89418dd66d71</link>
 <thumbnail>https://github.com/migo-tv/migoptv/blob/master/LOGOS%20TV/rotana_musica.jpg?raw=true</thumbnail>
