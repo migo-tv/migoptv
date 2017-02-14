@@ -7,10 +7,9 @@
 
 <channel>	
 
-    <item>
+<item>
 <title>MBC4</title> 
-<link>http://81.230.200.187:1967/live/mMdwpJIagX/WagOqNXDDX/13.ts</link>
-<thumbnail></thumbnail>
+<link>rtmp://www.teledunet.com:1935/live/?idu=migo21_ng6s8801xy</link> <playpath>mbc_4</playpath> <swfUrl>http://www.teledunet.com/mobile/rtmp_player/player.swf</swfUrl> <pageUrl>http://www.teledunet.com/mobile/rtmp_player/?channel=mbc_4&amp;streamer=rtmp://www.teledunet.com:1935/live/?idu=migo21_ng6s8801xy</pageUrl>
 </item>  
       
       
