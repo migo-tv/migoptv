@@ -7,8 +7,13 @@
 
 <channel>	
 
-
-
+    <item>
+<title>MBC4</title> 
+<link>http://151.80.31.94:12580/live/taha/taha/3241.ts</link>
+<thumbnail></thumbnail>
+</item>  
+      
+      
 <item>
 <title>Syria TV [COLOR=FF00FF00]HD[/COLOR]</title> 
 <link>http://lv003.cdn03.greek.zaaptv.com:80/live/m3u8/SyriaCh.m3u8?__token__=ip=190.38.123.201~exp=1486684643~acl=/live/m3u8/SyriaCh.m3u8*~hmac=02ca9d1cadeb7ae97a830c0a3de7afa8e4377b826328615d7118f0a805b90438</link>
@@ -141,5 +146,5 @@
 <link>http://lv004.cdn03.greek.zaaptv.com:80/live/m3u8/H7sKl3SdRotanaMu.m3u8?__token__=ip=190.38.123.201~exp=1486684643~acl=/live/m3u8/H7sKl3SdRotanaMu.m3u8*~hmac=b85e8ab66b904835ed2e593ad57406f4fb2418a3521dfaa28eb8d741766af863</link>
 <thumbnail>https://github.com/migo-tv/migoptv/blob/master/LOGOS%20TV/rotana_musica.jpg?raw=true</thumbnail>
 </item>
-      
+   
 </channel>
