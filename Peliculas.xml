@@ -12,25 +12,20 @@
 
 
   
+
+  
 <item>
+<title>ANGEL 40</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=I__TOYb4yBo</link>
+<thumbnail></thumbnail>
+</item>
+  
+
+  
+ <item>
 <title>Banat Shams 64</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=96QI_YDAvQg</link>
 <thumbnail></thumbnail>
 </item>
-  
-<item>
-<title>ANGEL 38</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=BQ2GO_mpZJg</link>
-<thumbnail></thumbnail>
-</item>
-  
-  
-<item>
-<title>ANGEL 39</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=rgWiBNUC8Vk</link>
-<thumbnail></thumbnail>
-</item>
-  
- 
 </channel>	
 
