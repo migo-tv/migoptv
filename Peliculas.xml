@@ -41,9 +41,29 @@
 <thumbnail></thumbnail>
 </item>
 
-
+ <item>
+<title>DIMA 18</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=LE43poZiBLc</link>
+<thumbnail></thumbnail>
+</item>
+ 
+ <item>
+<title>DIMA 19</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=AwWRh9k8p5k</link>
+<thumbnail></thumbnail>
+</item>
   
+  <item>
+<title>DIMA 20</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=k_ioiVgyPFU</link>
+<thumbnail></thumbnail>
+</item>
   
+    <item>
+<title>DIMA 21</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=HUOSZgrrv5Q</link>
+<thumbnail></thumbnail>
+</item>
 
   
 </channel>	
