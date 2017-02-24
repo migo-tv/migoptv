@@ -7,12 +7,7 @@
 
 <channel>	
 
-<item>
-<title>MBC4</title> 
-<link>rtmp://www.teledunet.com:1935/live/?idu=migo21_ng6s8801xy</link> <playpath>mbc_4</playpath> <swfUrl>http://www.teledunet.com/mobile/rtmp_player/player.swf</swfUrl> <pageUrl>http://www.teledunet.com/mobile/rtmp_player/?channel=mbc_4&amp;streamer=rtmp://www.teledunet.com:1935/live/?idu=migo21_ng6s8801xy</pageUrl>
-</item>  
-      
-      
+     
 <item>
 <title>Syria TV [COLOR=FF00FF00]HD[/COLOR]</title> 
 <link>http://lv003.cdn03.greek.zaaptv.com:80/live/m3u8/SyriaCh.m3u8?__token__=ip=190.38.123.201~exp=1486684643~acl=/live/m3u8/SyriaCh.m3u8*~hmac=02ca9d1cadeb7ae97a830c0a3de7afa8e4377b826328615d7118f0a805b90438</link>
