@@ -70,13 +70,6 @@
 <link>http://ts001.cdn03.greek.zaaptv.com:80/timeshift/m3u8/H7sKl3SdMtvL_delayed_3600.m3u8?__token__=ip=190.38.123.201~exp=1486684643~acl=/timeshift/m3u8/H7sKl3SdMtvL_delayed_3600.m3u8*~hmac=84e0125d24ffb97f9c2a1fc101e685ffa902f5bb7506f37483303a7402bc16ef</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/murr_tv_lebanon.jpg</thumbnail>
 </item>
-      
-<item>
-<title>Future [COLOR=FF00FF00]HD[/COLOR]</title>         
-<link>http://lv004.cdn03.greek.zaaptv.com:80/live/m3u8/H7sKl3SdFutrI.m3u8?__token__=ip=190.38.123.201~exp=1486684643~acl=/live/m3u8/H7sKl3SdFutrI.m3u8*~hmac=b475fc8df7e38e1b8b1f112ddce00bdc19d16375f530fff64a258392532aad37</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ff/future_tv_satellite.jpg</thumbnail>
-</item>
-
 
 
 <item>
@@ -90,6 +83,13 @@
 <link>http://selevision9880-i.akamaihd.net/hls/live/219176/98803/1.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mbc4.jpg</thumbnail>
 </item>
+
+<item>
+<title>MBC Drama [COLOR=FF00FF00]HD[/COLOR]</title>         
+<link>http://selevision9877-i.akamaihd.net/hls/live/219123/98775/2.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mbc_plma_hd.jpg</thumbnail>
+</item>
+      
       
  <item>
 <title>ON E [COLOR=FF00FF00]HD[/COLOR]</title>         
@@ -117,12 +117,7 @@
 </item>
       
       
-<item>
-<title>MBC Drama [COLOR=FF00FF00]HD[/COLOR]</title>         
-<link>http://lv004.cdn03.greek.zaaptv.com:80/live/m3u8/H7sKl3Sdx9224.m3u8?__token__=ip=190.38.123.201~exp=1486684643~acl=/live/m3u8/H7sKl3Sdx9224.m3u8*~hmac=24e49547d393e8f9a8a217d1d2680e7334882417e63be0c8cacf4551b4a813bd</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mbc_plma_hd.jpg</thumbnail>us_dra
-</item>
-      
+
 <item>
 <title>ARABICA [COLOR=FF00FF00]HD[/COLOR]</title> 
 <link>http://ts001.cdn03.greek.zaaptv.com:80/timeshift/m3u8/arabica_delayed_2100.m3u8?__token__=ip=190.38.123.201~exp=1486862469~acl=/timeshift/m3u8/arabica_delayed_2100.m3u8*~hmac=c6c4b211e5e3815b83bda1f5dcf37844d5759f960ff18ed841819104c5ad6e83</link>
