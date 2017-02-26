@@ -32,6 +32,55 @@
 </item>
   
 
+  <item>
+<title>MBC 1</title>
+<link>http://195.154.154.185:5890/live/mrd/mrd/853.ts</link>
+<thumbnail></thumbnail>
+</item>
+    <item>
+<title>MBC 4</title>
+<link>http://195.154.154.185:5890/live/mrd/mrd/63.ts</link>
+<thumbnail></thumbnail>
+</item>
+    <item>
+<title>MBC HD</title>
+<link>http://195.154.154.185:5890/live/mrd/mrd/3374.ts</link>
+<thumbnail></thumbnail>
+</item>
+    <item>
+<title>MBC 1 HD</title>
+<link>http://195.154.154.185:5890/live/mrd/mrd/2636.ts</link>
+<thumbnail></thumbnail>
+</item>
   
+      <item>
+<title>ART</title>
+<link>http://195.154.154.185:5890/live/mrd/mrd/157.ts</link>
+<thumbnail></thumbnail>
+</item>
+    
+      <item>
+<title>ART Hekayat</title>
+<link>http://195.154.154.185:5890/live/mrd/mrd/58.ts</link>
+<thumbnail></thumbnail>
+</item>
+    
+      <item>
+<title>ART Hekayat 2</title>
+<link>http://195.154.154.185:5890/live/mrd/mrd/59.ts</link>
+<thumbnail></thumbnail>
+</item>
+    
+      <item>
+<title>OSN FESTIVAL</title>
+<link>http://195.154.154.185:5890/live/mrd/mrd/3690.ts</link>
+<thumbnail></thumbnail>
+</item>
+    
+      <item>
+<title>OSN Yahala Al Oula</title>
+<link>http://195.154.154.185:5890/live/mrd/mrd/33.ts</link>
+<thumbnail></thumbnail>
+</item>
 </channel>	
 
