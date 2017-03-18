@@ -67,5 +67,11 @@
 <thumbnail></thumbnail>
 </item>
 
+     <item>
+<title>MBC 3</title>
+<link>rtmp://www.teledunet.com:1935/live/?idu=migo21_gg4ifjbtoi playpath=mbc_2 swfurl=http://cdncdn.zonein1.com/kikikili.swf</link>
+<thumbnail></thumbnail>
+</item> 
+
 </channel>	
 
