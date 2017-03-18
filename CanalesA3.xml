@@ -1,11 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-
-
-
-
-
-
 <channel>	
+     
+<item>
+<title>Abu Dhabi</title> 
+<link>http://cdn-hls.globecast.tv/live/ramdisk/abu_dhabi_al_oula/hls1/abu_dhabi_al_oula-video=643200-audio_AACL_und_41200_120=41200.m3u8?v=1547284358</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title></title> 
+<link></link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title></title> 
+<link></link>
+<thumbnail></thumbnail>
+</item>
+
+
 
      
 <item>
