@@ -1,0 +1,152 @@
+<channel>	
+     
+<item>
+<title>Abu Dhabi</title> 
+<link>http://cdn-hls.globecast.tv/live/ramdisk/abu_dhabi_al_oula/hls1/abu_dhabi_al_oula-video=643200-audio_AACL_und_41200_120=41200.m3u8?v=1547284358</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title></title> 
+<link></link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title></title> 
+<link></link>
+<thumbnail></thumbnail>
+</item>
+
+
+
+     
+<item>
+<title>Syria TV [COLOR=FF00FF00]HD[/COLOR]</title> 
+<link>http://lv003.cdn03.greek.zaaptv.com:80/live/m3u8/SyriaCh.m3u8?__token__=ip=190.38.123.201~exp=1486684643~acl=/live/m3u8/SyriaCh.m3u8*~hmac=02ca9d1cadeb7ae97a830c0a3de7afa8e4377b826328615d7118f0a805b90438</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/syria_satellite_channel.jpg</thumbnail>
+</item>
+
+<item>
+<title>Syria Drama [COLOR=FF00FF00]HD[/COLOR]</title> 
+<link>http://lv003.cdn03.greek.zaaptv.com:80/live/m3u8/syriadram.m3u8?__token__=ip=190.38.123.201~exp=1486684643~acl=/live/m3u8/syriadram.m3u8*~hmac=2586e775d24d1fda13f4922fb3224f714b07ff6219b15335b84300c30938d4c8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/syria_drama_channel.png</thumbnail>
+</item>
+
+<item>
+<title>Sama [COLOR=FF00FF00]HD[/COLOR]</title> 
+<link>http://lv003.cdn03.greek.zaaptv.com:80/live/m3u8/Samatv.m3u8?__token__=ip=190.38.123.201~exp=1486684643~acl=/live/m3u8/Samatv.m3u8*~hmac=e469946bd5100b101d40858cc355f1a626ab3ffd74dccf1fc9e304e93f9b7007</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sama_tv.png</thumbnail>
+</item>
+
+<item>
+<title>Sham FM [COLOR=FF00FF00]HD[/COLOR]</title> 
+<link>http://lv001.cdn03.greek.zaaptv.com:80/live/m3u8/Sham.m3u8?__token__=ip=190.38.123.201~exp=1486684643~acl=/live/m3u8/Sham.m3u8*~hmac=2d5a5ec0247caeebe0f29d57a4fce2707777dff44b503da88498d077d59c36b0</link>
+<thumbnail>http://www.pixentral.com/pics/1FWsvOPPlA2Y6Ucjlhoq8PxihNfY1.jpg</thumbnail>
+</item>
+
+<item>
+<title>OTV Lebanon [COLOR=FF00FF00]HD[/COLOR]</title>
+<link>http://lv004.cdn03.greek.zaaptv.com:80/live/m3u8/H7sKl3Sdx9238.m3u8?__token__=ip=190.38.123.201~exp=1486684643~acl=/live/m3u8/H7sKl3Sdx9238.m3u8*~hmac=f15098519ae306612a3f6458acce6fbd5219a97025ce0da1cf6bf98114d9b6a8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/oo/otv_lb.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>Al Jadeed  [COLOR=FFFF0000]SD[/COLOR]</title>
+<link>http://lv003.cdn03.greek.zaaptv.com:80/live/m3u8/H7sKl3Sdx9235.m3u8?__token__=ip=190.38.123.201~exp=1486684643~acl=/live/m3u8/H7sKl3Sdx9235.m3u8*~hmac=a3177f27bf33c53ba1b72337909cb36b31516cfc77362d905b8f59537e26bab3</link>
+<thumbnail>http://www.pixentral.com/pics/1PDtMQpSeV39pmgEmb6xstFc2YMO.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>LDC [COLOR=FF00FF00]HD[/COLOR]</title>
+<link>http://lv003.cdn03.greek.zaaptv.com:80/live/m3u8/H7sKl3Sdx9218.m3u8?__token__=ip=190.38.123.201~exp=1486684643~acl=/live/m3u8/H7sKl3Sdx9218.m3u8*~hmac=4da1f557239d2a0b63804a8f1dd4907aa171fa8f9c36a178412587e6ec778e4f</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ll/ldc_lb.jpg</thumbnail>
+</item>
+
+<item>
+<title>LBC International [COLOR=FF00FF00]HD[/COLOR]</title>         
+<link>http://lv004.cdn03.greek.zaaptv.com:80/live/m3u8/H7sKl3Sdx9217.m3u8?__token__=ip=190.38.123.201~exp=1486684643~acl=/live/m3u8/H7sKl3Sdx9217.m3u8*~hmac=830316fedcb81843b39fe7f7164b0f6bbd91419e512aee323b26c732e636f8ea</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ll/lbc_sat.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>MTV [COLOR=FF00FF00]HD[/COLOR]</title>
+<link>http://lv003.cdn03.greek.zaaptv.com:80/live/m3u8/H7sKl3SdMtvL.m3u8?__token__=ip=190.38.123.201~exp=1486684643~acl=/live/m3u8/H7sKl3SdMtvL.m3u8*~hmac=0a97e9eb5ead779cf8152ce712e089b0be2416e3e8044c5352b9a397be4c1be9</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/murr_tv_lebanon.jpg</thumbnail>
+</item>
+
+<item>
+<title>MTV 2 [COLOR=FF00FF00]HD[/COLOR]</title>
+<link>http://ts001.cdn03.greek.zaaptv.com:80/timeshift/m3u8/H7sKl3SdMtvL_delayed_3600.m3u8?__token__=ip=190.38.123.201~exp=1486684643~acl=/timeshift/m3u8/H7sKl3SdMtvL_delayed_3600.m3u8*~hmac=84e0125d24ffb97f9c2a1fc101e685ffa902f5bb7506f37483303a7402bc16ef</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/murr_tv_lebanon.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>MBC 1 [COLOR=FF00FF00]HD[/COLOR]</title>         
+<link>http://selevision9881-i.akamaihd.net/hls/live/219186/98813/1.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mbc1.jpg</thumbnail>
+</item>
+
+<item>
+<title>MBC 4 [COLOR=FF00FF00]HD[/COLOR]</title>         
+<link>http://selevision9880-i.akamaihd.net/hls/live/219176/98803/1.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mbc4.jpg</thumbnail>
+</item>
+
+<item>
+<title>MBC Drama [COLOR=FF00FF00]HD[/COLOR]</title>         
+<link>http://selevision9877-i.akamaihd.net/hls/live/219123/98775/2.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mbc_plma_hd.jpg</thumbnail>
+</item>
+      
+      
+ <item>
+<title>ON E [COLOR=FF00FF00]HD[/COLOR]</title>         
+<link>http://lv004.cdn03.greek.zaaptv.com:80/live/m3u8/H7sKl3Sdx9237.m3u8?__token__=ip=190.38.123.201~exp=1486862469~acl=/live/m3u8/H7sKl3Sdx9237.m3u8*~hmac=5a4bfc7fffcb933cb5faa2fba16e7c9ea7b5e7ae139dbdf094a08d9b060c38fc</link>
+<thumbnail>https://github.com/migo-tv/migoptv/blob/master/LOGOS%20TV/on_tv_eg.jpg?raw=true</thumbnail>
+</item>     
+      
+
+<item>
+<title>Abu Dhabi [COLOR=FF00FF00]HD[/COLOR]</title>         
+<link>http://lv002.cdn03.greek.zaaptv.com:80/live/m3u8/AbuDhabitV.m3u8?__token__=ip=190.38.123.201~exp=1486684643~acl=/live/m3u8/AbuDhabitV.m3u8*~hmac=9a24926fb8cd636539523ea3fdd04260be2cfab48c22b86ae8fbb474e686f1b6</link>
+<thumbnail>https://github.com/migo-tv/migoptv/blob/master/LOGOS%20TV/abu_dhabi_tv_ae.jpg?raw=true</thumbnail>
+</item>
+      
+<item>
+<title>Abu Dhabi DRAMA [COLOR=FF00FF00]HD[/COLOR]</title>         
+<link>http://lv004.cdn03.greek.zaaptv.com:80/live/m3u8/abhudadrama.m3u8?__token__=ip=190.38.123.201~exp=1486684643~acl=/live/m3u8/abhudadrama.m3u8*~hmac=f2acadb616d88eb526404c7f67ef209032191f6691798d06f408441b5dc6ea71</link>
+<thumbnail>https://github.com/migo-tv/migoptv/blob/master/LOGOS%20TV/abu_dhabi_drama.jpg?raw=true</thumbnail>
+</item>
+
+<item>
+<title>ZEE Alwan [COLOR=FF00FF00]HD[/COLOR]</title>         
+<link>http://lv001.cdn03.greek.zaaptv.com:80/live/m3u8/zeealwan.m3u8?__token__=ip=190.38.123.201~exp=1486684643~acl=/live/m3u8/zeealwan.m3u8*~hmac=e91c2e680e9e1a70fb5405bcfc77020e6da07d4777db0f6d6b3e5bf3432389cc</link>
+<thumbnail>https://raw.githubusercontent.com/migo-tv/migoptv/master/LOGOS%20TV/zee_alwan_in.jpg</thumbnail>
+</item>
+      
+      
+
+<item>
+<title>ARABICA [COLOR=FF00FF00]HD[/COLOR]</title> 
+<link>http://ts001.cdn03.greek.zaaptv.com:80/timeshift/m3u8/arabica_delayed_2100.m3u8?__token__=ip=190.38.123.201~exp=1486862469~acl=/timeshift/m3u8/arabica_delayed_2100.m3u8*~hmac=c6c4b211e5e3815b83bda1f5dcf37844d5759f960ff18ed841819104c5ad6e83</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/arabica_music_tv.png</thumbnail>
+</item>
+      
+<item>
+<title>Rotana Clip [COLOR=FF00FF00]HD[/COLOR]</title>         
+<link>http://lv004.cdn03.greek.zaaptv.com:80/live/m3u8/H7sKl3SdRotanaCp.m3u8?__token__=ip=190.38.123.201~exp=1486684643~acl=/live/m3u8/H7sKl3SdRotanaCp.m3u8*~hmac=742f7c8146423612c85ffee488bfd64e805ef7ed71b42af8338f3c204f4fad90</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rotana_clip.jpg</thumbnail>
+</item>
+      
+<item>
+<title>Rotana Musica [COLOR=FF00FF00]HD[/COLOR]</title>         
+<link>http://lv004.cdn03.greek.zaaptv.com:80/live/m3u8/H7sKl3SdRotanaMu.m3u8?__token__=ip=190.38.123.201~exp=1486684643~acl=/live/m3u8/H7sKl3SdRotanaMu.m3u8*~hmac=b85e8ab66b904835ed2e593ad57406f4fb2418a3521dfaa28eb8d741766af863</link>
+<thumbnail>https://github.com/migo-tv/migoptv/blob/master/LOGOS%20TV/rotana_musica.jpg?raw=true</thumbnail>
+</item>
+   
+</channel>
