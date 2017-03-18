@@ -1,11 +1,26 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <channel>	
+    
      
 <item>
-<title>Abu Dhabi</title> 
-<link>http://cdn-hls.globecast.tv/live/ramdisk/abu_dhabi_al_oula/hls1/abu_dhabi_al_oula-video=643200-audio_AACL_und_41200_120=41200.m3u8?v=1547284358</link>
-<thumbnail></thumbnail>
+<title>MTV [COLOR=FF00FF00]HD[/COLOR]</title>
+<link>http://selevision9876-i.akamaihd.net/hls/live/219115/98767/1.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/murr_tv_lebanon.jpg</thumbnail>
 </item>
+   
+<item>
+<title>Abu Dhabi [COLOR=FF00FF00]HD[/COLOR]</title>         
+<link>http://selevision9876-i.akamaihd.net/hls/live/219114/98766/1.m3u8</link>
+<thumbnail>https://github.com/migo-tv/migoptv/blob/master/LOGOS%20TV/abu_dhabi_tv_ae.jpg?raw=true</thumbnail>
+</item>
+     
+ <item>
+<title>LBC International [COLOR=FF00FF00]HD[/COLOR]</title>         
+<link>http://selevision9891-i.akamaihd.net/hls/live/219336/98919/1.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ll/lbc_sat.jpg</thumbnail>
+</item>
+    
+     
 
 <item>
 <title></title> 
@@ -66,18 +81,8 @@
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ll/ldc_lb.jpg</thumbnail>
 </item>
 
-<item>
-<title>LBC International [COLOR=FF00FF00]HD[/COLOR]</title>         
-<link>http://lv004.cdn03.greek.zaaptv.com:80/live/m3u8/H7sKl3Sdx9217.m3u8?__token__=ip=190.38.123.201~exp=1486684643~acl=/live/m3u8/H7sKl3Sdx9217.m3u8*~hmac=830316fedcb81843b39fe7f7164b0f6bbd91419e512aee323b26c732e636f8ea</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ll/lbc_sat.jpg</thumbnail>
-</item>
 
 
-<item>
-<title>MTV [COLOR=FF00FF00]HD[/COLOR]</title>
-<link>http://lv003.cdn03.greek.zaaptv.com:80/live/m3u8/H7sKl3SdMtvL.m3u8?__token__=ip=190.38.123.201~exp=1486684643~acl=/live/m3u8/H7sKl3SdMtvL.m3u8*~hmac=0a97e9eb5ead779cf8152ce712e089b0be2416e3e8044c5352b9a397be4c1be9</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/murr_tv_lebanon.jpg</thumbnail>
-</item>
 
 <item>
 <title>MTV 2 [COLOR=FF00FF00]HD[/COLOR]</title>
@@ -112,11 +117,7 @@
 </item>     
       
 
-<item>
-<title>Abu Dhabi [COLOR=FF00FF00]HD[/COLOR]</title>         
-<link>http://lv002.cdn03.greek.zaaptv.com:80/live/m3u8/AbuDhabitV.m3u8?__token__=ip=190.38.123.201~exp=1486684643~acl=/live/m3u8/AbuDhabitV.m3u8*~hmac=9a24926fb8cd636539523ea3fdd04260be2cfab48c22b86ae8fbb474e686f1b6</link>
-<thumbnail>https://github.com/migo-tv/migoptv/blob/master/LOGOS%20TV/abu_dhabi_tv_ae.jpg?raw=true</thumbnail>
-</item>
+
       
 <item>
 <title>Abu Dhabi DRAMA [COLOR=FF00FF00]HD[/COLOR]</title>         
