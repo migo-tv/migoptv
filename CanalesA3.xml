@@ -19,14 +19,20 @@
 <link>http://selevision9891-i.akamaihd.net/hls/live/219336/98919/1.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ll/lbc_sat.jpg</thumbnail>
 </item>
-   
     
-
-<item>
-<title></title> 
-<link></link>
-<thumbnail></thumbnail>
+    
+ <item>
+<title>MBC 4 [COLOR=FF00FF00]HD[/COLOR]</title>         
+<link>http://94.23.248.74:8000/live/0829f13afd/265452e/1382.ts</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mbc4.jpg</thumbnail>
+</item>  
+  
+    <item>
+<title>MBC 1 [COLOR=FF00FF00]HD[/COLOR]</title>         
+<link>http://94.23.248.74:8000/live/0829f13afd/265452e/1379.ts</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mbc1.jpg</thumbnail>
 </item>
+
 
 <item>
 <title></title> 
@@ -91,17 +97,9 @@
 </item>
 
 
-<item>
-<title>MBC 1 [COLOR=FF00FF00]HD[/COLOR]</title>         
-<link>http://selevision9881-i.akamaihd.net/hls/live/219186/98813/1.m3u8</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mbc1.jpg</thumbnail>
-</item>
 
-<item>
-<title>MBC 4 [COLOR=FF00FF00]HD[/COLOR]</title>         
-<link>http://selevision9880-i.akamaihd.net/hls/live/219176/98803/1.m3u8</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mbc4.jpg</thumbnail>
-</item>
+
+
 
 <item>
 <title>MBC Drama [COLOR=FF00FF00]HD[/COLOR]</title>         
