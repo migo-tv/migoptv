@@ -49,19 +49,19 @@
 
 <item>
 <title>PRUEBA 1</title> 
-<link>http://213.202.233.130:8000/streaming/clients_live.php?username=3758bf1f59&amp;password=265452e&amp;stream=1379&amp;extension=ts&amp;hash=e8b5ae6ac53a59b624f973161e72268d&amp;time=1490061502&amp;external_device=</link>
+<link>http://213.202.233.130:8000/streaming/clients_live.php?username=3758bf1f59&amp;password=265452e&amp;stream=1379&amp;extension=m3u8&amp;hash=e8b5ae6ac53a59b624f973161e72268d&amp;time=1490061502&amp;external_device=</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>PRUEBA 2</title> 
-<link>http://213.202.233.130:8000//streaming/clients_live.php?username=3758bf1f59&amp;password=265452e&amp;stream=1379&amp;extension=ts&amp;hash=e8b5ae6ac53a59b624f973161e72268d&amp;time=1490061502&amp;external_device=</link>
+<link>http://213.202.233.130:8000//streaming/clients_live.php?username=3758bf1f59&amp;password=265452e&amp;stream=1379&amp;extension=m3u8&amp;hash=e8b5ae6ac53a59b624f973161e72268d&amp;time=1490061502&amp;external_device=</link>
 <thumbnail></thumbnail>
 </item>
 
  <item>
 <title>PRUEBA 3</title> 
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://213.202.233.130:8000//streaming/clients_live.php?username=3758bf1f59&amp;password=265452e&amp;stream=1379&amp;extension=ts&amp;hash=e8b5ae6ac53a59b624f973161e72268d&amp;time=1490061502&amp;external_device=</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://213.202.233.130:8000//streaming/clients_live.php?username=3758bf1f59&amp;password=265452e&amp;stream=1379&amp;extension=m3u8&amp;hash=e8b5ae6ac53a59b624f973161e72268d&amp;time=1490061502&amp;external_device=</link>
 <thumbnail></thumbnail>
 </item>
   
