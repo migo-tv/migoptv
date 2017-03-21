@@ -40,34 +40,31 @@
     
 <item>
 <title>MBC 4 [COLOR=FF00FF00]HD[/COLOR]</title>         
-<link>http://63.237.48.9/ios/MBC_4/MBC_4.m3u8</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.23.248.74:8000/live/857d852308/265452e/1382.ts</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mbc4.jpg</thumbnail>
 </item>  
   
-
-
-
 <item>
-<title>PRUEBA 1</title> 
-<link>http://213.202.233.130:8000/streaming/clients_live.php?username=3758bf1f59&amp;password=265452e&amp;stream=1379&amp;extension=m3u8&amp;hash=e8b5ae6ac53a59b624f973161e72268d&amp;time=1490061502&amp;external_device=</link>
+<title>ART Hekayat 2</title> 
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.23.248.74:8000/live/857d852308/265452e/1366.ts</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>PRUEBA 2</title> 
-<link>http://213.202.233.130:8000//streaming/clients_live.php?username=3758bf1f59&amp;password=265452e&amp;stream=1379&amp;extension=m3u8&amp;hash=e8b5ae6ac53a59b624f973161e72268d&amp;time=1490061502&amp;external_device=</link>
+<title>ART Aflam 1</title> 
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.23.248.74:8000/live/857d852308/265452e/1363.ts</link>
 <thumbnail></thumbnail>
 </item>
 
  <item>
-<title>PRUEBA 16</title> 
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.121.104.43:8000/live/ppppg88cxdfPm/DFD11234/1745.ts?id=3200847254</link>
+<title>MBC Drama</title> 
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.23.248.74:8000/live/857d852308/265452e/1385.ts</link>
 <thumbnail></thumbnail>
 </item>
   
-     <item>
-<title>PRUEBA 6</title> 
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.23.248.74:8000/live/857d852308/265452e/1745.ts</link>
+ <item>
+<title>BEIN Sport HD 2</title> 
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.23.248.74:8000/live/857d852308/265452e/972.ts</link>
 <thumbnail></thumbnail>
 </item>
     
