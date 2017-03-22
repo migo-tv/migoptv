@@ -55,23 +55,24 @@
 <thumbnail>https://i.ytimg.com/vi/ttIyJZk-QpE/hqdefault.jpg?custom=true&amp;w=168&amp;h=94&amp;stc=true&amp;jpg444=true&amp;jpgq=90&amp;sp=68&amp;sigh=PPmuh8Udw6SQ5F18mXghQ5m8YiQ</thumbnail>
 </item>
 
-  <item>
-<title>MBC 2</title>
-<link>http://www.teledunet.com/mobile/rtmp_player/?channel=mbc_2&amp;streamer=rtmp://www.teledunet.com:1935/live/?idu=migo21_gg4ifjbtoi</link>
+<item>
+<title>Ijar 42</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=vP5YMHaxHao</link>
 <thumbnail></thumbnail>
 </item>
   
-    <item>
-<title>MBC 22</title>
-<link>rtmp://www.teledunet.com:1935/live/?idu=migo21_gg4ifjbtoi</link>
+<item>
+<title>Ijar 43</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=FtBKVy22nbw</link>
+<thumbnail></thumbnail>
+</item>
+  
+<item>
+<title>Ijar 44</title>
+<link>https://m.ok.ru/dk?st.cmd=moviePlaybackRedirect&amp;st.sig=b63bb477f778576baebc2fa3d9788febf2dc0fb6&amp;st.mq=2&amp;st.mvid=283494779538&amp;st.ip=190.38.123.201&amp;st.exp=1490373228348&amp;_prevCmd=movieLayer&amp;tkn=2104&amp;vdsig=Ms3fzNwH_ShhWT52oJYHEquu1C4</link>
 <thumbnail></thumbnail>
 </item>
 
-     <item>
-<title>MBC 3</title>
-<link>rtmp://www.teledunet.com:1935/live/?idu=migo21_gg4ifjbtoi playpath=mbc_2 swfurl=http://cdncdn.zonein1.com/kikikili.swf</link>
-<thumbnail></thumbnail>
-</item> 
 
 </channel>	
 
