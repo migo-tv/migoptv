@@ -87,7 +87,20 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://www.ashams.com[eplist.param1
 <page></page>
 </regex>
 </item>
-    
+ 
+ <item>
+<title>YourSportInHD - ESPN</title>
+<link>https://www.tvaddons.ag/forums/$doregex[get_m3u8]|Referer=h**p://yoursportsinhd.com/ncaa&User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36</link>
+<regex>
+<name>get_m3u8</name>
+<expres>([^"]*m3u8.*)"</expres>
+<page>h**p://yoursportsinhd.com/ncaa/espn/</page>
+<referer>h**p://yoursportsinhd.com/ncaa/</referer>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<connection>keep-alive</connection>
+</regex>
+</item>
+ 
 <item>
 <title>MBC 1 [COLOR=FF00FF00]HD[/COLOR]</title>         
 <link>http://selevision9881-i.akamaihd.net/hls/live/219186/98813/1.m3u8</link>
