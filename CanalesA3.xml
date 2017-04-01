@@ -10,11 +10,11 @@
         <title>[showlist.param3]</title>
         <link>$doregex[eplist]</link>
         <thumbnail>[showlist.param2]</thumbnail>
-		<fanart>http://s.ashams.com/static/css/images/logo-header.png</fanart>
+                <fanart>http://s.ashams.com/static/css/images/logo-header.png</fanart>
     ]]></listrepeat>
     <expres><![CDATA[<a href="(.*?)".*?background: url.(.*?).\s.*\n.*?p>(.*?)<]]></expres>
     <page>$doregex[getpages]</page>
-	<cookieJar></cookieJar>
+        <cookieJar></cookieJar>
 </regex>
 
 <regex>
@@ -44,11 +44,11 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://www.ashams.com/videos/551-%D
         <title>[eplist.param3]</title>
         <link>$doregex[url]</link>
         <thumbnail>[eplist.param2]</thumbnail>
-		<fanart>[showlist.param2]</fanart>
+                <fanart>[showlist.param2]</fanart>
     ]]></listrepeat>
     <expres><![CDATA[<a href="(.*?)".*?background: url.(.*?)\).*\n.*\n.*?>(.*?)<]]></expres>
     <page>$doregex[getspages]</page>
-	<cookieJar></cookieJar>
+        <cookieJar></cookieJar>
 </regex>
 
 <regex>
