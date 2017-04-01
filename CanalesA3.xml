@@ -2,8 +2,13 @@
 <channel>	
  
  <item>
-<title>PRUEBA</title>
+<title>MTV Leb</title>
 <link>https://svs.itworkscdn.net/mtvlebanonlive/mtvlive.smil/playlist.m3u8</link>
+</item>
+ 
+ <item>
+<title>OTV Leb</title>
+<link>https://svs.itworkscdn.net/otvlebanonlive/otv.smil/playlist.m3u8</link>
 </item>
  
   <item>
