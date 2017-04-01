@@ -4230,39 +4230,34 @@
 	</item>
 </streaminginfo>
 <streaminginfo>
-   	<cname>Syria Aloula</cname>
-	<item>
-	<title>Med</title>
+   	<item>
+	<title>Syria Aloula SD</title>
 	<link>http://82.137.248.21:1935/Aloula/AloulaLive2/playlist.m3u8</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
-   	<cname>Syria Aloula</cname>
-	<item>
-	<title>High</title>
+   	<item>
+	<title>Syria Aloula HQ</title>
 	<link>http://82.137.248.21:1935/Aloula/AloulaLive3/playlist.m3u8</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
-   	<cname>Syria Drama</cname>
-	<item>
-	<title>Low</title>
+   	<item>
+	<title>Syria Drama HQ</title>
 	<link>http://82.137.248.21:1935/Drama/DramaLive1/playlist.m3u8</link>
 	</item>
 </streaminginfo>
 
 <streaminginfo>
-   	<cname>Syria Drama</cname>
-	<item>
-	<title>Med</title>
+   	<item>
+	<title>Syria Drama SD</title>
 	<link>http://82.137.248.21:1935/Drama/DramaLive2/playlist.m3u8</link>
 	</item>
 </streaminginfo>
 
 <streaminginfo>
-   	<cname>Syria Drama</cname>
-	<item>
-	<title>High</title>
+   	<item>
+	<title>Syria Drama High</title>
 	<link>http://82.137.248.21:1935/Drama/DramaLive3/playlist.m3u8</link>
 	</item>
 </streaminginfo>
@@ -4333,9 +4328,8 @@
 	</item>
 </streaminginfo>
 <streaminginfo>
-   	<cname>Syria Talaqie</cname>
-	<item>
-	<title>High</title>
+   	<item>
+	<title>Talaqie HQ</title>
 	<link>http://82.137.248.20:1935/Talaqie/TalaqieLive3/playlist.m3u8</link>
 	</item>
 </streaminginfo>
