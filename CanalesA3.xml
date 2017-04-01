@@ -156,8 +156,8 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://www.ashams.com[eplist.param1
 </item>
   
  <item>
-<title>BEIN Sport HD 2</title> 
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.23.248.74:8000/live/857d852308/265452e/972.ts</link>
+<title>BEIN Sport HD 6</title> 
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.23.248.74:8000/live/63dddcdaba/265452e/1958.ts</link>
 <thumbnail></thumbnail>
 </item>
     
