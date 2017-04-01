@@ -150,14 +150,14 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://www.ashams.com[eplist.param1
 </item>
 
  <item>
-<title>MBC Drama</title> 
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/live/pedro/skype/1788.ts</link>
+<title>MBC Drama 2</title> 
+<link>http://213.202.233.130:8000/streaming/clients_live.php?username=5b656f6c4a&amp;password=265452e&amp;stream=1387&amp;extension=ts&amp;hash=076f6394a67bbe23d77f8b8a5c6ce03d&amp;time=1491010726</link>
 <thumbnail></thumbnail>
 </item>
   
  <item>
 <title>BEIN Sport HD 6</title> 
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.23.248.74:8000/live/63dddcdaba/265452e/1958.ts</link>
+<link>http://213.202.233.130:8000/streaming/clients_live.php?username=5b656f6c4a&amp;password=265452e&amp;stream=1387&amp;extension=ts&amp;hash=076f6394a67bbe23d77f8b8a5c6ce03d&amp;time=1491010726&amp;external_device=</link>
 <thumbnail></thumbnail>
 </item>
     
