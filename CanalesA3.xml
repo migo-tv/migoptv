@@ -1,6 +1,160 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <channel>	
  
+	<streaminginfo>
+   	<cname>Syria Aloula</cname>
+	<item>
+	<title>Low</title>
+	<link>http://82.137.248.21:1935/Aloula/AloulaLive1/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+   	<item>
+	<title>Syria Aloula SD</title>
+	<link>http://82.137.248.21:1935/Aloula/AloulaLive2/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+   	<item>
+	<title>Syria Aloula HQ</title>
+	<link>http://82.137.248.21:1935/Aloula/AloulaLive3/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+   	<item>
+	<title>Syria Drama HQ</title>
+	<link>http://82.137.248.21:1935/Drama/DramaLive1/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+   	<item>
+	<title>Syria Drama SD</title>
+	<link>http://82.137.248.21:1935/Drama/DramaLive2/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+   	<item>
+	<title>Syria Drama High</title>
+	<link>http://82.137.248.21:1935/Drama/DramaLive3/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+   	<cname>Syria</cname>
+	<item>
+	<title>Low</title>
+	<link>http://82.137.248.16:1935/Sat/SatLive1/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+   	<cname>Syria</cname>
+	<item>
+	<title>Med</title>
+	<link>http://82.137.248.16:1935/Sat/SatLive2/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+   	<cname>Syria</cname>
+	<item>
+	<title>High</title>
+	<link>http://82.137.248.16:1935/Sat/SatLive3/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+   	<cname>Syria Nour</cname>
+	<item>
+	<title>Low</title>
+	<link>http://82.137.248.21:1935/Nour/NourLive1/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+    <cname>Syria Nour</cname>
+	<item>
+	<title>Med: You need to install f4m_tester addon from Shani Repo</title>
+	<link>plugin://plugin.video.f4mTester/?url=http://82.137.248.21:1935/Nour/NourLive3/manifest.f4m</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+   	<cname>Syria Nour</cname>
+	<item>
+	<title>Med</title>
+	<link>http://82.137.248.21:1935/Nour/NourLive2/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+   	<cname>Syria Nour</cname>
+	<item>
+	<title>High</title>
+	<link>http://82.137.248.21:1935/Nour/NourLive3/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+   	<cname>Syria Talaqie</cname>
+	<item>
+	<title>Low</title>
+	<link>http://82.137.248.20:1935/Talaqie/TalaqieLive1/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+   	<cname>Syria Talaqie</cname>
+	<item>
+	<title>Med</title>
+	<link>http://82.137.248.20:1935/Talaqie/TalaqieLive2/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+   	<item>
+	<title>Talaqie HQ</title>
+	<link>http://82.137.248.20:1935/Talaqie/TalaqieLive3/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+   	<cname>Syria Sedu</cname>
+	<item>
+	<title>Low</title>
+	<link>http://82.137.248.20/SEdu/SEduLive1/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+   	<cname>Syria Sedu</cname>
+	<item>
+	<title>Med</title>
+	<link>http://82.137.248.20/SEdu/SEduLive2/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+   	<cname>Syria Sedu</cname>
+	<item>
+	<title>High</title>
+	<link>http://82.137.248.20/SEdu/SEduLive3/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+   	<cname>Al Ikhbaria Syria</cname>
+	<item>
+	<title>Low</title>
+	<link>http://82.137.248.16:1935/Snews/SnewsLive1/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+   	<cname>Al Ikhbaria Syria</cname>
+	<item>
+	<title>Med</title>
+	<link>http://82.137.248.16:1935/Snews/SnewsLive2/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
+   	<cname>Al Ikhbaria Syria</cname>
+	<item>
+	<title>High</title>
+	<link>http://82.137.248.16:1935/Snews/SnewsLive3/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+	
  <item>
 <title>MTV Leb</title>
 <link>https://svs.itworkscdn.net/mtvlebanonlive/mtvlive.smil/playlist.m3u8</link>
@@ -4222,159 +4376,7 @@
 	</item>
 </streaminginfo>
 
-<streaminginfo>
-   	<cname>Syria Aloula</cname>
-	<item>
-	<title>Low</title>
-	<link>http://82.137.248.21:1935/Aloula/AloulaLive1/playlist.m3u8</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-   	<item>
-	<title>Syria Aloula SD</title>
-	<link>http://82.137.248.21:1935/Aloula/AloulaLive2/playlist.m3u8</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-   	<item>
-	<title>Syria Aloula HQ</title>
-	<link>http://82.137.248.21:1935/Aloula/AloulaLive3/playlist.m3u8</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-   	<item>
-	<title>Syria Drama HQ</title>
-	<link>http://82.137.248.21:1935/Drama/DramaLive1/playlist.m3u8</link>
-	</item>
-</streaminginfo>
 
-<streaminginfo>
-   	<item>
-	<title>Syria Drama SD</title>
-	<link>http://82.137.248.21:1935/Drama/DramaLive2/playlist.m3u8</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-   	<item>
-	<title>Syria Drama High</title>
-	<link>http://82.137.248.21:1935/Drama/DramaLive3/playlist.m3u8</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-   	<cname>Syria</cname>
-	<item>
-	<title>Low</title>
-	<link>http://82.137.248.16:1935/Sat/SatLive1/playlist.m3u8</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-   	<cname>Syria</cname>
-	<item>
-	<title>Med</title>
-	<link>http://82.137.248.16:1935/Sat/SatLive2/playlist.m3u8</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-   	<cname>Syria</cname>
-	<item>
-	<title>High</title>
-	<link>http://82.137.248.16:1935/Sat/SatLive3/playlist.m3u8</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-   	<cname>Syria Nour</cname>
-	<item>
-	<title>Low</title>
-	<link>http://82.137.248.21:1935/Nour/NourLive1/playlist.m3u8</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-    <cname>Syria Nour</cname>
-	<item>
-	<title>Med: You need to install f4m_tester addon from Shani Repo</title>
-	<link>plugin://plugin.video.f4mTester/?url=http://82.137.248.21:1935/Nour/NourLive3/manifest.f4m</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-   	<cname>Syria Nour</cname>
-	<item>
-	<title>Med</title>
-	<link>http://82.137.248.21:1935/Nour/NourLive2/playlist.m3u8</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-   	<cname>Syria Nour</cname>
-	<item>
-	<title>High</title>
-	<link>http://82.137.248.21:1935/Nour/NourLive3/playlist.m3u8</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-   	<cname>Syria Talaqie</cname>
-	<item>
-	<title>Low</title>
-	<link>http://82.137.248.20:1935/Talaqie/TalaqieLive1/playlist.m3u8</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-   	<cname>Syria Talaqie</cname>
-	<item>
-	<title>Med</title>
-	<link>http://82.137.248.20:1935/Talaqie/TalaqieLive2/playlist.m3u8</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-   	<item>
-	<title>Talaqie HQ</title>
-	<link>http://82.137.248.20:1935/Talaqie/TalaqieLive3/playlist.m3u8</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-   	<cname>Syria Sedu</cname>
-	<item>
-	<title>Low</title>
-	<link>http://82.137.248.20/SEdu/SEduLive1/playlist.m3u8</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-   	<cname>Syria Sedu</cname>
-	<item>
-	<title>Med</title>
-	<link>http://82.137.248.20/SEdu/SEduLive2/playlist.m3u8</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-   	<cname>Syria Sedu</cname>
-	<item>
-	<title>High</title>
-	<link>http://82.137.248.20/SEdu/SEduLive3/playlist.m3u8</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-   	<cname>Al Ikhbaria Syria</cname>
-	<item>
-	<title>Low</title>
-	<link>http://82.137.248.16:1935/Snews/SnewsLive1/playlist.m3u8</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-   	<cname>Al Ikhbaria Syria</cname>
-	<item>
-	<title>Med</title>
-	<link>http://82.137.248.16:1935/Snews/SnewsLive2/playlist.m3u8</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-   	<cname>Al Ikhbaria Syria</cname>
-	<item>
-	<title>High</title>
-	<link>http://82.137.248.16:1935/Snews/SnewsLive3/playlist.m3u8</link>
-	</item>
-</streaminginfo>
 <streaminginfo>
    	<cname>Baraem</cname>
 	<item>
