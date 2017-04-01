@@ -89,16 +89,23 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://www.ashams.com[eplist.param1
 </item>
  
  <item>
-<title>MBC - Drama</title>
-<link>http://elahmad.com/tv/result/teleweb.php|Referer=http://elahmad.com/tv/vlc.php&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; rv:45.0) Gecko/20100101 Firefox/45.0</link>
-<regex>
-<name>1385</name>
-<expres>([^"]*ts.*)"</expres>
-<page>http://elahmad.com/tv/vlc.php</page>
-<referer>http://elahmad.com/tv/vlc.php</referer>
-<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
-<connection>keep-alive</connection>
-</regex>
+<title>MBC - P1</title>
+<link>http://91.121.104.43:8000/live/ppppg88cxdfPm/DFD11234/1382.ts?id=3190193097</link>
+</item>
+ 
+  <item>
+<title>MBC - P2</title>
+<link>http://91.121.104.43:8000/live/ppppg88cxdfPm/DFD11234/1382.ts</link>
+</item>
+ 
+  <item>
+<title>MBC - P3</title>
+<link>http://91.121.104.43:8000/live/ppppg88cxdfPm/DFD11234/1382.m3u?id=3190193097</link>
+</item>
+ 
+  <item>
+<title>MBC - P2</title>
+<link>http://91.121.104.43:8000/live/ppppg88cxdfPm/DFD11234/1382.ts</link>
 </item>
  
 <item>
