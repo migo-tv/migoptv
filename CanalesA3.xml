@@ -26,75 +26,15 @@
 <link>http://shamfm.info:8200/;</link>
 </item>
 	
-<item>
-<title>Syria Drama HQ</title>
-<link>http://82.137.248.21:1935/Aloula/AloulaLive3/playlist.m3u8</link>
-</item>
-	
-	
-	<streaminginfo>
-   	<cname>Syria Aloula</cname>
-	<item>
-	<title>Low</title>
-	<link>http://82.137.248.21:1935/Aloula/AloulaLive1/playlist.m3u8</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-   	<item>
-	<title>Syria Aloula SD</title>
-	<link>http://82.137.248.21:1935/Aloula/AloulaLive2/playlist.m3u8</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-   	<item>
-	<title>Syria Aloula HQ</title>
-	<link>http://82.137.248.21:1935/Aloula/AloulaLive3/playlist.m3u8</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-   	
-</streaminginfo>
 
-<streaminginfo>
-   	<item>
-	<title>Syria Drama SD</title>
-	<link>http://82.137.248.21:1935/Drama/DramaLive2/playlist.m3u8</link>
-	</item>
-</streaminginfo>
+	
 
-<streaminginfo>
-   	<item>
-	<title>Syria Drama High</title>
-	<link>http://82.137.248.21:1935/Drama/DramaLive3/playlist.m3u8</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-   	<cname>Syria</cname>
-	<item>
-	<title>Low</title>
-	<link>http://82.137.248.16:1935/Sat/SatLive1/playlist.m3u8</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-   	<cname>Syria</cname>
-	<item>
-	<title>Med</title>
-	<link>http://82.137.248.16:1935/Sat/SatLive2/playlist.m3u8</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-   	<cname>Syria</cname>
-	<item>
-	<title>High</title>
-	<link>http://82.137.248.16:1935/Sat/SatLive3/playlist.m3u8</link>
-	</item>
-</streaminginfo>
 
 <streaminginfo>
    	<cname>Syria Nour</cname>
 	<item>
-	<title>Low</title>
-	<link>http://82.137.248.21:1935/Nour/NourLive1/playlist.m3u8</link>
+	<title>MBC4</title>
+	<link>rtmp://162.212.176.107/mbc_4/globaltv-mbc_4.stream</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
