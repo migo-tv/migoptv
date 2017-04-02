@@ -22,8 +22,13 @@
 </item>
 	
 <item>
-<title>SHAM FM</title>
-<link>http://shamfm.tv:1935/live/shamfm/playlist.m3u8</link>
+<title>SHAM FM Radio</title>
+<link>http://shamfm.info:8200/;</link>
+</item>
+	
+<item>
+<title>Syria Drama HQ</title>
+<link>http://82.137.248.21:1935/Aloula/AloulaLive3/playlist.m3u8</link>
 </item>
 	
 	
@@ -47,10 +52,7 @@
 	</item>
 </streaminginfo>
 <streaminginfo>
-   	<item>
-	<title>Syria Drama HQ</title>
-	<link>http://82.137.248.21:1935/Drama/DramaLive1/playlist.m3u8</link>
-	</item>
+   	
 </streaminginfo>
 
 <streaminginfo>
