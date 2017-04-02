@@ -7,15 +7,26 @@
 </item>
 
 <item>
-			<title>official</title>
-				<link>$doregex[get-url]</link>
-				<regex><name>get-url</name>
-<expres>file: "(.*?)"</expres>
-<page>http://mtv.com.lb/Live/Player</page>
-</regex>
+<title>Al Ikhbaria Syria SD</title>
+<link>http://82.137.248.16:1935/Snews/SnewsLive2/playlist.m3u8</link>
+</item>
 
-		</item>
-
+<item>
+<title>Al Ikhbaria Syria HQ</title>
+<link>http://82.137.248.16:1935/Snews/SnewsLive3/playlist.m3u8</link>
+</item>
+	
+<item>
+<title>Sama Syria</title>
+<link>http://sama-tv.net:1935/live/samatv/playlist.m3u8</link>
+</item>
+	
+<item>
+<title>SHAM FM</title>
+<link>http://shamfm.tv:1935/live/shamfm/playlist.m3u8</link>
+</item>
+	
+	
 	<streaminginfo>
    	<cname>Syria Aloula</cname>
 	<item>
@@ -155,20 +166,10 @@
 	<link>http://82.137.248.16:1935/Snews/SnewsLive1/playlist.m3u8</link>
 	</item>
 </streaminginfo>
-<streaminginfo>
-   	<cname>Al Ikhbaria Syria</cname>
-	<item>
-	<title>Med</title>
-	<link>http://82.137.248.16:1935/Snews/SnewsLive2/playlist.m3u8</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-   	<cname>Al Ikhbaria Syria</cname>
-	<item>
-	<title>High</title>
-	<link>http://82.137.248.16:1935/Snews/SnewsLive3/playlist.m3u8</link>
-	</item>
-</streaminginfo>
+
+   	
+	
+
 	
  <item>
 <title>MTV Leb</title>
