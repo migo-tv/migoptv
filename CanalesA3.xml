@@ -34,13 +34,13 @@
 <item>
 <title>ART Hekayat</title> 
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://195.154.154.185:5890/live/ahmedd/ahmedd/59.ts&amp;streamtype=TSDOWNLOADER&amp;name=ART Hekayat</link>
-<thumbnail></thumbnail>
+<thumbnail>https://github.com/migo-tv/migoptv/blob/master/art_hekayat.jpg?raw=true</thumbnail>
 </item>	
 
 <item>
 <title>ART Hekayat 2</title> 
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://195.154.154.185:5890/live/ahmedd/ahmedd/60.ts&amp;streamtype=TSDOWNLOADER&amp;name=ART Hekayat</link>
-<thumbnail></thumbnail>
+<thumbnail>https://github.com/migo-tv/migoptv/blob/master/art_hekayat_2.jpg?raw=true</thumbnail>
 </item>	
 	
 <item>
