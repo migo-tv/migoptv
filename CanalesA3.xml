@@ -9,15 +9,11 @@
      
 <item> 
 <title>MBC 4</title> 
-<link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/ahmedd/ahmedd/64.ts&amp;streamtype=TSDOWNLOADER&amp;name=MBC 4</link> 
+<link>http://195.154.154.185:5890/live/ahmedd/ahmedd/64.ts</link> 
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mbc4.jpg</thumbnail>
 </item>
       
-<item> 
-<title>MBC Drama</title> 
-<link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/ahmedd/ahmedd/67.ts&amp;streamtype=TSDOWNLOADER&amp;name=MBC DRAMA</link> 
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mbc4.jpg</thumbnail>
-</item>
+
     
 <item>
 <title>MTV [COLOR=FF00FF00]HD[/COLOR]</title>
