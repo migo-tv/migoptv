@@ -2,8 +2,8 @@
 <channel>	
  
 <item> 
-<title>MOMO 3</title> 
-<link>plugin://plugin.video.f4mTester/?url=http://www.teledunet.com/mobile/rtmp_player/?channel=mbc_1&amp;streamer=rtmp://www.teledunet.com:1935/live/?idu=migo21_td3nexooxr&amp;streamtype=TSDOWNLOADER</link>
+<title>osn cinema 1</title> 
+<link>rtmp://www.teledunet.com:1935/live/?idu=migo21_onmqwoalwe playpath=osn_cinema_1 swfUrl=http://www.teledunet.com/mobile/rtmp_player/player.swf pageUrl=http://www.teledunet.com/mobile/rtmp_player/?channel=osn_cinema_1&amp;streamer=rtmp://www.teledunet.com:1935/live/?idu=migo21_onmqwoalwe</link>
 <thumbnail></thumbnail>
 </item>
 	
