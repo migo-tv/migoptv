@@ -7,10 +7,10 @@
 <thumbnail></thumbnail>
 </item>
 	
-	<item> 
-<title>MOMO 9</title> 
-<link>rtmp://www.teledunet.com:1935/live/?idu=migo21_onmqwoalwe/mbc_1</link>
-<thumbnail></thumbnail>
+<item> 
+<title>MOMO 99</title> 
+<link>rtmp://www.teledunet.com:1935/live/?idu=migo21_onmqwoalwe playpath=mbc_1 swfUrl=http://www.teledunet.com/mobile/rtmp_player/player.swf pageUrl=http://www.teledunet.com/mobile/rtmp_player/?channel=mbc_1&amp;streamer=rtmp://www.teledunet.com:1935/live/?idu=migo21_onmqwoalwe</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mbc1.jpg</thumbnail>
 </item>
 	
 <item> 
