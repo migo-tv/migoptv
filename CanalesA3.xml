@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <channel>	
  
+	<item> 
+<title>MOMO 1</title> 
+<link>http://client.momoiptv.com:8088/live/faCebooK.cOm/glOstarTv/56.ts</link>
+<link>http://217.23.6.80:25461/live/faCebooK.cOm/glOstarTv/56.ts?token=GRsJUxVbFAwWBgIFAwMGV1IDAlxXV1xQCQtcVFBQVFcHDVIGB1EABVdGGBBAQUAAAlk8UAZGAlEGHkdARwQUPgtdQwhEBgcFFkgWRlpYV0dZBVcAUFUKXAYAUxkWEQ8FQANDA14HAQQWSBZXS0FXFw1VD2YGAU4NU1dHD1oUCg1OGw5cOVdTW1UKUBAJFwJHTxYKShJGAkZzcythYkE1BBBPCFEPXEUWYgFaV0lAVwkCFk8bAA1MFlFGABcOQ1dRVQ9DHkRQWUNaEEZLEQ8QMyYWTxsHHEwBXkEMWlpDXEMWSkMeRFpFaUYBR0ZBUFMIBkZBA0BUGkgSXwRNawIJDwxcAkYPXFhFFl4WAwMFEElBWQxXCxBXFm9CDFEWW0RQWwFTAURO</link> 
+<thumbnail></thumbnail>
+</item>
+	
 <item> 
 <title>MBC 1 13417</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/5725.ts&amp;streamtype=TSDOWNLOADER</link> 
