@@ -1,6 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <channel>	
  
+<item>
+<title>LBC International [COLOR=FF00FF00]HD[/COLOR]</title>         
+<link>http://selevision9891-i.akamaihd.net/hls/live/219336/98919/1.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ll/lbc_sat.jpg</thumbnail>
+</item>
+    
+
+<item> 
+<title>MBC 1</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://ns3004967.ip-151-80-35.eu:25461/live/toni/toni/945.ts&amp;streamtype=TSDOWNLOADER</link> 
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mbc1.jpg</thumbnail>
+</item>
+     
+<item> 
+<title>MBC 4</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://ns3004967.ip-151-80-35.eu:25461/live/toni/toni/948.ts&amp;streamtype=TSDOWNLOADER</link> 
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mbc4.jpg</thumbnail>
+</item>
+	
 	
 <!-------------->
 
@@ -47,17 +66,6 @@
 
 
 
-<item> 
-<title>MBC 1 13417</title> 
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/5725.ts&amp;streamtype=TSDOWNLOADER</link> 
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mbc1.jpg</thumbnail>
-</item>
-     
-<item> 
-<title>MBC 4 131417</title> 
-<link>plugin://plugin.video.f4mTester/?url=http://xcmain.mine.nu:8080/live/jdillon845/Sxrg9elTS8/5713.ts&amp;streamtype=TSDOWNLOADER</link> 
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mbc4.jpg</thumbnail>
-</item>
     
 	<item> 
 <title>MBC 1 (2)</title> 
@@ -171,12 +179,7 @@
 <thumbnail>https://github.com/migo-tv/migoptv/blob/master/LOGOS%20TV/abu_dhabi_tv_ae.jpg?raw=true</thumbnail>
 </item>
      
- <item>
-<title>LBC International [COLOR=FF00FF00]HD[/COLOR]</title>         
-<link>http://selevision9891-i.akamaihd.net/hls/live/219336/98919/1.m3u8</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ll/lbc_sat.jpg</thumbnail>
-</item>
-    
+
 
     
 <item>
