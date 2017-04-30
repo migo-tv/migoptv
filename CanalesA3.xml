@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <channel>	
  
-<item> 
-<title>fAYROUZ hYMNS gOOD fRIDAY</title> 
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=cMoRDMaMNK8</link>
-<thumbnail>https://i.ytimg.com/vi/gS1jWd2iYgY/hqdefault.jpg?custom=true&amp;w=168&amp;h=94&amp;stc=true&amp;jpg444=true&amp;jpgq=90&amp;sp=67&amp;sigh=woZvU4GDGSDynEr4Syr3hLeu9OQ</thumbnail>
-</item>
 	
 <item> 
 <title>MBC 1</title> 
@@ -14,8 +9,8 @@
 </item>
 
 <item> 
-<title>LBC</title> 
-<link>rtmp://www.teledunet.com:1935/live/?idu=migo21_s58h0ds3jn playpath=lbc swfUrl=http://www.teledunet.com/mobile/rtmp_player/player.swf pageUrl=http://www.teledunet.com/mobile/rtmp_player/?channel=lbc&amp;streamer=rtmp://www.teledunet.com:1935/live/?idu=migo21_s58h0ds3jn</link>
+<title>MBC 4</title> 
+<link>http://94.23.248.74:8000/live/cc661660ce/265452e/1382.ts</link>
 <thumbnail></thumbnail>
 </item>
 	
@@ -26,14 +21,14 @@
 <link>plugin://plugin.video.f4mTester/?url=http://iptv.kodi.ps:8000/live/Strar7Arab/Strar7Arab.com/19.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail></thumbnail>
 </item>	
-
+ rtmp://www.teledunet.net:1935/live?idu=hala1992_64814592960/otv_lebanon
 	<item> 
-<title>mbc 4</title> 
-<link>rtmp://5.135.134.110:1935/teledunet playpath=mbc_4 swfUrl=http://www.teledunet.com/player/player.swf?id0=83140575897600&amp;skin=bekle/bekle.xml&amp;channel=mbc_4 pageUrl=http://www.teledunet.com/player/?channel=mbc_4 conn=S:OK</link>
+<title>OTV LEBANON</title> 
+<link> rtmp://www.teledunet.net:1935/live playpath=otv_lebanon swfUrl=http://www.teledunet.com/player/player.swf?id0=hala1992_64814592960&amp;skin=bekle/bekle.xml&amp;channel=otv_lebanon pageUrl=http://www.teledunet.com/player/?channel=otv_lebanon conn=S:OK</link>
 <thumbnail></thumbnail>
 </item>
 	<item> 
-<title>Abu Dhabi 4</title> 
+<title>OTV LEBANON 2</title> 
 <link>http://adtv.ercdn.net/adalemarat/adalemarat_480p.m3u8?v=3200705392</link>
 <thumbnail></thumbnail>
 </item>
