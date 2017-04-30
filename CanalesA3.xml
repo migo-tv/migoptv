@@ -20,6 +20,19 @@
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mbc4.jpg</thumbnail>
 </item>
 	
+	<item>
+<title>ARABICA [COLOR=FF00FF00]HD[/COLOR]</title> 
+<link>http://ns3004967.ip-151-80-35.eu:25461/live/toni/toni/1162.ts</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/arabica_music_tv.png</thumbnail>
+</item>
+	
+
+<item>
+<title>MTV Lebanon [COLOR=FF00FF00]HD[/COLOR]</title>
+<link>http://ns3004967.ip-151-80-35.eu:25461/live/toni/toni/1042.ts</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/murr_tv_lebanon.jpg</thumbnail>
+</item>
+
 	
 <!-------------->
 
@@ -261,12 +274,6 @@
 
 
 
-<item>
-<title>MTV 2 [COLOR=FF00FF00]HD[/COLOR]</title>
-<link>http://ts001.cdn03.greek.zaaptv.com:80/timeshift/m3u8/H7sKl3SdMtvL_delayed_3600.m3u8?__token__=ip=190.38.123.201~exp=1486684643~acl=/timeshift/m3u8/H7sKl3SdMtvL_delayed_3600.m3u8*~hmac=84e0125d24ffb97f9c2a1fc101e685ffa902f5bb7506f37483303a7402bc16ef</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/murr_tv_lebanon.jpg</thumbnail>
-</item>
-
 
 
 
@@ -302,11 +309,7 @@
       
       
 
-<item>
-<title>ARABICA [COLOR=FF00FF00]HD[/COLOR]</title> 
-<link>http://ts001.cdn03.greek.zaaptv.com:80/timeshift/m3u8/arabica_delayed_2100.m3u8?__token__=ip=190.38.123.201~exp=1486862469~acl=/timeshift/m3u8/arabica_delayed_2100.m3u8*~hmac=c6c4b211e5e3815b83bda1f5dcf37844d5759f960ff18ed841819104c5ad6e83</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/arabica_music_tv.png</thumbnail>
-</item>
+
       
 <item>
 <title>Rotana Clip [COLOR=FF00FF00]HD[/COLOR]</title>         
