@@ -5,12 +5,7 @@
 <!-------------->
 
 <item>
-<title>BEIN 9HD</title> 
-<link>http://iptv.ndasat.com:88/live/21047/21047/80.ts|Cookie=PHPSESSID=f3n00betsu83sgid5tqfppf1q1&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0</link> 
-</item>
-
-<item>
-<title>IPTV MBC 4 .TS</title> 
+<title>IPTV MBC 42 .TS</title> 
 <link>http://94.23.248.74:8000/live/bda14d6d6c/265452e/1382.ts|Cookie=$doregex[getPHPSESSID]|live=1 timeout=30</link> 
 <regex>
 <name>getPHPSESSID</name>
