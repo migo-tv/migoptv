@@ -10,15 +10,38 @@
 
 <item>
 <title>Syria TV [COLOR=FF00FF00]HD[/COLOR]</title> 
-<link>rtmp://82.137.248.16:1935/Sat?gmswf=3190193097 playpath=SatLive3 swfUrl=http://www.elahmad.com/tv/swf/player.swf?file=syriantv&amp;autostart=true&amp;/[[DYNAMIC]]/2/[[DYNAMIC]]/3 pageUrl=http://www.elahmad.com/tv/syria-tv-live.php</link>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=BsJ7iZ7bRxA</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/syria_satellite_channel.jpg</thumbnail>
 </item>	
 	
 <item>
 <title>Syria Drama [COLOR=FF00FF00]HD[/COLOR]</title> 
-<link>rtmp://82.137.248.21:1935/Drama?gmswf=3190193097 playpath=DramaLive3 swfUrl=http://www.elahmad.com/tv/swf/player.swf?file=syria_drama&amp;autostart=true&amp;/[[DYNAMIC]]/2/[[DYNAMIC]]/3 pageUrl=http://www.elahmad.com/tv/syria-drama-tv.php</link>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=bi4OC-qOzQk</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/syria_drama_channel.jpg</thumbnail>
 </item>
 
+<item>
+<title>AL JADEED YouTube</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=enD9RtQ96IQ</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/al_jadeed.jpg</thumbnail>
+</item>
+
+<item>
+<title>CBC Drama YouTube</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=kM9gbp1oHis</link>
+<thumbnail>https://github.com/migo-tv/migoptv/blob/master/LOGOS%20TV/cbc_eg_drama.jpg?raw=true</thumbnail>
+</item>
+	
+<item>
+<title>DMC Drama YouTube</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=kM9gbp1oHis</link>
+<thumbnail>https://github.com/migo-tv/migoptv/blob/master/LOGOS%20TV/DMC_DRAMA.jpg?raw=true</thumbnail>
+</item>
+
+<item>
+<title>SOURYANA YouTube</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=uGt9w2OgUMo</link>
+<thumbnail>https://github.com/migo-tv/migoptv/blob/master/LOGOS%20TV/SOURYANA.jpg?raw=true</thumbnail>
+</item>	
 
  </channel>  
