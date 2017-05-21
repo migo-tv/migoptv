@@ -7,10 +7,10 @@
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ll/lbc_sat.jpg</thumbnail>
 </item>
     
-
+      
 <item>
-<title>Syria TV [COLOR=FF00FF00]HD[/COLOR]</title> 
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=BsJ7iZ7bRxA</link>
+<title>Syria TV 2[COLOR=FF00FF00]HD[/COLOR]</title> 
+<link>plugin://plugin.video.youtube/?path=/root/video&amp;action=play_video&amp;videoid=BsJ7iZ7bRxA</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/syria_satellite_channel.jpg</thumbnail>
 </item>	
 	
