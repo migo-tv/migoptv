@@ -22,7 +22,7 @@
 
 <item>
 <title>AL JADEED YouTube</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=enD9RtQ96IQ</link>
+<link>plugin://plugin.video.youtube/?path=/root/video&amp;action=play_video&amp;videoid=enD9RtQ96IQ</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/al_jadeed.jpg</thumbnail>
 </item>
 
