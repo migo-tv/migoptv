@@ -90,7 +90,9 @@
 
 <item>
 <title>SOURYANA YouTube</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=uGt9w2OgUMo</link>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=uGt9w2OgUMo.m3u8</link>
+<link>https://www.youtube.com/watch?v=uGt9w2OgUMo.m3u8</link>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=uGt9w2OgUMo 360p</link>
 <thumbnail>https://github.com/migo-tv/migoptv/blob/master/LOGOS%20TV/SOURYANA.jpg?raw=true</thumbnail>
 </item>	
 
