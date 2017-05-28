@@ -3,39 +3,49 @@
 	
 <item>
 <title>MBC 4 [COLOR=FF00FF00]HD[/COLOR]</title>         
-<link>http://81.230.200.187:1967/live/kodi/xbmc/13.ts</link>
+<link>http://81.230.200.187:1967/live/cxyM44UVAu/wUuD9v6JtR/13.ts</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mbc4.jpg</thumbnail>
+</item>
+
+<item>
+<title>MBC Drama [COLOR=FF00FF00]HD[/COLOR]</title>         
+<link>http://81.230.200.187:1967/live/cxyM44UVAu/wUuD9v6JtR/4.ts</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mbc_plus_drama_hd.jpg</thumbnail>
 </item>
     
 <item>
 <title>Syria TV [COLOR=FF00FF00]HD[/COLOR]</title> 
-<link>http://81.230.200.187:1967/live/kodi/xbmc/36.ts</link>
+<link>http://81.230.200.187:1967/live/cxyM44UVAu/wUuD9v6JtR/36.ts</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/syria_satellite_channel.jpg</thumbnail>
 </item>	
+		
+<item>
+<title>Syria Drama [COLOR=FF00FF00]HD[/COLOR]</title> 
+<link>http://81.230.200.187:1967/live/cxyM44UVAu/wUuD9v6JtR/37.ts</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/syria_drama_channel.jpg</thumbnail>
+</item>
 
 <item>
 <title>Sama Syria [COLOR=FF00FF00]HD[/COLOR]</title>
-<link>http://81.230.200.187:1967/live/kodi/xbmc/66.ts</link>
+<link>hhttp://81.230.200.187:1967/live/cxyM44UVAu/wUuD9v6JtR/66.ts</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sama_tv.jpg</thumbnail>
 </item>
 	
-	<item>
+<item>
 <title>Al Jadeed [COLOR=FF00FF00]HD[/COLOR]</title>         
-<link>http://81.230.200.187:1967/live/kodi/xbmc/57.ts</link>
+<link>http://81.230.200.187:1967/live/cxyM44UVAu/wUuD9v6JtR/57.ts</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/al_jadeed.jpg</thumbnail>
 </item>
-	<item>
+
+<item>
 <title>MTV [COLOR=FF00FF00]HD[/COLOR]</title>
-<link>http://81.230.200.187:1967/live/kodi/xbmc/109.ts</link>
+<link>http://81.230.200.187:1967/live/cxyM44UVAu/wUuD9v6JtR/57.ts</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/murr_tv_lebanon.jpg</thumbnail>
 </item>
 
+
 	
-<item>
-<title>Syria Drama [COLOR=FF00FF00]HD[/COLOR]</title> 
-<link>http://81.230.200.187:1967/live/kodi/xbmc/37.ts</link>
-<thumbnail>http://81.230.200.187:1967/live/kodi/xbmc/37.ts</thumbnail>
-</item>
+	
 	
 <item>
 <title>LBC International [COLOR=FF00FF00]HD[/COLOR]</title>         
@@ -49,6 +59,8 @@
 <link>plugin://plugin.video.youtube/?path=/root/video&amp;action=play_video&amp;videoid=BsJ7iZ7bRxA</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/syria_satellite_channel.jpg</thumbnail>
 </item>	
+
+	
 	
 <item>
 <title>Syria Drama [COLOR=FF00FF00]HD[/COLOR]</title> 
