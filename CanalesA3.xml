@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <channels>
 	
-<channel> 	
+<channel> 
+<name>Canales ARABES</name>
+<items>
 <item>
 <title>MBC 4 [COLOR=FF00FF00]HD[/COLOR]</title>         
 <link>http://81.230.200.187:1967/live/cxyM44UVAu/wUuD9v6JtR/13.ts</link>
@@ -92,13 +94,15 @@
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=i0T31TDKrrI</link>
 <thumbnail>https://i.ytimg.com/vi/i0T31TDKrrI/hqdefault.jpg</thumbnail>
 </item>
+</items>
  </channel> 
 	
 	
 	
 <channel> 
-<title>Al Haqaeb</title>
-	<thumbnail>https://i.ytimg.com/vi/2zL8tzhaQ3k/hqdefault.jpg</thumbnail>
+<name>Al Haqaeb</name>
+<thumbnail>https://i.ytimg.com/vi/2zL8tzhaQ3k/hqdefault.jpg</thumbnail>
+<items>
 <item>
 <title>Al Haqaeb 1</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ZwOuO7jZBck</link>
@@ -114,13 +118,15 @@
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=2zL8tzhaQ3k</link>
 <thumbnail>https://i.ytimg.com/vi/2zL8tzhaQ3k/hqdefault.jpg</thumbnail>
 </item>
+</items>
 </channel> 
 	
 
 	
 <channel> 
-<title>Katoon 2</title>
+<name>Katoon 2</name>
 <thumbnail>https://i.ytimg.com/vi/A8sHk1dhjL4/hqdefault.jpg</thumbnail>
+<items>
 <item>
 <title>Katoon 2 Ep1</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=rT8li_N0lGk</link>
@@ -146,11 +152,13 @@
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=rGth9tFvIak</link>
 <thumbnail>https://i.ytimg.com/vi/rGth9tFvIak/hqdefault.jpg</thumbnail>
 </item>
+</items>
 </channel> 
 	
 <channel> 
-<title>Al Kan</title>
+<name>Al Kan</name>
 <thumbnail>https://i.ytimg.com/vi/hJg3NR16W0g/hqdefault.jpg</thumbnail>
+<items>
 <item>
 <title>Al Kan Ep1</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=hJg3NR16W0g</link>
@@ -176,11 +184,13 @@
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=3DWAo4aHMrQ</link>
 <thumbnail>https://i.ytimg.com/vi/3DWAo4aHMrQ/hqdefault.jpg</thumbnail>
 </item>
+</items>
 </channel> 
 	
 <channel> 
-<title>Ana w Arbaa Banat</title>
+<name>Ana w Arbaa Banat</name>
 <thumbnail>https://i.ytimg.com/vi/GQmxnHmRj1Q/hqdefault.jpg</thumbnail>
+<items>
 <item>
 <title>Ana w Arbaa Banat 1</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=GQmxnHmRj1Q</link>
@@ -201,6 +211,65 @@
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=pXrw9RhxeRA</link>
 <thumbnail>https://i.ytimg.com/vi/pXrw9RhxeRA/hqdefault.jpg</thumbnail>
 </item>
-</channel> 	
+</items>
+</channel> 
+	
+	
+	
+	
+<channel> 
+<name>Lastu Jariya</name>
+<thumbnail>https://i.ytimg.com/vi/UoXZg6tYIKk/hqdefault.jpg</thumbnail>
+<items>
+<item>
+<title>Lastu Jariya 1</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=UoXZg6tYIKk</link>
+<thumbnail>https://i.ytimg.com/vi/UoXZg6tYIKk/hqdefault.jpg</thumbnail>
+</item>
+<item>
+<title>Lastu Jariya 2</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=UdFrHtjba3U</link>
+<thumbnail>https://i.ytimg.com/vi/UdFrHtjba3U/hqdefault.jpg</thumbnail>
+</item>
+<item>
+<title>Lastu Jariya 3</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=HXiYkhXmaYA</link>
+<thumbnail>https://i.ytimg.com/vi/HXiYkhXmaYA/hqdefault.jpg</thumbnail>
+</item>
+<item>
+<title>Lastu Jariya 4</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Zm99BCXmqeU</link>
+<thumbnail>https://i.ytimg.com/vi/Zm99BCXmqeU/hqdefault.jpg</thumbnail>
+</item>
+</items>
+</channel> 
+	
+	
+<channel> 
+<name>Lastu Jariya</name>
+<thumbnail>https://i.ytimg.com/vi/UoXZg6tYIKk/hqdefault.jpg</thumbnail>
+<items>
+<item>
+<title>Lastu Jariya 1</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=UoXZg6tYIKk</link>
+<thumbnail>https://i.ytimg.com/vi/UoXZg6tYIKk/hqdefault.jpg</thumbnail>
+</item>
+<item>
+<title>Lastu Jariya 2</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=UdFrHtjba3U</link>
+<thumbnail>https://i.ytimg.com/vi/UdFrHtjba3U/hqdefault.jpg</thumbnail>
+</item>
+<item>
+<title>Lastu Jariya 3</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=HXiYkhXmaYA</link>
+<thumbnail>https://i.ytimg.com/vi/HXiYkhXmaYA/hqdefault.jpg</thumbnail>
+</item>
+<item>
+<title>Lastu Jariya 4</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Zm99BCXmqeU</link>
+<thumbnail>https://i.ytimg.com/vi/Zm99BCXmqeU/hqdefault.jpg</thumbnail>
+</item>
+</items>
+</channel> 
 	
  </channels>  
