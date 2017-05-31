@@ -3,6 +3,7 @@
 	
 <channel> 
 <name>Canales ARABES</name>
+<thumbnail>https://i.ytimg.com/vi/gOvLf3YJtnE/hqdefault.jpg</thumbnail>
 <items>
 <item>
 <title>MBC 4 [COLOR=FF00FF00]HD[/COLOR]</title>         
@@ -95,7 +96,7 @@
 <thumbnail>https://i.ytimg.com/vi/i0T31TDKrrI/hqdefault.jpg</thumbnail>
 </item>
 </items>
- </channel> 
+</channel> 
 	
 	
 	
@@ -246,28 +247,55 @@
 	
 	
 <channel> 
-<name>Lastu Jariya</name>
-<thumbnail>https://i.ytimg.com/vi/UoXZg6tYIKk/hqdefault.jpg</thumbnail>
+<name>Zawjati Ana</name>
+<thumbnail>https://i.ytimg.com/vi/gbCbW2zIuDg/hqdefault.jpg</thumbnail>
 <items>
 <item>
-<title>Lastu Jariya 1</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=UoXZg6tYIKk</link>
-<thumbnail>https://i.ytimg.com/vi/UoXZg6tYIKk/hqdefault.jpg</thumbnail>
+<title>Zawjati Ana 1</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=M1BIYALV95A</link>
+<thumbnail>https://i.ytimg.com/vi/M1BIYALV95A/hqdefault.jpg</thumbnail>
 </item>
 <item>
-<title>Lastu Jariya 2</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=UdFrHtjba3U</link>
-<thumbnail>https://i.ytimg.com/vi/UdFrHtjba3U/hqdefault.jpg</thumbnail>
+<title>Zawjati Ana 2</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=hZdznX8ZCTM</link>
+<thumbnail>https://i.ytimg.com/vi/hZdznX8ZCTM/hqdefault.jpg</thumbnail>
 </item>
 <item>
-<title>Lastu Jariya 3</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=HXiYkhXmaYA</link>
-<thumbnail>https://i.ytimg.com/vi/HXiYkhXmaYA/hqdefault.jpg</thumbnail>
+<title>Zawjati Ana 3</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=MUo2O9NATbc</link>
+<thumbnail>https://i.ytimg.com/vi/MUo2O9NATbc/hqdefault.jpg</thumbnail>
 </item>
 <item>
-<title>Lastu Jariya 4</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Zm99BCXmqeU</link>
-<thumbnail>https://i.ytimg.com/vi/Zm99BCXmqeU/hqdefault.jpg</thumbnail>
+<title>Zawjati Ana 4</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=aC-z5Iur9KE</link>
+<thumbnail>https://i.ytimg.com/vi/aC-z5Iur9KE/hqdefault.jpg</thumbnail>
+</item>
+</items>
+</channel> 
+	
+<channel> 
+<name>BiLa7za</name>
+<thumbnail>https://i.ytimg.com/vi/uqlqpezdUf8/hqdefault.jpg</thumbnail>
+<items>
+<item>
+<title>BiLa7za 1</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=uqlqpezdUf8</link>
+<thumbnail>https://i.ytimg.com/vi/uqlqpezdUf8/hqdefault.jpg</thumbnail>
+</item>
+<item>
+<title>BiLa7za 2</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=pXoxqkrz718</link>
+<thumbnail>https://i.ytimg.com/vi/pXoxqkrz718/hqdefault.jpg</thumbnail>
+</item>
+<item>
+<title>BiLa7za 3</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=LV-PxYITTNw</link>
+<thumbnail>https://i.ytimg.com/vi/LV-PxYITTNw/hqdefault.jpg</thumbnail>
+</item>
+<item>
+<title>BiLa7za 4</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=zp72V3iUH4E</link>
+<thumbnail>https://i.ytimg.com/vi/zp72V3iUH4E/hqdefault.jpg</thumbnail>
 </item>
 </items>
 </channel> 
