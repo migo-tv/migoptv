@@ -1,69 +1,54 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<channel>	
+<channels>
 	
+<channel> 	
 <item>
 <title>MBC 4 [COLOR=FF00FF00]HD[/COLOR]</title>         
 <link>http://81.230.200.187:1967/live/cxyM44UVAu/wUuD9v6JtR/13.ts</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mbc4.jpg</thumbnail>
 </item>
-
 <item>
 <title>MBC Drama [COLOR=FF00FF00]HD[/COLOR]</title>         
 <link>http://81.230.200.187:1967/live/cxyM44UVAu/wUuD9v6JtR/4.ts</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mbc_plus_drama_hd.jpg</thumbnail>
 </item>
-    
 <item>
 <title>Syria TV [COLOR=FF00FF00]HD[/COLOR]</title> 
 <link>http://82.137.248.16:1935/Sat/SatLive1/chunklist_w1647146440.m3u8</link>
 <link>http://82.137.248.16:1935/Sat/SatLive1/playlist.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/syria_satellite_channel.jpg</thumbnail>
 </item>	
-		
 <item>
 <title>Syria Drama2 [COLOR=FF00FF00]HD[/COLOR]</title> 
 <link>http://82.137.248.21:1935/Drama/DramaLive3/playlist.m3u8</link>
 <link>http://82.137.248.21:1935/Drama/DramaLive1/playlist.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/syria_drama_channel.jpg</thumbnail>
 </item>
-
 <item>
 <title>Sama Syria [COLOR=FF00FF00]HD[/COLOR]</title>
 <link>hhttp://81.230.200.187:1967/live/cxyM44UVAu/wUuD9v6JtR/66.ts</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sama_tv.jpg</thumbnail>
-</item>
-	
+</item>	
 <item>
 <title>Al Jadeed [COLOR=FF00FF00]HD[/COLOR]</title>         
 <link>http://81.230.200.187:1967/live/cxyM44UVAu/wUuD9v6JtR/57.ts</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/al_jadeed.jpg</thumbnail>
 </item>
-
 <item>
 <title>MTV [COLOR=FF00FF00]HD[/COLOR]</title>
 <link>http://81.230.200.187:1967/live/cxyM44UVAu/wUuD9v6JtR/57.ts</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/murr_tv_lebanon.jpg</thumbnail>
-</item>
-
-
-	
-	
-	
+</item>	
 <item>
 <title>LBC International [COLOR=FF00FF00]HD[/COLOR]</title>         
 <link>http://selevision9891-i.akamaihd.net/hls/live/219336/98919/1.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ll/lbc_sat.jpg</thumbnail>
 </item>
-    
-      
 <item>
 <title>Syria TV 2[COLOR=FF00FF00]HD[/COLOR]</title> 
 <link>plugin://plugin.video.youtube/?path=/root/video&amp;action=play_video&amp;videoid=BsJ7iZ7bRxA</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/syria_satellite_channel.jpg</thumbnail>
 </item>	
-
-	
-	
 <item>
 <title>Syria Drama [COLOR=FF00FF00]HD[/COLOR]</title> 
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=bi4OC-qOzQk</link>
@@ -75,19 +60,16 @@
 <link>plugin://plugin.video.youtube/?path=/root/video&amp;action=play_video&amp;videoid=enD9RtQ96IQ</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/al_jadeed.jpg</thumbnail>
 </item>
-
 <item>
 <title>CBC Drama YouTube</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=kM9gbp1oHis</link>
 <thumbnail>https://github.com/migo-tv/migoptv/blob/master/LOGOS%20TV/cbc_eg_drama.jpg?raw=true</thumbnail>
 </item>
-	
 <item>
 <title>DMC Drama YouTube</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=kM9gbp1oHis</link>
 <thumbnail>https://github.com/migo-tv/migoptv/blob/master/LOGOS%20TV/DMC_DRAMA.jpg?raw=true</thumbnail>
 </item>
-
 <item>
 <title>SOURYANA YouTube</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=uGt9w2OgUMo.m3u8</link>
@@ -95,24 +77,130 @@
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=uGt9w2OgUMo 360p</link>
 <thumbnail>https://github.com/migo-tv/migoptv/blob/master/LOGOS%20TV/SOURYANA.jpg?raw=true</thumbnail>
 </item>	
-
-
 <item>
 <title>Harb al Nojoom - KIDS</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=LlS455qo1oA</link>
 <thumbnail>https://i.ytimg.com/vi/JDSsHsRD6v8/hqdefault.jpg</thumbnail>
 </item>
-	
 <item>
 <title>Hayda Haki - Najwa 23/05/17</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Q-tg3v_lr3E</link>
 <thumbnail>https://i.ytimg.com/vi/8tVM_vhGHQE/hqdefault.jpg</thumbnail>
 </item>
-
 <item>
 <title>Harb al Nojoom - Wafek habib Dina Hayek</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=i0T31TDKrrI</link>
 <thumbnail>https://i.ytimg.com/vi/i0T31TDKrrI/hqdefault.jpg</thumbnail>
 </item>
+ </channel> 
 	
- </channel>  
+	
+	
+<channel> 
+<title>Al Haqaeb</title>
+	<thumbnail>https://i.ytimg.com/vi/2zL8tzhaQ3k/hqdefault.jpg</thumbnail>
+<item>
+<title>Al Haqaeb 1</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ZwOuO7jZBck</link>
+<thumbnail>https://i.ytimg.com/vi/ZwOuO7jZBck/hqdefault.jpg</thumbnail>
+</item>
+<item>
+<title>Al Haqaeb 2</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=hQtoBXVNulk</link>
+<thumbnail>https://i.ytimg.com/vi/hQtoBXVNulk/hqdefault.jpg</thumbnail>
+</item>
+<item>
+<title>Al Haqaeb 3</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=2zL8tzhaQ3k</link>
+<thumbnail>https://i.ytimg.com/vi/2zL8tzhaQ3k/hqdefault.jpg</thumbnail>
+</item>
+</channel> 
+	
+
+	
+<channel> 
+<title>Katoon 2</title>
+<thumbnail>https://i.ytimg.com/vi/A8sHk1dhjL4/hqdefault.jpg</thumbnail>
+<item>
+<title>Katoon 2 Ep1</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=rT8li_N0lGk</link>
+<thumbnail>https://i.ytimg.com/vi/rT8li_N0lGk/hqdefault.jpg</thumbnail>
+</item>
+<item>
+<title>Katoon 2 Ep2</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=qOWg8wJdqH8</link>
+<thumbnail>https://i.ytimg.com/vi/qOWg8wJdqH8/hqdefault.jpg</thumbnail>
+</item>
+<item>
+<title>Katoon 2 Ep3</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=A8sHk1dhjL4</link>
+<thumbnail>https://i.ytimg.com/vi/A8sHk1dhjL4/hqdefault.jpg</thumbnail>
+</item>
+<item>
+<title>Katoon 2 Ep4</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=e46sHZtTBzc</link>
+<thumbnail>https://i.ytimg.com/vi/e46sHZtTBzc/hqdefault.jpg</thumbnail>
+</item>
+<item>
+<title>Katoon 2 Ep5</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=rGth9tFvIak</link>
+<thumbnail>https://i.ytimg.com/vi/rGth9tFvIak/hqdefault.jpg</thumbnail>
+</item>
+</channel> 
+	
+<channel> 
+<title>Al Kan</title>
+<thumbnail>https://i.ytimg.com/vi/hJg3NR16W0g/hqdefault.jpg</thumbnail>
+<item>
+<title>Al Kan Ep1</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=hJg3NR16W0g</link>
+<thumbnail>https://i.ytimg.com/vi/hJg3NR16W0g/hqdefault.jpg</thumbnail>
+</item>
+<item>
+<title>Al Kan Ep2</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Ge4yI0lVcDg</link>
+<thumbnail>https://i.ytimg.com/vi/Ge4yI0lVcDg/hqdefault.jpg</thumbnail>
+</item>
+<item>
+<title>Al Kan Ep3</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=fBQInzuglsI</link>
+<thumbnail>https://i.ytimg.com/vi/fBQInzuglsI/hqdefault.jpg</thumbnail>
+</item>
+<item>
+<title>Al Kan Ep4</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=b8xH7SDpq_U</link>
+<thumbnail>https://i.ytimg.com/vi/b8xH7SDpq_U/hqdefault.jpg</thumbnail>
+</item>
+<item>
+<title>Al Kan Ep5</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=3DWAo4aHMrQ</link>
+<thumbnail>https://i.ytimg.com/vi/3DWAo4aHMrQ/hqdefault.jpg</thumbnail>
+</item>
+</channel> 
+	
+<channel> 
+<title>Ana w Arbaa Banat</title>
+<thumbnail>https://i.ytimg.com/vi/GQmxnHmRj1Q/hqdefault.jpg</thumbnail>
+<item>
+<title>Ana w Arbaa Banat 1</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=GQmxnHmRj1Q</link>
+<thumbnail>https://i.ytimg.com/vi/GQmxnHmRj1Q/hqdefault.jpg</thumbnail>
+</item>
+<item>
+<title>Ana w Arbaa Banat 2</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=XgYc2HlINf8</link>
+<thumbnail>https://i.ytimg.com/vi/XgYc2HlINf8/hqdefault.jpg</thumbnail>
+</item>
+<item>
+<title>Ana w Arbaa Banat 3</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=pxQYCHiwkvc</link>
+<thumbnail>https://i.ytimg.com/vi/pxQYCHiwkvc/hqdefault.jpg</thumbnail>
+</item>
+<item>
+<title>Ana w Arbaa Banat 4</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=pXrw9RhxeRA</link>
+<thumbnail>https://i.ytimg.com/vi/pXrw9RhxeRA/hqdefault.jpg</thumbnail>
+</item>
+</channel> 	
+	
+ </channels>  
