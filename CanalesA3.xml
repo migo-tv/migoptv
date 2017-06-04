@@ -80,24 +80,69 @@
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=uGt9w2OgUMo 360p</link>
 <thumbnail>https://github.com/migo-tv/migoptv/blob/master/LOGOS%20TV/SOURYANA.jpg?raw=true</thumbnail>
 </item>	
+
+
+</items>
+</channel> 
+	
+	
+
+	<channel> 
+<name>THE RING</name>
+<thumbnail>https://raw.githubusercontent.com/migo-tv/migoptv/master/THERING.jpg</thumbnail>
+<items>
 <item>
 <title>Harb al Nojoom - KIDS</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=LlS455qo1oA</link>
 <thumbnail>https://i.ytimg.com/vi/JDSsHsRD6v8/hqdefault.jpg</thumbnail>
 </item>
 <item>
-<title>Hayda Haki - Najwa 23/05/17</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Q-tg3v_lr3E</link>
-<thumbnail>https://i.ytimg.com/vi/8tVM_vhGHQE/hqdefault.jpg</thumbnail>
-</item>
-<item>
 <title>Harb al Nojoom - Wafek habib Dina Hayek</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=i0T31TDKrrI</link>
 <thumbnail>https://i.ytimg.com/vi/i0T31TDKrrI/hqdefault.jpg</thumbnail>
 </item>
+<item>
+<title>Harb al Nojoom - Hossam Gned</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=mNhyOA9uRRw</link>
+<thumbnail>https://i.ytimg.com/vi/mNhyOA9uRRw/hqdefault.jpg</thumbnail>
+</item>	
+<item>
+<title>Harb al Nojoom - Hazem el Sherif - Rim Maharat </title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=1DUhDpHEpaM</link>
+<thumbnail>https://i.ytimg.com/vi/1DUhDpHEpaM/hqdefault.jpg</thumbnail>
+</item>	
+<item>
+<title>Harb al Nojoom - Hisham El Hajj - Poussy</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=NTat_AOqcwM</link>
+<thumbnail>https://i.ytimg.com/vi/NTat_AOqcwM/hqdefault.jpg</thumbnail>
+</item>
+<item>
+<title>Harb al Nojoom - Rabih el Asmar - Saad el sughayar</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=u6KLIUzkKXg</link>
+<thumbnail>https://i.ytimg.com/vi/u6KLIUzkKXg/hqdefault.jpg</thumbnail>
+</item>
+<item>
+<title>Harb al Nojoom - Issam Karika - Sara Al-Hani</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=bLUXwCCzUXI</link>
+<thumbnail>https://i.ytimg.com/vi/bLUXwCCzUXI/hqdefault.jpg</thumbnail>
+</item>
+<item>
+<title>Harb al Nojoom - Nadin Saab - Muhammad AlMagzub </title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=guI2kGAN7Uo</link>
+<thumbnail>https://i.ytimg.com/vi/guI2kGAN7Uo/hqdefault.jpg</thumbnail>
+</item>
+<item>
+<title>Harb al Nojoom - Amir Yzbek - Amina </title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=guI2kGAN7Uo</link>
+<thumbnail>https://i.ytimg.com/vi/guI2kGAN7Uo/hqdefault.jpg</thumbnail>
+</item>
+	<item>
+<title>Harb al Nojoom - Ziad Brshe - Abdulhadi Hamuda </title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=KmffVKcwd_o</link>
+<thumbnail>https://i.ytimg.com/vi/KmffVKcwd_o/hqdefault.jpg</thumbnail>
+</item>
 </items>
 </channel> 
-	
 	
 	
 <channel> 
