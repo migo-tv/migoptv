@@ -260,59 +260,6 @@
 </items>
 </channel> 
 	
-	
-	
-	
-<channel> 
-<name>Lastu Jariya</name>
-<thumbnail>https://i.ytimg.com/vi/QRdYkaek--E/hqdefault.jpg</thumbnail>
-<items>
-<item>
-<title>Lastu Jariya 1</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=UoXZg6tYIKk</link>
-<thumbnail>https://i.ytimg.com/vi/UoXZg6tYIKk/hqdefault.jpg</thumbnail>
-</item>
-<item>
-<title>Lastu Jariya 2</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=UdFrHtjba3U</link>
-<thumbnail>https://i.ytimg.com/vi/UdFrHtjba3U/hqdefault.jpg</thumbnail>
-</item>
-<item>
-<title>Lastu Jariya 3</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=HXiYkhXmaYA</link>
-<thumbnail>https://i.ytimg.com/vi/HXiYkhXmaYA/hqdefault.jpg</thumbnail>
-</item>
-<item>
-<title>Lastu Jariya 4</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Zm99BCXmqeU</link>
-<thumbnail>https://i.ytimg.com/vi/Zm99BCXmqeU/hqdefault.jpg</thumbnail>
-</item>
-
-<item>
-<title>Lastu Jariya 5</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=av7oXcqI3cg</link>
-<thumbnail>https://i.ytimg.com/vi/av7oXcqI3cg/hqdefault.jpg</thumbnail>
-</item>
-<item>
-<title>Lastu Jariya 6</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=bcRmPhi-BC0</link>
-<thumbnail>https://i.ytimg.com/vi/bcRmPhi-BC0/hqdefault.jpg</thumbnail>
-</item>
-<item>
-<title>Lastu Jariya 7</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Rv-ZYHVBbnY</link>
-<thumbnail>https://i.ytimg.com/vi/Rv-ZYHVBbnY/hqdefault.jpg</thumbnail>
-</item>
-<item>
-<title>Lastu Jariya 8</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=QRdYkaek--E</link>
-<thumbnail>https://i.ytimg.com/vi/QRdYkaek--E/hqdefault.jpg</thumbnail>
-</item>
-	
-</items>
-</channel> 
-	
-	
 <channel> 
 <name>Zawjati Ana</name>
 <thumbnail>https://i.ytimg.com/vi/gbCbW2zIuDg/hqdefault.jpg</thumbnail>
@@ -338,7 +285,61 @@
 <thumbnail>https://i.ytimg.com/vi/aC-z5Iur9KE/hqdefault.jpg</thumbnail>
 </item>
 </items>
+</channel> 	
+	
+	
+<channel> 
+<name>Lastu Jariya</name>
+<thumbnail>https://i.ytimg.com/vi/xaMACzn4HwI/hqdefault.jpg</thumbnail>
+<items>
+<item>
+<title>Lastu Jariya 1</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=UoXZg6tYIKk</link>
+<thumbnail>https://i.ytimg.com/vi/UoXZg6tYIKk/hqdefault.jpg</thumbnail>
+</item>
+<item>
+<title>Lastu Jariya 2</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=UdFrHtjba3U</link>
+<thumbnail>https://i.ytimg.com/vi/UdFrHtjba3U/hqdefault.jpg</thumbnail>
+</item>
+<item>
+<title>Lastu Jariya 3</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=HXiYkhXmaYA</link>
+<thumbnail>https://i.ytimg.com/vi/HXiYkhXmaYA/hqdefault.jpg</thumbnail>
+</item>
+<item>
+<title>Lastu Jariya 4</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Zm99BCXmqeU</link>
+<thumbnail>https://i.ytimg.com/vi/Zm99BCXmqeU/hqdefault.jpg</thumbnail>
+</item>
+<item>
+<title>Lastu Jariya 5</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=av7oXcqI3cg</link>
+<thumbnail>https://i.ytimg.com/vi/av7oXcqI3cg/hqdefault.jpg</thumbnail>
+</item>
+<item>
+<title>Lastu Jariya 6</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=bcRmPhi-BC0</link>
+<thumbnail>https://i.ytimg.com/vi/bcRmPhi-BC0/hqdefault.jpg</thumbnail>
+</item>
+<item>
+<title>Lastu Jariya 7</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Rv-ZYHVBbnY</link>
+<thumbnail>https://i.ytimg.com/vi/Rv-ZYHVBbnY/hqdefault.jpg</thumbnail>
+</item>
+<item>
+<title>Lastu Jariya 8</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=QRdYkaek--E</link>
+<thumbnail>https://i.ytimg.com/vi/QRdYkaek--E/hqdefault.jpg</thumbnail>
+</item>
+<item>
+<title>Lastu Jariya 9</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=xaMACzn4HwI</link>
+<thumbnail>https://i.ytimg.com/vi/xaMACzn4HwI/hqdefault.jpg</thumbnail>
+</item>	
+</items>
 </channel> 
+	
 	
 <channel> 
 <name>BiLa7za</name>
