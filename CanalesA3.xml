@@ -290,7 +290,7 @@
 	
 <channel> 
 <name>Lastu Jariya</name>
-<thumbnail>https://i.ytimg.com/vi/CDDFYy_f0f0/hqdefault.jpg</thumbnail>
+<thumbnail>https://i.ytimg.com/vi/7hHuN-KL6xA/hqdefault.jpg</thumbnail>
 <items>
 <item>
 <title>Lastu Jariya 1</title>
@@ -367,13 +367,23 @@
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=CDDFYy_f0f0</link>
 <thumbnail>https://i.ytimg.com/vi/CDDFYy_f0f0/hqdefault.jpg</thumbnail>
 </item>
+<item>
+<title>Lastu Jariya 16</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=NmF0fA6x-m4</link>
+<thumbnail>https://i.ytimg.com/vi/NmF0fA6x-m4/hqdefault.jpg</thumbnail>
+</item>
+<item>
+<title>Lastu Jariya 17</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=7hHuN-KL6xA</link>
+<thumbnail>https://i.ytimg.com/vi/7hHuN-KL6xA/hqdefault.jpg</thumbnail>
+</item>
 </items>
 </channel> 
 	
 	
 <channel> 
 <name>BiLa7za</name>
-<thumbnail>https://i.ytimg.com/vi/j00q4pp2idE/hqdefault.jpg</thumbnail>
+<thumbnail>https://i.ytimg.com/vi/HILO0eV9Qx0/hqdefault.jpg</thumbnail>
 <items>
 <item>
 <title>BiLa7za 1</title>
@@ -450,6 +460,16 @@
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=j00q4pp2idE</link>
 <thumbnail>https://i.ytimg.com/vi/j00q4pp2idE/hqdefault.jpg</thumbnail>
 </item>	
+<item>
+<title>BiLa7za 16</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=SSjCgCPXi40</link>
+<thumbnail>https://i.ytimg.com/vi/SSjCgCPXi40/hqdefault.jpg</thumbnail>
+</item>
+<item>
+<title>BiLa7za 17</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=HILO0eV9Qx0</link>
+<thumbnail>https://i.ytimg.com/vi/HILO0eV9Qx0/hqdefault.jpg</thumbnail>
+</item>
 </items>
 </channel>
 	
