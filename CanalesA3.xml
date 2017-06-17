@@ -513,4 +513,22 @@
 </items>
 </channel>
 	
+	<channel> 
+<name>Al Jadeed programs</name>
+<thumbnail>https://i.ytimg.com/vi/94RHx99xo2w/hqdefault.jpg</thumbnail>
+<items>
+<item>
+<title>Pro 1</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=94RHx99xo2w</link>
+<thumbnail>https://i.ytimg.com/vi/94RHx99xo2w/hqdefault.jpg</thumbnail>
+</item>
+<item>
+<title>Pro 2</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=V064JvvcV70</link>
+<thumbnail>https://i.ytimg.com/vi/V064JvvcV70/hqdefault.jpg</thumbnail>
+</item>
+
+</items>
+</channel>
+	
  </channels>  
