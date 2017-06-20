@@ -290,7 +290,7 @@
 	
 <channel> 
 <name>Lastu Jariya</name>
-<thumbnail>https://i.ytimg.com/vi/0TJXkGnyqtI/hqdefault.jpg</thumbnail>
+<thumbnail>https://i.ytimg.com/vi/L1frl8f6Sys/hqdefault.jpg</thumbnail>
 <items>
 <item>
 <title>Lastu Jariya 1</title>
@@ -412,13 +412,18 @@
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=0TJXkGnyqtI</link>
 <thumbnail>https://i.ytimg.com/vi/0TJXkGnyqtI/hqdefault.jpg</thumbnail>
 </item>
+	<item>
+<title>Lastu Jariya 25</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=L1frl8f6Sys</link>
+<thumbnail>https://i.ytimg.com/vi/L1frl8f6Sys/hqdefault.jpg</thumbnail>
+</item>
 </items>
 </channel> 
 	
 	
 <channel> 
 <name>BiLa7za</name>
-<thumbnail>https://i.ytimg.com/vi/926Cd35wQbM/hqdefault.jpg</thumbnail>
+<thumbnail>https://i.ytimg.com/vi/eXxt0EklC1U/hqdefault.jpg</thumbnail>
 <items>
 <item>
 <title>BiLa7za 1</title>
@@ -540,6 +545,44 @@
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=926Cd35wQbM</link>
 <thumbnail>https://i.ytimg.com/vi/926Cd35wQbM/hqdefault.jpg</thumbnail>
 </item>
+	<item>
+<title>BiLa7za 25</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=eXxt0EklC1U</link>
+<thumbnail>https://i.ytimg.com/vi/eXxt0EklC1U/hqdefault.jpg</thumbnail>
+</item>
+</items>
+</channel>
+	<channel> 
+<name>El Heibe</name>
+<thumbnail>https://i.ytimg.com/vi//hqdefault.jpg</thumbnail>
+<items>
+<item>
+<title>El Heibe 1</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</link>
+<thumbnail>https://i.ytimg.com/vi//hqdefault.jpg</thumbnail>
+</item>
+	<item>
+<title>El Heibe 2</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</link>
+<thumbnail>https://i.ytimg.com/vi//hqdefault.jpg</thumbnail>
+</item>
+	<item>
+<title>El Heibe 3</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</link>
+<thumbnail>https://i.ytimg.com/vi//hqdefault.jpg</thumbnail>
+</item>
+	<item>
+<title>El Heibe 4</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</link>
+<thumbnail>https://i.ytimg.com/vi//hqdefault.jpg</thumbnail>
+</item>
+	<item>
+<title>El Heibe 5</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</link>
+<thumbnail>https://i.ytimg.com/vi//hqdefault.jpg</thumbnail>
+</item>
+
+
 </items>
 </channel>
 	
