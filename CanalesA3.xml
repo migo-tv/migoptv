@@ -11,9 +11,9 @@
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mbc4.jpg</thumbnail>
 </item>
 <item>
-<title>MBC Drama [COLOR=FF00FF00]HD[/COLOR]</title>         
-<link>http://81.230.200.187:1967/live/cxyM44UVAu/wUuD9v6JtR/4.ts</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mbc_plus_drama_hd.jpg</thumbnail>
+<title>MBC 1 [COLOR=FF00FF00]HD[/COLOR]</title>         
+<link>http://selevision9881-i.akamaihd.net/hls/live/219186/98813/1.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mbc1.jpg</thumbnail>
 </item>
 <item>
 <title>Syria TV [COLOR=FF00FF00]HD[/COLOR]</title> 
@@ -34,12 +34,12 @@
 </item>	
 <item>
 <title>Al Jadeed [COLOR=FF00FF00]HD[/COLOR]</title>         
-<link>http://81.230.200.187:1967/live/cxyM44UVAu/wUuD9v6JtR/57.ts</link>
+<link>http://selevision9886-i.akamaihd.net/hls/live/219282/98866/1.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/al_jadeed.jpg</thumbnail>
 </item>
 <item>
 <title>MTV [COLOR=FF00FF00]HD[/COLOR]</title>
-<link>http://81.230.200.187:1967/live/cxyM44UVAu/wUuD9v6JtR/57.ts</link>
+<link>http://selevision9883-i.akamaihd.net/hls/live/219250/98834/1.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/murr_tv_lebanon.jpg</thumbnail>
 </item>	
 <item>
@@ -290,7 +290,7 @@
 	
 <channel> 
 <name>Lastu Jariya</name>
-<thumbnail>https://i.ytimg.com/vi/L1frl8f6Sys/hqdefault.jpg</thumbnail>
+<thumbnail>https://i.ytimg.com/vi/8KXp8vmjhvY/hqdefault.jpg</thumbnail>
 <items>
 <item>
 <title>Lastu Jariya 1</title>
@@ -417,13 +417,18 @@
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=L1frl8f6Sys</link>
 <thumbnail>https://i.ytimg.com/vi/L1frl8f6Sys/hqdefault.jpg</thumbnail>
 </item>
+	<item>
+<title>Lastu Jariya 26</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=8KXp8vmjhvY</link>
+<thumbnail>https://i.ytimg.com/vi/8KXp8vmjhvY/hqdefault.jpg</thumbnail>
+</item>
 </items>
 </channel> 
 	
 	
 <channel> 
 <name>BiLa7za</name>
-<thumbnail>https://i.ytimg.com/vi/eXxt0EklC1U/hqdefault.jpg</thumbnail>
+<thumbnail>https://i.ytimg.com/vi/jX2V2YHGsQQ/hqdefault.jpg</thumbnail>
 <items>
 <item>
 <title>BiLa7za 1</title>
@@ -549,6 +554,11 @@
 <title>BiLa7za 25</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=eXxt0EklC1U</link>
 <thumbnail>https://i.ytimg.com/vi/eXxt0EklC1U/hqdefault.jpg</thumbnail>
+</item>
+	<item>
+<title>BiLa7za 26</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=jX2V2YHGsQQ</link>
+<thumbnail>https://i.ytimg.com/vi/jX2V2YHGsQQ/hqdefault.jpg</thumbnail>
 </item>
 </items>
 </channel>
