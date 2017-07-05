@@ -91,6 +91,25 @@
 <name>THE RING</name>
 <thumbnail>https://raw.githubusercontent.com/migo-tv/migoptv/master/THERING.jpg</thumbnail>
 <items>
+	
+<item>
+<title>Harb al Nojoom - 1</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=TCeX6I85gWw</link>
+<thumbnail>https://i.ytimg.com/vi/TCeX6I85gWw/hqdefault.jpg</thumbnail>
+</item>
+
+	<item>
+<title>Harb al Nojoom - 2</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=W4PL71-oxLE</link>
+<thumbnail>https://i.ytimg.com/vi/W4PL71-oxLE/hqdefault.jpg</thumbnail>
+</item>
+	
+<item>
+<title>Harb al Nojoom - 3</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=n35rEGSQLqQ</link>
+<thumbnail>https://i.ytimg.com/vi/n35rEGSQLqQ/hqdefault.jpg</thumbnail>
+</item>
+	
 <item>
 <title>Harb al Nojoom - KIDS</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=LlS455qo1oA</link>
