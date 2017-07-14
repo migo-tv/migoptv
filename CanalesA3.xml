@@ -93,12 +93,24 @@
 <items>
 	
 <item>
+<title>Harb al Nojoom - Ayman Zbeb</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=bmMoQQR2bNM</link>
+<thumbnail>https://i.ytimg.com/vi/bmMoQQR2bNM/hqdefault.jpg</thumbnail>
+</item>
+
+<item>
+<title>Harb al Nojoom - 33</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=iuVmEXf8Yvo</link>
+<thumbnail>https://i.ytimg.com/vi/iuVmEXf8Yvo/hqdefault.jpg</thumbnail>
+</item>
+	
+<item>
 <title>Harb al Nojoom - 1</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=TCeX6I85gWw</link>
 <thumbnail>https://i.ytimg.com/vi/TCeX6I85gWw/hqdefault.jpg</thumbnail>
 </item>
 
-	<item>
+<item>
 <title>Harb al Nojoom - 2</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=W4PL71-oxLE</link>
 <thumbnail>https://i.ytimg.com/vi/W4PL71-oxLE/hqdefault.jpg</thumbnail>
