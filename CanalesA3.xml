@@ -93,14 +93,19 @@
 <items>
 	
 	<item>
-<title>Rahu el Habaeb</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=mI8i1rNS5po</link>
-<thumbnail>https://i.ytimg.com/vi/mI8i1rNS5po/hqdefault.jpg</thumbnail>
+<title>Hady Khalil - Roweida Attieh</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=og5eupFYeVs</link>
+<thumbnail>https://i.ytimg.com/vi/og5eupFYeVs/hqdefault.jpg</thumbnail>
+</item>
+	<item>
+<title>HSalia Sawas - Zaki Sheref</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=4kfig8A7XzY</link>
+<thumbnail>https://i.ytimg.com/vi/4kfig8A7XzY/hqdefault.jpg</thumbnail>
 </item>
 
 <item>
 <title>Harb al Nojoom - Ayman Zbeb</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=bmMoQQR2bNM</link>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=4kfig8A7XzY</link>
 <thumbnail>https://i.ytimg.com/vi/bmMoQQR2bNM/hqdefault.jpg</thumbnail>
 </item>
 
