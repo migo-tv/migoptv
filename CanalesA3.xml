@@ -92,6 +92,12 @@
 <thumbnail>https://raw.githubusercontent.com/migo-tv/migoptv/master/THERING.jpg</thumbnail>
 <items>
 	
+	<item>
+<title>Rahu el Habaeb</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=mI8i1rNS5po</link>
+<thumbnail>https://i.ytimg.com/vi/mI8i1rNS5po/hqdefault.jpg</thumbnail>
+</item>
+
 <item>
 <title>Harb al Nojoom - Ayman Zbeb</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=bmMoQQR2bNM</link>
