@@ -87,17 +87,28 @@
 	
 	
 
-	<channel> 
+<channel> 
 <name>THE RING</name>
 <thumbnail>https://raw.githubusercontent.com/migo-tv/migoptv/master/THERING.jpg</thumbnail>
 <items>
+<item>
+<title>Saad Ramadan - Kusei Hatem</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=wK6EeVsIjSc</link>
+<thumbnail>https://i.ytimg.com/vi/wK6EeVsIjSc/hqdefault.jpg</thumbnail>
+</item>
+
+<item>
+<title></title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</link>
+<thumbnail>https://i.ytimg.com/vi//hqdefault.jpg</thumbnail>
+</item>
 	
-	<item>
+<item>
 <title>Hady Khalil - Roweida Attieh</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=og5eupFYeVs</link>
 <thumbnail>https://i.ytimg.com/vi/og5eupFYeVs/hqdefault.jpg</thumbnail>
 </item>
-	<item>
+<item>
 <title>Salia Sawas - Zaki Sheref</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=4kfig8A7XzY</link>
 <thumbnail>https://i.ytimg.com/vi/4kfig8A7XzY/hqdefault.jpg</thumbnail>
@@ -185,6 +196,34 @@
 </item>
 </items>
 </channel> 
+	
+	</items>
+</channel> 
+	
+	
+
+<channel> 
+<name>Haizam Zayyad</name>
+<thumbnail>https://i.ytimg.com/vi/dCc5v2B7-Gw/hqdefault.jpg</thumbnail>
+<items>
+	
+<item>
+<title>Ba3adna Ma Rab2a</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=IJX-lnTjBrk</link>
+<thumbnail>https://i.ytimg.com/vi/IJX-lnTjBrk/hqdefault.jpg</thumbnail>
+</item>
+
+<item>
+<title>Heik Menghane</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=8DYF4CfHdro</link>
+<thumbnail>https://i.ytimg.com/vi/8DYF4CfHdro/hqdefault.jpg</thumbnail>
+</item>
+
+</items>
+</channel> 
+	
+	
+	
 	
 	
 <channel> 
