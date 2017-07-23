@@ -37,12 +37,6 @@
 </item>
 	
 <item>
-<title> [COLOR=FF00FF00]HD[/COLOR]</title>         
-<link></link>
-<thumbnail></thumbnail>
-</item>
-	
-<item>
 <title>Syria Drama [COLOR=FF00FF00]HD[/COLOR]</title> 
 <link>http://sansat.net:25461/live/82002324912369/82002324912369/5006.ts</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/syria_drama_channel.jpg</thumbnail>
@@ -65,6 +59,12 @@
 <link>http://sansat.net:25461/live/82002324912369/82002324912369/5002.ts</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ll/lbc_sat.jpg</thumbnail>
 </item>
+
+<item>
+<title>OTV Lebanon [COLOR=FF00FF00]HD[/COLOR]</title>
+<link>http://sansat.net:25461/live/82002324912369/82002324912369/5078.ts</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/oo/otv_lb.jpg</thumbnail>
+</item>
 	
 <item>
 <title>CBC [COLOR=FF00FF00]HD[/COLOR]</title> 
@@ -77,7 +77,12 @@
 <link>http://sansat.net:25461/live/82002324912369/82002324912369/4839.ts</link>
 <thumbnail>https://github.com/migo-tv/migoptv/blob/master/LOGOS%20TV/cbc_eg_drama.jpg?raw=true</thumbnail>
 </item>
-
+	
+<item>
+<title>ARABICA [COLOR=FF00FF00]HD[/COLOR]</title> 
+<link>http://176.31.226.149:25461/live/testest/testest/206.ts</link>
+<thumbnail>https://github.com/migo-tv/migoptv/blob/master/LOGOS%20TV/arabica_lb.jpg?raw=true</thumbnail>
+</item>
 
 <item>
 <title>AD Drama  [COLOR=FF00FF00]HD[/COLOR]</title>
@@ -90,12 +95,6 @@
 <link>http://sansat.net:25461/live/82002324912369/82002324912369/4937.ts</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/abu_dhabi_al_emarat.jpg</thumbnail>
 </item>	
-
-<item>
-<title>ARABICA [COLOR=FF00FF00]HD[/COLOR]</title> 
-<link>http://176.31.226.149:25461/live/testest/testest/206.ts</link>
-<thumbnail></thumbnail>
-</item>
 	
 <item>
 <title>AL Jadeed 2[COLOR=FF00FF00]HD[/COLOR]</title>
@@ -105,9 +104,14 @@
 <item>
 <title>ARABICA 2[COLOR=FF00FF00]HD[/COLOR]</title> 
 <link>http://sansat.net:25461/live/82002324912369/82002324912369/4995.ts</link>
-<thumbnail></thumbnail>
+<thumbnail>https://github.com/migo-tv/migoptv/blob/master/LOGOS%20TV/arabica_lb.jpg?raw=true</thumbnail>
 </item>	
-	
+
+<item>
+<title>Agaphy TV [COLOR=FF00FF00]HD[/COLOR]</title>
+<link>http://sansat.net:25461/live/82002324912369/82002324912369/5079.ts</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/aghapy_tv.jpg</thumbnail>
+</item>
 
 </items>
 </channel> 
