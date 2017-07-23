@@ -5,82 +5,109 @@
 <name>Canales ARABES</name>
 <thumbnail>https://i.ytimg.com/vi/gOvLf3YJtnE/hqdefault.jpg</thumbnail>
 <items>
-<item>
-<title>MBC 4 [COLOR=FF00FF00]HD[/COLOR]</title>         
-<link>http://81.230.200.187:1967/live/cxyM44UVAu/wUuD9v6JtR/13.ts</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mbc4.jpg</thumbnail>
-</item>
+
 <item>
 <title>MBC 1 [COLOR=FF00FF00]HD[/COLOR]</title>         
-<link>http://selevision9881-i.akamaihd.net/hls/live/219186/98813/1.m3u8</link>
+<link>http://sansat.net:25461/live/82002324912369/82002324912369/4772.ts</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mbc1.jpg</thumbnail>
 </item>
+	
 <item>
-<title>Syria TV [COLOR=FF00FF00]HD[/COLOR]</title> 
-<link>http://82.137.248.16:1935/Sat/SatLive1/chunklist_w1647146440.m3u8</link>
-<link>http://82.137.248.16:1935/Sat/SatLive1/playlist.m3u8</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/syria_satellite_channel.jpg</thumbnail>
-</item>	
-<item>
-<title>Syria Drama2 [COLOR=FF00FF00]HD[/COLOR]</title> 
-<link>http://82.137.248.21:1935/Drama/DramaLive3/playlist.m3u8</link>
-<link>http://82.137.248.21:1935/Drama/DramaLive1/playlist.m3u8</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/syria_drama_channel.jpg</thumbnail>
+<title>MBC 4 [COLOR=FF00FF00]HD[/COLOR]</title>         
+<link>http://sansat.net:25461/live/82002324912369/82002324912369/4775.ts</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mbc4.jpg</thumbnail>
 </item>
+
 <item>
-<title>Sama Syria [COLOR=FF00FF00]HD[/COLOR]</title>
-<link>hhttp://81.230.200.187:1967/live/cxyM44UVAu/wUuD9v6JtR/66.ts</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sama_tv.jpg</thumbnail>
-</item>	
-<item>
-<title>Al Jadeed [COLOR=FF00FF00]HD[/COLOR]</title>         
-<link>http://selevision9886-i.akamaihd.net/hls/live/219282/98866/1.m3u8</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/al_jadeed.jpg</thumbnail>
+<title>MBC Drama [COLOR=FF00FF00]HD[/COLOR]</title>         
+<link>http://sansat.net:25461/live/82002324912369/82002324912369/4778.ts</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mbc_plus_drama_hd.jpg</thumbnail>
 </item>
+
 <item>
-<title>MTV [COLOR=FF00FF00]HD[/COLOR]</title>
-<link>http://selevision9883-i.akamaihd.net/hls/live/219250/98834/1.m3u8</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/murr_tv_lebanon.jpg</thumbnail>
-</item>	
-<item>
-<title>LBC International [COLOR=FF00FF00]HD[/COLOR]</title>         
-<link>http://selevision9891-i.akamaihd.net/hls/live/219336/98919/1.m3u8</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ll/lbc_sat.jpg</thumbnail>
+<title>ART Hekayat 1 [COLOR=FF00FF00]HD[/COLOR]</title>         
+<link>http://sansat.net:25461/live/82002324912369/82002324912369/4803.ts</link>
+<thumbnail>https://github.com/migo-tv/migoptv/blob/master/art_hekayat.jpg?raw=true</thumbnail>
 </item>
+	
 <item>
-<title>Syria TV 2[COLOR=FF00FF00]HD[/COLOR]</title> 
-<link>plugin://plugin.video.youtube/?path=/root/video&amp;action=play_video&amp;videoid=BsJ7iZ7bRxA</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/syria_satellite_channel.jpg</thumbnail>
-</item>	
+<title>ART Hekayat 2 [COLOR=FF00FF00]HD[/COLOR]</title>         
+<link>http://sansat.net:25461/live/82002324912369/82002324912369/4804.ts</link>
+<thumbnail>https://github.com/migo-tv/migoptv/blob/master/art_hekayat_2.jpg?raw=true</thumbnail>
+</item>
+	
+<item>
+<title> [COLOR=FF00FF00]HD[/COLOR]</title>         
+<link></link>
+<thumbnail></thumbnail>
+</item>
+	
 <item>
 <title>Syria Drama [COLOR=FF00FF00]HD[/COLOR]</title> 
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=bi4OC-qOzQk</link>
+<link>http://sansat.net:25461/live/82002324912369/82002324912369/5006.ts</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/syria_drama_channel.jpg</thumbnail>
+</item>
+	
+<item>
+<title>AL Jadeed [COLOR=FF00FF00]HD[/COLOR]</title>
+<link>http://176.31.226.149:25461/live/testest/testest/279.ts</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/al_jadeed.jpg</thumbnail>
+</item>
+	
+<item>
+<title>MTV [COLOR=FF00FF00]HD[/COLOR]</title>
+<link>http://sansat.net:25461/live/82002324912369/82002324912369/5003.ts</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/murr_tv_lebanon.jpg</thumbnail>
+</item>	
+	
+<item>
+<title>LBC International [COLOR=FF00FF00]HD[/COLOR]</title>         
+<link>http://sansat.net:25461/live/82002324912369/82002324912369/5002.ts</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ll/lbc_sat.jpg</thumbnail>
+</item>
+	
+<item>
+<title>CBC [COLOR=FF00FF00]HD[/COLOR]</title> 
+<link>http://sansat.net:25461/live/82002324912369/82002324912369/4835.ts</link>
+<thumbnail>https://github.com/migo-tv/migoptv/blob/master/LOGOS%20TV/cbc_eg.jpg?raw=true</thumbnail>
 </item>
 
 <item>
-<title>AL JADEED YouTube</title>
-<link>plugin://plugin.video.youtube/?path=/root/video&amp;action=play_video&amp;videoid=enD9RtQ96IQ</link>
+<title>CBC Drama [COLOR=FF00FF00]HD[/COLOR]</title> 
+<link>http://sansat.net:25461/live/82002324912369/82002324912369/4839.ts</link>
+<thumbnail>https://github.com/migo-tv/migoptv/blob/master/LOGOS%20TV/cbc_eg_drama.jpg?raw=true</thumbnail>
+</item>
+
+
+<item>
+<title>AD Drama  [COLOR=FF00FF00]HD[/COLOR]</title>
+<link>http://sansat.net:25461/live/82002324912369/82002324912369/4938.ts</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/abu_dhabi_drama.jpg</thumbnail>
+</item>
+
+<item>
+<title>AD Al Emarat [COLOR=FF00FF00]HD[/COLOR]</title>
+<link>http://sansat.net:25461/live/82002324912369/82002324912369/4937.ts</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/abu_dhabi_al_emarat.jpg</thumbnail>
+</item>	
+
+<item>
+<title>ARABICA [COLOR=FF00FF00]HD[/COLOR]</title> 
+<link>http://176.31.226.149:25461/live/testest/testest/206.ts</link>
+<thumbnail></thumbnail>
+</item>
+	
+<item>
+<title>AL Jadeed 2[COLOR=FF00FF00]HD[/COLOR]</title>
+<link>http://sansat.net:25461/live/82002324912369/82002324912369/5121.ts</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/al_jadeed.jpg</thumbnail>
 </item>
 <item>
-<title>CBC Drama YouTube</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=kM9gbp1oHis</link>
-<thumbnail>https://github.com/migo-tv/migoptv/blob/master/LOGOS%20TV/cbc_eg_drama.jpg?raw=true</thumbnail>
-</item>
-<item>
-<title>DMC Drama YouTube</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=kM9gbp1oHis</link>
-<thumbnail>https://github.com/migo-tv/migoptv/blob/master/LOGOS%20TV/DMC_DRAMA.jpg?raw=true</thumbnail>
-</item>
-<item>
-<title>SOURYANA YouTube</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=uGt9w2OgUMo.m3u8</link>
-<link>https://www.youtube.com/watch?v=uGt9w2OgUMo.m3u8</link>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=uGt9w2OgUMo 360p</link>
-<thumbnail>https://github.com/migo-tv/migoptv/blob/master/LOGOS%20TV/SOURYANA.jpg?raw=true</thumbnail>
+<title>ARABICA 2[COLOR=FF00FF00]HD[/COLOR]</title> 
+<link>http://sansat.net:25461/live/82002324912369/82002324912369/4995.ts</link>
+<thumbnail></thumbnail>
 </item>	
-
+	
 
 </items>
 </channel> 
