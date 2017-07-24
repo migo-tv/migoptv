@@ -8,128 +8,89 @@
 
 <item>
 <title>MBC 1 [COLOR=FF00FF00]HD[/COLOR]</title>         
-<link>http://sansat.net:25461/live/82002324912369/82002324912369/4772.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/8642.ts</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mbc1.jpg</thumbnail>
 </item>
 	
 <item>
 <title>MBC 4 [COLOR=FF00FF00]HD[/COLOR]</title>         
-<link>http://sansat.net:25461/live/82002324912369/82002324912369/4775.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/9944.ts</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mbc4.jpg</thumbnail>
-</item>
-
-<item>
-<title>MBC 1 [COLOR=FF00FF00]HD[/COLOR]</title>         
-<link>http://81.230.200.187:1967/live/code/demo/695.ts</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mbc1.jpg</thumbnail>
-</item>
-	
-<item>
-<title>MBC 4 -2[COLOR=FF00FF00]HD[/COLOR]</title>         
-<link>http://tv.primatv.club:8899/live/prima10simo2/freetv2/264.ts</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mbc4.jpg</thumbnail>
-</item>
-	
-<item>
-<title>MBC 4 HD[COLOR=FF00FF00]HD[/COLOR]</title>         
-<link>http://tv.primatv.club:8899/live/prima10simo2/freetv2/264.ts</link>
-<thumbnail>http://81.230.200.187:1967/live/FLFlvMYbHU/Cvt5II0ovD/13.ts</thumbnail>
 </item>
 
 <item>
 <title>MBC Drama [COLOR=FF00FF00]HD[/COLOR]</title>         
-<link>http://sansat.net:25461/live/82002324912369/82002324912369/4778.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/9945.ts</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mbc_plus_drama_hd.jpg</thumbnail>
 </item>
 
 <item>
 <title>ART Hekayat 1 [COLOR=FF00FF00]HD[/COLOR]</title>         
-<link>http://sansat.net:25461/live/82002324912369/82002324912369/4803.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/9958.ts</link>
 <thumbnail>https://github.com/migo-tv/migoptv/blob/master/art_hekayat.jpg?raw=true</thumbnail>
 </item>
 	
 <item>
 <title>ART Hekayat 2 [COLOR=FF00FF00]HD[/COLOR]</title>         
-<link>http://sansat.net:25461/live/82002324912369/82002324912369/4804.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/9959.ts</link>
 <thumbnail>https://github.com/migo-tv/migoptv/blob/master/art_hekayat_2.jpg?raw=true</thumbnail>
 </item>
 	
 <item>
 <title>Syria Drama [COLOR=FF00FF00]HD[/COLOR]</title> 
-<link>http://sansat.net:25461/live/82002324912369/82002324912369/5006.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/16862.ts</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/syria_drama_channel.jpg</thumbnail>
 </item>
 	
 <item>
 <title>AL Jadeed [COLOR=FF00FF00]HD[/COLOR]</title>
-<link>http://176.31.226.149:25461/live/testest/testest/279.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/16861.ts</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/al_jadeed.jpg</thumbnail>
 </item>
 	
 <item>
 <title>MTV [COLOR=FF00FF00]HD[/COLOR]</title>
-<link>http://sansat.net:25461/live/82002324912369/82002324912369/5003.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/16860.ts</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/murr_tv_lebanon.jpg</thumbnail>
 </item>	
 	
 <item>
 <title>LBC International [COLOR=FF00FF00]HD[/COLOR]</title>         
-<link>http://sansat.net:25461/live/82002324912369/82002324912369/5002.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/16865.ts</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ll/lbc_sat.jpg</thumbnail>
 </item>
 
 <item>
 <title>OTV Lebanon [COLOR=FF00FF00]HD[/COLOR]</title>
-<link>http://sansat.net:25461/live/82002324912369/82002324912369/5078.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/16864.ts</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/oo/otv_lb.jpg</thumbnail>
 </item>
 	
 <item>
 <title>CBC [COLOR=FF00FF00]HD[/COLOR]</title> 
-<link>http://sansat.net:25461/live/82002324912369/82002324912369/4835.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/9968.ts</link>
 <thumbnail>https://github.com/migo-tv/migoptv/blob/master/LOGOS%20TV/cbc_eg.jpg?raw=true</thumbnail>
 </item>
 
 <item>
 <title>CBC Drama [COLOR=FF00FF00]HD[/COLOR]</title> 
-<link>http://sansat.net:25461/live/82002324912369/82002324912369/4839.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://xtream.swiftiptv.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/9970.ts</link>
 <thumbnail>https://github.com/migo-tv/migoptv/blob/master/LOGOS%20TV/cbc_eg_drama.jpg?raw=true</thumbnail>
 </item>
 	
 <item>
 <title>ARABICA [COLOR=FF00FF00]HD[/COLOR]</title> 
-<link>http://176.31.226.149:25461/live/testest/testest/206.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=</link>
 <thumbnail>https://github.com/migo-tv/migoptv/blob/master/LOGOS%20TV/arabica_lb.jpg?raw=true</thumbnail>
 </item>
 
 <item>
 <title>AD Drama  [COLOR=FF00FF00]HD[/COLOR]</title>
-<link>http://sansat.net:25461/live/82002324912369/82002324912369/4938.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/abu_dhabi_drama.jpg</thumbnail>
 </item>
 
-<item>
-<title>AD Al Emarat [COLOR=FF00FF00]HD[/COLOR]</title>
-<link>http://sansat.net:25461/live/82002324912369/82002324912369/4937.ts</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/abu_dhabi_al_emarat.jpg</thumbnail>
-</item>	
-	
-<item>
-<title>AL Jadeed 2[COLOR=FF00FF00]HD[/COLOR]</title>
-<link>http://sansat.net:25461/live/82002324912369/82002324912369/5121.ts</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/al_jadeed.jpg</thumbnail>
-</item>
-<item>
-<title>ARABICA 2[COLOR=FF00FF00]HD[/COLOR]</title> 
-<link>http://sansat.net:25461/live/82002324912369/82002324912369/4995.ts</link>
-<thumbnail>https://github.com/migo-tv/migoptv/blob/master/LOGOS%20TV/arabica_lb.jpg?raw=true</thumbnail>
-</item>	
 
-<item>
-<title>Agaphy TV [COLOR=FF00FF00]HD[/COLOR]</title>
-<link>http://sansat.net:25461/live/82002324912369/82002324912369/5079.ts</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/aghapy_tv.jpg</thumbnail>
-</item>
 
 </items>
 </channel> 
