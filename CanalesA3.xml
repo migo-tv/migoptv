@@ -95,17 +95,64 @@
 <name>THE RING</name>
 <thumbnail>https://raw.githubusercontent.com/migo-tv/migoptv/master/THERING.jpg</thumbnail>
 <items>
+	
+	
+
+<item>
+<title>HALA AL KASSIR - AHMAD SHIBA</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=EnNdSzKzGrk</link>
+<thumbnail>https://i.ytimg.com/vi/EnNdSzKzGrk/hqdefault.jpg</thumbnail>
+</item>
+	
+<item>
+<title>NADER KHOURY - SOPHIA SADEK</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=-zThrRcrMhE</link>
+<thumbnail>https://i.ytimg.com/vi/-zThrRcrMhE/hqdefault.jpg</thumbnail>
+</item>
+
+<item>
+<title>LORA KHALIL - MAJID FOANI</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=lJUA0eo1sQE</link>
+<thumbnail>https://i.ytimg.com/vi/lJUA0eo1sQE/hqdefault.jpg</thumbnail>
+</item>
+	
+<title>DIANA KARAZON - AHMAD ADAWIAH</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=C0rkbMhRyrI</link>
+<thumbnail>https://i.ytimg.com/vi/C0rkbMhRyrI/hqdefault.jpg</thumbnail>
+</item>
+	
+<item>
+<title>AYMAN ZBIB - NAWAT</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=bmMoQQR2bNM</link>
+<thumbnail>https://i.ytimg.com/vi/bmMoQQR2bNM/hqdefault.jpg</thumbnail>
+</item>
+	
+<item>
+<title>YAZA HASUN - ADAM</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=eYB9_RZBQbQ</link>
+<thumbnail>https://i.ytimg.com/vi/eYB9_RZBQbQ/hqdefault.jpg</thumbnail>
+</item>
+
+<item>
+<title>MAJD MOUSALI - SOUMAYA DARWICH</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=m3X8Jl2lX8M</link>
+<thumbnail>https://i.ytimg.com/vi/m3X8Jl2lX8M/hqdefault.jpg</thumbnail>
+</item>
+
+<item>
+<title>LAYLA CHOFRAN - AHMAD DOUGHAN</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=BRGjMG_Cw-I</link>
+<thumbnail>https://i.ytimg.com/vi/BRGjMG_Cw-I/hqdefault.jpg</thumbnail>
+</item>
+	
+
+	
 <item>
 <title>Saad Ramadan - Kusei Hatem</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=wK6EeVsIjSc</link>
 <thumbnail>https://i.ytimg.com/vi/wK6EeVsIjSc/hqdefault.jpg</thumbnail>
 </item>
 
-<item>
-<title></title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=</link>
-<thumbnail>https://i.ytimg.com/vi//hqdefault.jpg</thumbnail>
-</item>
 	
 <item>
 <title>Hady Khalil - Roweida Attieh</title>
