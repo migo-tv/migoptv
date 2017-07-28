@@ -149,7 +149,11 @@
 <thumbnail>https://i.ytimg.com/vi/BRGjMG_Cw-I/hqdefault.jpg</thumbnail>
 </item>
 	
-
+<item>
+<title>KIDS</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=JDSsHsRD6v8</link>
+<thumbnail>https://i.ytimg.com/vi/JDSsHsRD6v8/hqdefault.jpg</thumbnail>
+</item>
 	
 <item>
 <title>Saad Ramadan - Kusei Hatem</title>
@@ -199,11 +203,7 @@
 <thumbnail>https://i.ytimg.com/vi/n35rEGSQLqQ/hqdefault.jpg</thumbnail>
 </item>
 	
-<item>
-<title>Harb al Nojoom - KIDS</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=LlS455qo1oA</link>
-<thumbnail>https://i.ytimg.com/vi/JDSsHsRD6v8/hqdefault.jpg</thumbnail>
-</item>
+
 <item>
 <title>Harb al Nojoom - Wafek habib Dina Hayek</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=i0T31TDKrrI</link>
