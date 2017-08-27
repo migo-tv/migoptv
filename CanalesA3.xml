@@ -521,8 +521,68 @@
 </item>
 </items>
 </channel> 
+
+
+
+
+<channel> 
+<name>Kara Sevda</name>
+<thumbnail>https://i.pinimg.com/736x/b5/ab/b5/b5abb52b8d4eca401266d7e2dcd3e9ea.jpg</thumbnail>
+<items>
+
+<item>
+<title>Kara Sevda Ep01</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=lalwr27OPQk</link>
+<thumbnail>https://i.ytimg.com/vi/lalwr27OPQk/hqdefault.jpg</thumbnail>
+</item>
+<item>
+<title>Kara Sevda Ep02</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=AJL6W8ykhE8</link>
+<thumbnail>https://i.ytimg.com/vi/AJL6W8ykhE8/hqdefault.jpg</thumbnail>
+</item>
+<item>
+<title>Kara Sevda Ep03</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=64nXe1saPcI</link>
+<thumbnail>https://i.ytimg.com/vi/64nXe1saPcI/hqdefault.jpg</thumbnail>
+</item>
+<item>
+<title>Kara Sevda Ep04</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=9WM83wZqiYA</link>
+<thumbnail>https://i.ytimg.com/vi/9WM83wZqiYA/hqdefault.jpg</thumbnail>
+</item>
+<item>
+<title>Kara Sevda Ep05</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=y5IMjWe2CeY</link>
+<thumbnail>https://i.ytimg.com/vi/y5IMjWe2CeY/hqdefault.jpg</thumbnail>
+</item>
+<item>
+<title>Kara Sevda Ep06</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=p3nxfECF9JY</link>
+<thumbnail>https://i.ytimg.com/vi/p3nxfECF9JY/hqdefault.jpg</thumbnail>
+</item>
+<item>
+<title>Kara Sevda Ep07</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=PBJ04pf6IdU</link>
+<thumbnail>https://i.ytimg.com/vi/PBJ04pf6IdU/hqdefault.jpg</thumbnail>
+</item>
+<item>
+<title>Kara Sevda Ep08</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=gB0f3_KT68E</link>
+<thumbnail>https://i.ytimg.com/vi/gB0f3_KT68E/hqdefault.jpg</thumbnail>
+</item>
+<item>
+<title>Kara Sevda Ep09</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Bfsl7r6SybI</link>
+<thumbnail>https://i.ytimg.com/vi/Bfsl7r6SybI/hqdefault.jpg</thumbnail>
+</item>
+<item>
+<title>Kara Sevda Ep10</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=7Hu54GHTqtc</link>
+<thumbnail>https://i.ytimg.com/vi/7Hu54GHTqtc/hqdefault.jpg</thumbnail>
+</item>
 	
-	
+</items>
+</channel> 	
 
 
 
