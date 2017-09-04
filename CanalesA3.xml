@@ -332,6 +332,14 @@
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=WMBpKZ6ebng</link>
 <thumbnail>https://i.ytimg.com/vi/WMBpKZ6ebng/hqdefault.jpg</thumbnail>
 </item>	
+
+<item>
+<title>Sawtak 13</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=u0PO9bOysEo</link>
+<thumbnail>https://i.ytimg.com/vi/u0PO9bOysEo/hqdefault.jpg</thumbnail>
+</item>		
+	
+	
 	
 </items>
 </channel> 	
