@@ -8,61 +8,61 @@
 
 <item>
 <title>MBC 1 [COLOR=FF00FF00]HD[/COLOR]</title>         
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1012.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://we-you-iptv.tv:8000/live/local1/123456/141.ts</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mbc1.jpg</thumbnail>
 </item>
 	
 <item>
 <title>MBC 4 D[COLOR=FF00FF00]HD[/COLOR]</title>         
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/1641.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://we-you-iptv.tv:8000/live/local1/123456/138.ts</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mbc4.jpg</thumbnail>
 </item>
 
 <item>
 <title>MBC Drama [COLOR=FF00FF00]HD[/COLOR]</title>         
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/9945.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://we-you-iptv.tv:8000/live/local1/123456/135.ts</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mbc_plus_drama_hd.jpg</thumbnail>
 </item>
 
 <item>
 <title>ART Hekayat 1 [COLOR=FF00FF00]HD[/COLOR]</title>         
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/9958.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://we-you-iptv.tv:8000/live/local1/123456/191.ts</link>
 <thumbnail>https://github.com/migo-tv/migoptv/blob/master/art_hekayat.jpg?raw=true</thumbnail>
 </item>
 	
 <item>
 <title>ART Hekayat 2 [COLOR=FF00FF00]HD[/COLOR]</title>         
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/9959.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://we-you-iptv.tv:8000/live/local1/123456/190.ts</link>
 <thumbnail>https://github.com/migo-tv/migoptv/blob/master/art_hekayat_2.jpg?raw=true</thumbnail>
 </item>
 	
 <item>
 <title>Syria Drama [COLOR=FF00FF00]HD[/COLOR]</title> 
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/16862.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://we-you-iptv.tv:8000/live/local1/123456/87.ts</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/syria_drama_channel.jpg</thumbnail>
 </item>
 	
 <item>
 <title>AL Jadeed [COLOR=FF00FF00]HD[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvboxy.com:8000/live/yasmina/yasmina/209.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://we-you-iptv.tv:8000/live/local1/123456/526.ts</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/al_jadeed.jpg</thumbnail>
 </item>
 	
 <item>
 <title>MTV b[COLOR=FF00FF00]HD[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://178.33.142.171:2500/live/reinhold.stoecker12m18/rUU2MmbI62/548.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/murr_tv_lebanon.jpg</thumbnail>
 </item>	
 	
 <item>
 <title>LBC International [COLOR=FF00FF00]HD[/COLOR]</title>         
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/16865.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ll/lbc_sat.jpg</thumbnail>
 </item>
 
 <item>
 <title>OTV Lebanon [COLOR=FF00FF00]HD[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/16864.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/oo/otv_lb.jpg</thumbnail>
 </item>
 	
