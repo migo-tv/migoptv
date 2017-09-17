@@ -89,6 +89,35 @@
 	
 	
 	
+<channel> 
+<name>Yasur wa jamila</name>
+<thumbnail>https://i.ytimg.com/vi/Ai-jlK1JRn0/hqdefault.jpg</thumbnail>
+<items>
+
+<item>
+<title>Ep01</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=wqp7P-0hPMM</link>
+<thumbnail>https://i.ytimg.com/vi/wqp7P-0hPMM/hqdefault.jpg</thumbnail>
+</item>		
+
+<item>
+<title>Ep02</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=8DPYQEf0g7s</link>
+<thumbnail>https://i.ytimg.com/vi/8DPYQEf0g7s/hqdefault.jpg</thumbnail>
+</item>	
+
+<item>
+<title>Ep03</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=rhhAMUXWwL0</link>
+<thumbnail>https://i.ytimg.com/vi/rhhAMUXWwL0/hqdefault.jpg</thumbnail>
+</item>	
+
+
+</items>
+</channel> 
+	
+	
+	
 	
 	
 <channel> 
