@@ -111,7 +111,27 @@
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=rhhAMUXWwL0</link>
 <thumbnail>https://i.ytimg.com/vi/rhhAMUXWwL0/hqdefault.jpg</thumbnail>
 </item>	
+	
 
+<item>
+<title>Ep04</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=0wj8_9JEGQQ</link>
+<thumbnail>https://i.ytimg.com/vi/0wj8_9JEGQQ/hqdefault.jpg</thumbnail>
+</item>	
+
+
+<item>
+<title>Ep05</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=9x9jnnFp5fc</link>
+<thumbnail>https://i.ytimg.com/vi/9x9jnnFp5fc/hqdefault.jpg</thumbnail>
+</item>	
+	
+	
+<item>
+<title>Ep06</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=9x9jnnFp5fc</link>
+<thumbnail>https://i.ytimg.com/vi/9x9jnnFp5fc/hqdefault.jpg</thumbnail>
+</item>	
 
 </items>
 </channel> 
