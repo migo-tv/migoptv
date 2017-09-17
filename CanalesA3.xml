@@ -83,11 +83,91 @@
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=</link>
 <thumbnail>https://github.com/migo-tv/migoptv/blob/master/LOGOS%20TV/arabica_lb.jpg?raw=true</thumbnail>
 </item>
-
-
-
+	
 </items>
 </channel> 
+	
+	
+	
+	
+	
+<channel> 
+<name>HIT al mawsem</name>
+<thumbnail>https://i.ytimg.com/vi/nMjX0DZ0MVY/hqdefault.jpg</thumbnail>
+<items>
+
+<item>
+<title>Ep01 19/06/2017</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=nMjX0DZ0MVY</link>
+<thumbnail>https://i.ytimg.com/vi/nMjX0DZ0MVY/hqdefault.jpg</thumbnail>
+</item>		
+	
+</items>
+</channel> 
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+<channel> 
+<name>Alitima</name>
+<thumbnail>https://i.ytimg.com/vi/hvxAFp8sNxo/hqdefault.jpg</thumbnail>
+<items>
+	
+<item>
+<title>Ep01</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=hvxAFp8sNxo</link>
+<thumbnail>https://i.ytimg.com/vi/hvxAFp8sNxo/hqdefault.jpg</thumbnail>
+</item>	
+
+<item>
+<title>Ep02</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=JnVShPwfhp8</link>
+<thumbnail>https://i.ytimg.com/vi/JnVShPwfhp8/hqdefault.jpg</thumbnail>
+</item>
+
+<item>
+<title>Ep03</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=uW2tPMlN63k</link>
+<thumbnail>https://i.ytimg.com/vi/uW2tPMlN63k/hqdefault.jpg</thumbnail>
+</item>
+
+<item>
+<title>Ep04</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=sZsDwSEA7Mc</link>
+<thumbnail>https://i.ytimg.com/vi/sZsDwSEA7Mc/hqdefault.jpg</thumbnail>
+</item>
+
+<item>
+<title>Ep05</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=9K-xSCD0GtY</link>
+<thumbnail>https://i.ytimg.com/vi/9K-xSCD0GtY/hqdefault.jpg</thumbnail>
+</item>
+	
+</items>
+</channel> 
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	
 	
 
@@ -244,7 +324,7 @@
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=guI2kGAN7Uo</link>
 <thumbnail>https://i.ytimg.com/vi/guI2kGAN7Uo/hqdefault.jpg</thumbnail>
 </item>
-	<item>
+<item>
 <title>Harb al Nojoom - Ziad Brshe - Abdulhadi Hamuda </title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=KmffVKcwd_o</link>
 <thumbnail>https://i.ytimg.com/vi/KmffVKcwd_o/hqdefault.jpg</thumbnail>
@@ -252,8 +332,7 @@
 </items>
 </channel> 
 	
-	</items>
-</channel> 
+
 	
 	
 <channel> 
