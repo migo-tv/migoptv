@@ -181,16 +181,65 @@
 	
 	
 <channel> 
-<name>HIT al mawsem</name>
-<thumbnail>https://i.ytimg.com/vi/nMjX0DZ0MVY/hqdefault.jpg</thumbnail>
+<name>Al Musameh Karem</name>
+<thumbnail>http://www10.0zz0.com/2015/03/15/18/586699267.jpg</thumbnail>
 <items>
 
 <item>
-<title>Ep01 19/06/2017</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=nMjX0DZ0MVY</link>
-<thumbnail>https://i.ytimg.com/vi/nMjX0DZ0MVY/hqdefault.jpg</thumbnail>
+<title>1</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=M9DYr8M3Dps</link>
+<thumbnail>https://i.ytimg.com/vi/M9DYr8M3Dps/hqdefault.jpg</thumbnail>
 </item>		
+
+<item>
+<title>2</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=arix_4u6qwo</link>
+<thumbnail>https://i.ytimg.com/vi/arix_4u6qwo/hqdefault.jpg</thumbnail>
+</item>
+
+<item>
+<title>3</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=PLqscw6mcW8</link>
+<thumbnail>https://i.ytimg.com/vi/PLqscw6mcW8/hqdefault.jpg</thumbnail>
+</item>
 	
+<item>
+<title>4</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=P2IGSaRs5AA</link>
+<thumbnail>https://i.ytimg.com/vi/P2IGSaRs5AA/hqdefault.jpg</thumbnail>
+</item>
+	
+<item>
+<title>5</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=gw7FG0B2npg</link>
+<thumbnail>https://i.ytimg.com/vi/gw7FG0B2npg/hqdefault.jpg</thumbnail>
+</item>
+
+<item>
+<title>6</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Anq7HA4p1po</link>
+<thumbnail>https://i.ytimg.com/vi/Anq7HA4p1po/hqdefault.jpg</thumbnail>
+</item>
+	
+<item>
+<title>7</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ocJPfN38A6M</link>
+<thumbnail>https://i.ytimg.com/vi/ocJPfN38A6M/hqdefault.jpg</thumbnail>
+</item>
+
+<item>
+<title>8</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Pep202qD2Ms</link>
+<thumbnail>https://i.ytimg.com/vi/Pep202qD2Ms/hqdefault.jpg</thumbnail>
+</item>
+
+<item>
+<title>9</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=IOXp0OgQo_w</link>
+<thumbnail>https://i.ytimg.com/vi/IOXp0OgQo_w/hqdefault.jpg</thumbnail>
+</item>
+	
+
 </items>
 </channel> 
 	
@@ -203,46 +252,7 @@
 	
 	
 	
-	
-<channel> 
-<name>Alitima</name>
-<thumbnail>https://i.ytimg.com/vi/hvxAFp8sNxo/hqdefault.jpg</thumbnail>
-<items>
-	
-<item>
-<title>Ep01</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=hvxAFp8sNxo</link>
-<thumbnail>https://i.ytimg.com/vi/hvxAFp8sNxo/hqdefault.jpg</thumbnail>
-</item>	
 
-<item>
-<title>Ep02</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=JnVShPwfhp8</link>
-<thumbnail>https://i.ytimg.com/vi/JnVShPwfhp8/hqdefault.jpg</thumbnail>
-</item>
-
-<item>
-<title>Ep03</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=uW2tPMlN63k</link>
-<thumbnail>https://i.ytimg.com/vi/uW2tPMlN63k/hqdefault.jpg</thumbnail>
-</item>
-
-<item>
-<title>Ep04</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=sZsDwSEA7Mc</link>
-<thumbnail>https://i.ytimg.com/vi/sZsDwSEA7Mc/hqdefault.jpg</thumbnail>
-</item>
-
-<item>
-<title>Ep05</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=9K-xSCD0GtY</link>
-<thumbnail>https://i.ytimg.com/vi/9K-xSCD0GtY/hqdefault.jpg</thumbnail>
-</item>
-	
-</items>
-</channel> 
-	
-	
 	
 	
 	
