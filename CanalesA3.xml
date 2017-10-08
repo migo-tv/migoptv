@@ -145,10 +145,16 @@
 <items>
 
 <item>
-<title>KIDS - Melhem Zein 05/05/2017</title>
+<title>Melhem Zein 05/05/2017</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=eIOJT6qyPhA</link>
 <thumbnail>https://i.ytimg.com/vi/eIOJT6qyPhA/hqdefault.jpg</thumbnail>
 </item>		
+
+<item>
+<title>Munir Al Sherif 12/05/2017</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=61t27127vTo</link>
+<thumbnail>https://i.ytimg.com/vi/61t27127vTo/hqdefault.jpg</thumbnail>
+</item>
 	
 </items>
 </channel> 	
