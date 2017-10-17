@@ -274,6 +274,12 @@
 <name>THE RING</name>
 <thumbnail>https://raw.githubusercontent.com/migo-tv/migoptv/master/THERING.jpg</thumbnail>
 <items>
+
+<item>
+<title>ELISSAR</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=-YT4K9KJt7o</link>
+<thumbnail>https://i.ytimg.com/vi/-YT4K9KJt7o/hqdefault.jpg</thumbnail>
+</item>
 	
 <item>
 <title>SABER TAWFIK - NANCY ZABALAWI</title>
