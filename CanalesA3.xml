@@ -276,6 +276,12 @@
 <items>
 
 <item>
+<title>Maddona</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=0y14q368p1E</link>
+<thumbnail>https://i.ytimg.com/vi/0y14q368p1E/hqdefault.jpg</thumbnail>
+</item>
+	
+<item>
 <title>ELISSAR</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=-YT4K9KJt7o</link>
 <thumbnail>https://i.ytimg.com/vi/-YT4K9KJt7o/hqdefault.jpg</thumbnail>
