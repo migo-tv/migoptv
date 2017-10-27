@@ -181,20 +181,20 @@
 	
 	
 <channel> 
-<name>Al Musameh Karem</name>
-<thumbnail>http://www10.0zz0.com/2015/03/15/18/586699267.jpg</thumbnail>
+<name>bala tashfeer</name>
+<thumbnail></thumbnail>
 <items>
 
 <item>
-<title>1</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=M9DYr8M3Dps</link>
-<thumbnail>https://i.ytimg.com/vi/M9DYr8M3Dps/hqdefault.jpg</thumbnail>
+<title>Amir Yazbek</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=peHXkYVrCC0</link>
+<thumbnail>https://i.ytimg.com/vi/peHXkYVrCC0/hqdefault.jpg</thumbnail>
 </item>		
 
 <item>
-<title>2</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=arix_4u6qwo</link>
-<thumbnail>https://i.ytimg.com/vi/arix_4u6qwo/hqdefault.jpg</thumbnail>
+<title>George Wassouf</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=U6ldo3CRTqg</link>
+<thumbnail>https://i.ytimg.com/vi/U6ldo3CRTqg/hqdefault.jpg</thumbnail>
 </item>
 
 <item>
