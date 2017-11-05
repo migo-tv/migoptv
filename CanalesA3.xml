@@ -211,6 +211,22 @@
 <thumbnail>https://i.ytimg.com/vi/6DRkf3kZMXw/hqdefault.jpg</thumbnail>
 </item>
 
+<item>
+<title>Varios</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=cPW9Y94BJI0</link>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Mtau4v6foHA</link>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=cpN78ZjnCZY</link>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=aL2GrwBMvx4</link>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=SHq2qrFUlGY</link>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=9J9FlVCUeLM</link>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=GMFewiplIbw</link>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=lf8xoMhV8pI</link>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=cmIKUyUrKl4</link>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=VqEbCxg2bNI</link>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=6DRkf3kZMXw</link>
+<thumbnail>https://i.ytimg.com/vi/cPW9Y94BJI0/hqdefault.jpg</thumbnail>
+</item>	
+
 
 </items>
 </channel> 		
