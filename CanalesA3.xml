@@ -1406,6 +1406,19 @@
 <name>Al Jadeed programs</name>
 <thumbnail>https://i.ytimg.com/vi/94RHx99xo2w/hqdefault.jpg</thumbnail>
 <items>
+	
+<item>
+<title>Amir Yazbek</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=d_I3T2LFbkw</link>
+<thumbnail>https://i.ytimg.com/vi/d_I3T2LFbkw/hqdefault.jpg</thumbnail>
+</item>	
+
+<item>
+<title>Hossam Gned</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=QIOg3uHY_-s</link>
+<thumbnail>https://i.ytimg.com/vi/QIOg3uHY_-s/hqdefault.jpg</thumbnail>
+</item>	
+
 <item>
 <title>Pro 1</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=94RHx99xo2w</link>
