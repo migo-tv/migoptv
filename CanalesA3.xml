@@ -1402,14 +1402,11 @@
 </items>
 </channel>
 	
-	<channel> 
-<name>Al Jadeed programs</name>
+<channel> 
+<name>Ahlie be Mahalie</name>
 <thumbnail>https://i.ytimg.com/vi/94RHx99xo2w/hqdefault.jpg</thumbnail>
 <items>
 	
-	
-	
-		
 	
 <item>
 <title>1</title>
@@ -1417,15 +1414,11 @@
 <thumbnail>https://i.ytimg.com/vi/vB9224kbxaU/hqdefault.jpg</thumbnail>
 </item>	
 	
-	
-	
 <item>
 <title>2</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ujpBWX0gOs8</link>
 <thumbnail>https://i.ytimg.com/vi/ujpBWX0gOs8/hqdefault.jpg</thumbnail>
 </item>	
-	
-	
 	
 <item>
 <title>3</title>
@@ -1433,14 +1426,24 @@
 <thumbnail>https://i.ytimg.com/vi/0AV-n5Ky1CM/hqdefault.jpg</thumbnail>
 </item>	
 
-	
-	
 <item>
 <title>4</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=VBq4jeB3C2s</link>
 <thumbnail>https://i.ytimg.com/vi/VBq4jeB3C2s/hqdefault.jpg</thumbnail>
 </item>	
 	
+<item>
+<title>5</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=94RHx99xo2w</link>
+<thumbnail>https://i.ytimg.com/vi/94RHx99xo2w/hqdefault.jpg</thumbnail>
+</item>
+	
+<item>
+<title>6</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=V064JvvcV70</link>
+<thumbnail>https://i.ytimg.com/vi/V064JvvcV70/hqdefault.jpg</thumbnail>
+</item>
+
 <item>
 <title>Amir Yazbek</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=d_I3T2LFbkw</link>
@@ -1454,16 +1457,28 @@
 </item>	
 
 <item>
-<title>Pro 1</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=94RHx99xo2w</link>
-<thumbnail>https://i.ytimg.com/vi/94RHx99xo2w/hqdefault.jpg</thumbnail>
-</item>
-<item>
-<title>Pro 2</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=V064JvvcV70</link>
-<thumbnail>https://i.ytimg.com/vi/V064JvvcV70/hqdefault.jpg</thumbnail>
-</item>
+<title>Mory Hatem - Rita Sleyman</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=7L20UbivCRg</link>
+<thumbnail>https://i.ytimg.com/vi/7L20UbivCRg/hqdefault.jpg</thumbnail>
+</item>	
 
+<item>
+<title>Rabih Al Asmar - Cristina Sawaya</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=CXvNN3iByfk</link>
+<thumbnail>https://i.ytimg.com/vi/CXvNN3iByfk/hqdefault.jpg</thumbnail>
+</item>	
+
+<item>
+<title>Rowaida Atieh</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=RgTcBexBrkc</link>
+<thumbnail>https://i.ytimg.com/vi/RgTcBexBrkc/hqdefault.jpg</thumbnail>
+</item>	
+
+<item>
+<title>Miriam Atalah - Michel Rmah</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=YjV34cTbfkQ</link>
+<thumbnail>https://i.ytimg.com/vi/YjV34cTbfkQ/hqdefault.jpg</thumbnail>
+</item>	
 </items>
 </channel>
 	
