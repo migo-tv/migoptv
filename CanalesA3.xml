@@ -87,6 +87,30 @@
 </items>
 </channel> 
 	
+
+	
+	
+	
+<channel> 
+<name>THE VOICE KIDS S2</name>
+<thumbnail>https://i.ytimg.com/vi/vhSB6Nry6MM/hqdefault.jpg</thumbnail>
+<items>
+
+<item>
+<title>Ep01</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=vhSB6Nry6MM</link>
+<thumbnail>https://i.ytimg.com/vi/vhSB6Nry6MM/hqdefault.jpg</thumbnail>
+</item>		
+
+
+</items>
+</channel> 
+	
+	
+	
+	
+	
+	
 	
 	
 <channel> 
