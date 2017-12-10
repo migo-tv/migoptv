@@ -347,6 +347,13 @@
 <thumbnail></thumbnail>
 <items>
 
+
+<item>
+<title>Chadi Asuad</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=gT2yvi4zJN8</link>
+<thumbnail>https://i.ytimg.com/vi/gT2yvi4zJN8/hqdefault.jpg</thumbnail>
+</item>
+	
 <item>
 <title>Amir Yazbek</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=peHXkYVrCC0</link>
@@ -402,6 +409,12 @@
 </item>
 	
 
+	
+	
+	
+	
+	
+	
 </items>
 </channel> 
 	
