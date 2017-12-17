@@ -121,6 +121,50 @@
 </items>
 </channel> 
 	
+	
+	
+	
+	
+	
+	
+	
+	
+<channel> 
+<name>CELEBRITY DUETS 5</name>
+<thumbnail>https://i.ytimg.com/vi/AXYrx6VNB7U/hqdefault.jpg</thumbnail>
+<items>
+
+<item>
+<title>Ep03</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=DMpgngztA74</link>
+<thumbnail>https://i.ytimg.com/vi/DMpgngztA74/hqdefault.jpg</thumbnail>
+</item>		
+
+
+<item>
+<title>Ep04</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=AXYrx6VNB7U</link>
+<thumbnail>https://i.ytimg.com/vi/AXYrx6VNB7U/hqdefault.jpg</thumbnail>
+</item>		
+	
+	
+	
+</items>
+</channel> 
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 		
 	
 <channel> 
