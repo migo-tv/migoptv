@@ -157,7 +157,81 @@
 	
 	
 	
+
 	
+	
+	
+	
+	
+	
+	
+<channel> 
+<name>Helwe w Kezzabi</name>
+<thumbnail>https://i.ytimg.com/vi/-y02rmR7E0s/hqdefault.jpg</thumbnail>
+<items>
+
+<item>
+<title>Ep01</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=-y02rmR7E0s</link>
+<thumbnail>https://i.ytimg.com/vi/-y02rmR7E0s/hqdefault.jpg</thumbnail>
+</item>		
+
+<item>
+<title>Ep02</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=bMDPvNd5Fdg</link>
+<thumbnail>https://i.ytimg.com/vi/bMDPvNd5Fdg/hqdefault.jpg</thumbnail>
+</item>		
+	
+<item>
+<title>Ep03</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=vPo3yKySUyE</link>
+<thumbnail>https://i.ytimg.com/vi/vPo3yKySUyE/hqdefault.jpg</thumbnail>
+</item>		
+
+<item>
+<title>Ep04</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=QmbYGncOz24</link>
+<thumbnail>https://i.ytimg.com/vi/QmbYGncOz24/hqdefault.jpg</thumbnail>
+</item>	
+	
+<item>
+<title>Ep05</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ZF05jJx3d0c</link>
+<thumbnail>https://i.ytimg.com/vi/ZF05jJx3d0c/hqdefault.jpg</thumbnail>
+</item>		
+
+<item>
+<title>Ep06</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=gCuOotEd41c</link>
+<thumbnail>https://i.ytimg.com/vi/gCuOotEd41c/hqdefault.jpg</thumbnail>
+</item>	
+
+<item>
+<title>Ep07</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ZPsHfZCRWFA</link>
+<thumbnail>https://i.ytimg.com/vi/ZPsHfZCRWFA/hqdefault.jpg</thumbnail>
+</item>		
+
+<item>
+<title>Ep08</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=z7x7opBlahY</link>
+<thumbnail>https://i.ytimg.com/vi/z7x7opBlahY/hqdefault.jpg</thumbnail>
+</item>	
+
+<item>
+<title>Ep09</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=220sd_ztD9c</link>
+<thumbnail>https://i.ytimg.com/vi/220sd_ztD9c/hqdefault.jpg</thumbnail>
+</item>		
+
+<item>
+<title>Ep10</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=clNoZb1S96c</link>
+<thumbnail>https://i.ytimg.com/vi/clNoZb1S96c/hqdefault.jpg</thumbnail>
+</item>	
+	
+</items>
+</channel> 
 	
 	
 	
