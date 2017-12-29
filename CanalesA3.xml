@@ -116,7 +116,11 @@
 <thumbnail>https://i.ytimg.com/vi/5sBWBKoeXjo/hqdefault.jpg</thumbnail>
 </item>
 	
-	
+<item>
+<title>Ep04</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=gvVXVbhFKTI</link>
+<thumbnail>https://i.ytimg.com/vi/gvVXVbhFKTI/hqdefault.jpg</thumbnail>
+</item>
 	
 </items>
 </channel> 
