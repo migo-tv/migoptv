@@ -38,19 +38,19 @@
 
 <item>
 <title>Syria [COLOR=FF00FF00]HD[/COLOR]</title> 
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.fannan.se:8000/live/332/332/7109.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://abc.myplay.live:9002/live/1619/1619/1492.ts</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/syria_drama_channel.jpg</thumbnail>
 </item>
 	
 <item>
 <title>Syria Drama [COLOR=FF00FF00]HD[/COLOR]</title> 
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.fannan.se:8000/live/332/332/7108.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://abc.myplay.live:9002/live/1619/1619/1493.ts</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/syria_drama_channel.jpg</thumbnail>
 </item>
 	
 <item>
 <title>AL Jadeed [COLOR=FF00FF00]HD[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://clientportalpro.com:2500/live/h80qNAkK9D/IUogpfxJQo/3549.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://abc.myplay.live:9002/live/1619/1619/399.ts</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/al_jadeed.jpg</thumbnail>
 
 
@@ -62,13 +62,13 @@
 	
 <item>
 <title>MTV [COLOR=FF00FF00]HD[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.fannan.se:8000/live/332/332/7124.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://abc.myplay.live:9002/live/1619/1619/972.ts</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/murr_tv_lebanon.jpg</thumbnail>
 </item>	
 	
 <item>
 <title>LBC International [COLOR=FF00FF00]HD[/COLOR]</title>         
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.fannan.se:8000/live/332/332/7122.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://abc.myplay.live:9002/live/1619/1619/1499.ts</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ll/lbc_sat.jpg</thumbnail>
 </item>
 
