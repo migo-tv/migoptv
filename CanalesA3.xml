@@ -7,6 +7,12 @@
 <items>
 
 <item>
+<title>Mike Fedhale 2018[COLOR=FF00FF00]HD[/COLOR]</title>         
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=0NCxw_oK4K4</link>
+<thumbnail>https://i.ytimg.com/vi/0NCxw_oK4K4/hqdefault.jpg</thumbnail>
+</item>
+	
+<item>
 <title>MBC 1 [COLOR=FF00FF00]HD[/COLOR]</title>         
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.fannan.se:8000/live/332/332/7156.ts</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mbc1.jpg</thumbnail>
@@ -146,7 +152,6 @@
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=vhSB6Nry6MM</link>
 <thumbnail>https://i.ytimg.com/vi/vhSB6Nry6MM/hqdefault.jpg</thumbnail>
 </item>		
-
 
 <item>
 <title>Ep02</title>
