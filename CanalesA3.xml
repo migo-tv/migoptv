@@ -100,7 +100,40 @@
 </channel> 
 	
 
+<channel> 
+<name>Happy New Year 2018</name>
+<thumbnail>https://i.ytimg.com/vi/ePiAcy1zEwY/hqdefault.jpg</thumbnail>
+<items>
+
+<item>
+<title>01</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=jv_8XLR7420</link>
+<thumbnail>https://i.ytimg.com/vi/jv_8XLR7420/hqdefault.jpg</thumbnail>
+</item>		
+
+
+<item>
+<title>02</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=GWU4KL0kxJY</link>
+<thumbnail>https://i.ytimg.com/vi/GWU4KL0kxJY/hqdefault.jpg</thumbnail>
+</item>		
+
 	
+<item>
+<title>03</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=MwIV6cTyxhQ</link>
+<thumbnail>https://i.ytimg.com/vi/MwIV6cTyxhQ/hqdefault.jpg</thumbnail>
+</item>
+	
+
+<item>
+<title>04</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=OPrqYlzJ9NQ</link>
+<thumbnail>https://i.ytimg.com/vi/OPrqYlzJ9NQ/hqdefault.jpg</thumbnail>
+</item>
+	
+</items>
+</channel> 	
 	
 	
 <channel> 
