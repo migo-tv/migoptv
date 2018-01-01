@@ -133,6 +133,40 @@
 <thumbnail>https://i.ytimg.com/vi/OPrqYlzJ9NQ/hqdefault.jpg</thumbnail>
 </item>
 	
+<item>
+<title>05</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=nPmvPt1bdus</link>
+<thumbnail>https://i.ytimg.com/vi/nPmvPt1bdus/hqdefault.jpg</thumbnail>
+</item>	
+
+<item>
+<title>06</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=nPmvPt1bdus</link>
+<thumbnail>https://i.ytimg.com/vi/nPmvPt1bdus/hqdefault.jpg</thumbnail>
+</item>	
+
+<item>
+<title>07</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=PIU5Pzs-X0E</link>
+<thumbnail>https://i.ytimg.com/vi/PIU5Pzs-X0E/hqdefault.jpg</thumbnail>
+</item>	
+
+<item>
+<title>08</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=OJoqYFrjQnU</link>
+<thumbnail>https://i.ytimg.com/vi/OJoqYFrjQnU/hqdefault.jpg</thumbnail>
+</item>	
+	
+<item>
+<title>Feliz Cumpleanos</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=uPQUVk9NzB0</link>
+<thumbnail>https://i.ytimg.com/vi/uPQUVk9NzB0/hqdefault.jpg</thumbnail>
+</item>		
+<item>
+<title>Feliz Cumpleanos 2</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=nESs9k-jODo</link>
+<thumbnail>https://i.ytimg.com/vi/nESs9k-jODo/hqdefault.jpg</thumbnail>
+</item>		
 </items>
 </channel> 	
 	
