@@ -174,9 +174,9 @@
 
 
 <item>
-<title>ARABICA [COLOR=FF00FF00]HD[/COLOR]</title> 
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.fannan.se:8000/live/332/332/7132.ts</link>
-<thumbnail>https://github.com/migo-tv/migoptv/blob/master/LOGOS%20TV/arabica_lb.jpg?raw=true</thumbnail>
+<title>prueba [COLOR=FF00FF00]HD[/COLOR]</title> 
+<link>http://rmtvlive-lh.akamaihd.net:80/i/rmtv_1@154306/index_1000_av-p.m3u8</link>
+<thumbnail></thumbnail>
 </item>
 	
 </items>
