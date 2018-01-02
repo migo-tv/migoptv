@@ -283,6 +283,12 @@
 <thumbnail>https://i.ytimg.com/vi/gvVXVbhFKTI/hqdefault.jpg</thumbnail>
 </item>
 	
+<item>
+<title>Ep04</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Mp03Hppe_iU</link>
+<thumbnail>https://i.ytimg.com/vi/Mp03Hppe_iU/hqdefault.jpg</thumbnail>
+</item>
+	
 </items>
 </channel> 
 	
