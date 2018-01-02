@@ -98,6 +98,88 @@
 </item>
 	
 </items>
+</channel>
+
+
+	
+	
+	
+	
+	
+	
+	
+<channel> 
+<name>Canales ARABES 2</name>
+<thumbnail>https://i.ytimg.com/vi/gOvLf3YJtnE/hqdefault.jpg</thumbnail>
+<items>
+<item>
+<title>MTV [COLOR=FF00FF00]HD[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/live/jamil2/jamil2/137.ts</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/murr_tv_lebanon.jpg</thumbnail>
+</item>	
+	
+<item>
+<title>AL Jadeed [COLOR=FF00FF00]HD[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/live/jamil2/jamil2/141.ts</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/al_jadeed.jpg</thumbnail>	
+	
+<item>
+<title>MBC 1 [COLOR=FF00FF00]HD[/COLOR]</title>         
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/live/jamil2/jamil2/61.ts</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mbc1.jpg</thumbnail>
+</item>
+	
+<item>
+<title>MBC 4 D[COLOR=FF00FF00]HD[/COLOR]</title>         
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/live/jamil2/jamil2/64.ts</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mbc4.jpg</thumbnail>
+</item>
+
+<item>
+<title>MBC Drama [COLOR=FF00FF00]HD[/COLOR]</title>         
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/live/jamil2/jamil2/67.ts</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mbc_plus_drama_hd.jpg</thumbnail>
+</item>
+	
+<item>
+<title>OSN Ya hala +2 [COLOR=FF00FF00]HD[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://al-iptv.com:8080/live/ismail/ismail/8848.ts</link>
+<thumbnail>https://github.com/migo-tv/migoptv/blob/master/LOGOS%20TV/osn_ya_hala_hd_plus2.jpg?raw=true</thumbnail>
+</item>
+<item>
+<title>OSN Ya hala [COLOR=FF00FF00]HD[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/live/jamil2/jamil2/33.ts</link>
+<thumbnail>https://github.com/migo-tv/migoptv/blob/master/LOGOS%20TV/osn_ya_hala_hd.jpg?raw=true</thumbnail>
+</item>
+
+
+<item>
+<title>Syria [COLOR=FF00FF00]HD[/COLOR]</title> 
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/live/jamil2/jamil2/169.ts</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/syria_drama_channel.jpg</thumbnail>
+</item>
+	
+<item>
+<title>Syria Drama [COLOR=FF00FF00]HD[/COLOR]</title> 
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/live/jamil2/jamil2/171.ts</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/syria_drama_channel.jpg</thumbnail>
+</item>
+	
+	
+<item>
+<title>LBC International [COLOR=FF00FF00]HD[/COLOR]</title>         
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/live/jamil2/jamil2/139.ts</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ll/lbc_sat.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>ARABICA [COLOR=FF00FF00]HD[/COLOR]</title> 
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.fannan.se:8000/live/332/332/7132.ts</link>
+<thumbnail>https://github.com/migo-tv/migoptv/blob/master/LOGOS%20TV/arabica_lb.jpg?raw=true</thumbnail>
+</item>
+	
+</items>
 </channel> 
 	
 
