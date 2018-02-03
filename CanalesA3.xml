@@ -307,6 +307,19 @@
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Kl3I9srhSzs</link>
 <thumbnail>https://i.ytimg.com/vi/Kl3I9srhSzs/hqdefault.jpg</thumbnail>
 </item>		
+
+	
+<item>
+<title>Ep10</title>
+<link>http://88.202.231.147:8080/new147/hd/118113.mp4</link>
+<thumbnail>http://images3.alarab.com/data/tv/146-100/20180124172451.jpg</thumbnail>
+</item>	
+	
+<item>
+<title>Ep11</title>
+<link>http://flv2.alarab.com:8080/new/hd/118188.mp4</link>
+<thumbnail>http://images.alarab.com/data/tv/146-100/20180109144315.jpg</thumbnail>
+</item>		
 	
 </items>
 </channel> 
