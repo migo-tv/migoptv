@@ -30,27 +30,27 @@
 	
 <item>
 <title>ART Hekayat 1 [COLOR=FF00FF00]HD[/COLOR]</title>         
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://superiptv1.ddns.net:8000/live/test2018/test2018/32.m3u8</link>
+<link>http://superiptv1.ddns.net:8000/live/test2018/test2018/32.m3u8</link>
 <thumbnail>https://github.com/migo-tv/migoptv/blob/master/art_hekayat.jpg?raw=true</thumbnail>
 </item>
 <item>
 <title>ART Hekayat 2 [COLOR=FF00FF00]HD[/COLOR]</title>         
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://superiptv1.ddns.net:8000/live/test2018/test2018/33.m3u8</link>
+<link>http://superiptv1.ddns.net:8000/live/test2018/test2018/33.m3u8</link>
 <thumbnail>https://github.com/migo-tv/migoptv/blob/master/art_hekayat_2.jpg?raw=true</thumbnail>
 </item>
 <item>
 <title>ART Movies</title>         
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://superiptv1.ddns.net:8000/live/test2018/test2018/34.m3u8</link>
+<link>http://superiptv1.ddns.net:8000/live/test2018/test2018/34.m3u8</link>
 <thumbnail>https://github.com/migo-tv/migoptv/blob/master/LOGOS%20TV/art_movies_us.jpg?raw=true</thumbnail>
 </item>
 <item>
 <title>ART Tarab</title>         
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://superiptv1.ddns.net:8000/live/test2018/test2018/26.m3u8</link>
+<link>http://superiptv1.ddns.net:8000/live/test2018/test2018/26.m3u8</link>
 <thumbnail>https://github.com/migo-tv/migoptv/blob/master/LOGOS%20TV/art_tarab.jpg?raw=true</thumbnail>
 </item>
 <item>
 <title>ART Variety</title>         
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://superiptv1.ddns.net:8000/live/test2018/test2018/25.m3u8</link>
+<link>http://superiptv1.ddns.net:8000/live/test2018/test2018/25.m3u8</link>
 <thumbnail>https://github.com/migo-tv/migoptv/blob/master/LOGOS%20TV/art_variety_sa.jpg?raw=true</thumbnail>
 </item>
 <item>
