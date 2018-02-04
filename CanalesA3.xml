@@ -7,87 +7,115 @@
 <items>
 
 <item>
-<title>Mike Fedhale 2018[COLOR=FF00FF00]HD[/COLOR]</title>         
-<link>http://play.bokracdn.run/?ID=133751&amp;iphoneApp=false</link>
-<thumbnail>https://i.ytimg.com/vi/0NCxw_oK4K4/hqdefault.jpg</thumbnail>
+<title>Abu Dhabi DRAMA [COLOR=FF00FF00]HD[/COLOR]</title>
+<link>http://adtv.ercdn.net/addrama/addrama_360p.m3u8</link>
+<thumbnail></thumbnail>
 </item>
 	
 <item>
 <title>MBC 1 [COLOR=FF00FF00]HD[/COLOR]</title>         
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.78.31:8063/live/Etronics_2BtnsI/vehTXQCB/2731.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/776.ts</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mbc1.jpg</thumbnail>
 </item>
 	
 <item>
 <title>MBC 4 D[COLOR=FF00FF00]HD[/COLOR]</title>         
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.fannan.se:8000/live/332/332/7153.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/773.ts</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mbc4.jpg</thumbnail>
 </item>
 
 <item>
 <title>MBC Drama [COLOR=FF00FF00]HD[/COLOR]</title>         
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.fannan.se:8000/live/332/332/7151.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/771.ts</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mbc_plus_drama_hd.jpg</thumbnail>
 </item>
 
-<item>
-<title>ART Hekayat 1 [COLOR=FF00FF00]HD[/COLOR]</title>         
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.fannan.se:8000/live/332/332/7126.ts</link>
-<thumbnail>https://github.com/migo-tv/migoptv/blob/master/art_hekayat.jpg?raw=true</thumbnail>
-</item>
+	
 	
 <item>
+<title>ART Hekayat 1 [COLOR=FF00FF00]HD[/COLOR]</title>         
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://superiptv1.ddns.net:8000/live/test2018/test2018/32.m3u8</link>
+<thumbnail>https://github.com/migo-tv/migoptv/blob/master/art_hekayat.jpg?raw=true</thumbnail>
+</item>
+<item>
 <title>ART Hekayat 2 [COLOR=FF00FF00]HD[/COLOR]</title>         
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.fannan.se:8000/live/332/332/7125.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://superiptv1.ddns.net:8000/live/test2018/test2018/33.m3u8</link>
 <thumbnail>https://github.com/migo-tv/migoptv/blob/master/art_hekayat_2.jpg?raw=true</thumbnail>
 </item>
+<item>
+<title>ART Movies</title>         
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://superiptv1.ddns.net:8000/live/test2018/test2018/34.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ART Tarab</title>         
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://superiptv1.ddns.net:8000/live/test2018/test2018/26.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ART Variety</title>         
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://superiptv1.ddns.net:8000/live/test2018/test2018/25.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ART Aflam 1 [COLOR=FF00FF00]HD[/COLOR]</title>         
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/6797.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ART Aflam 2 [COLOR=FF00FF00]HD[/COLOR]</title>         
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/6796.ts</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ART Cinema [COLOR=FF00FF00]HD[/COLOR]</title>         
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/6795.ts</link>
+<thumbnail></thumbnail>
+</item>	
 
+
+
+	
+	
+	
 <item>
 <title>Syria [COLOR=FF00FF00]HD[/COLOR]</title> 
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://abc.myplay.live:9002/live/1619/1619/1492.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/199.ts</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/syria_drama_channel.jpg</thumbnail>
 </item>
 	
 <item>
 <title>Syria Drama [COLOR=FF00FF00]HD[/COLOR]</title> 
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://abc.myplay.live:9002/live/1619/1619/1493.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/198.ts</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/syria_drama_channel.jpg</thumbnail>
 </item>
 	
 <item>
 <title>AL Jadeed [COLOR=FF00FF00]HD[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://abc.myplay.live:9002/live/1619/1619/399.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/647.ts</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/al_jadeed.jpg</thumbnail>
 
-
-	
 <item>
 <title>MTV [COLOR=FF00FF00]HD[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://abc.myplay.live:9002/live/1619/1619/972.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/338.ts</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/murr_tv_lebanon.jpg</thumbnail>
 </item>	
 	
 <item>
 <title>LBC International [COLOR=FF00FF00]HD[/COLOR]</title>         
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://abc.myplay.live:9002/live/1619/1619/1499.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/383.ts</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ll/lbc_sat.jpg</thumbnail>
 </item>
 
 <item>
-<title>OTV Lebanon [COLOR=FF00FF00]HD[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.fannan.se:8000/live/332/332/7115.ts</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/oo/otv_lb.jpg</thumbnail>
-</item>
-	
-<item>
 <title>CBC [COLOR=FF00FF00]HD[/COLOR]</title> 
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.fannan.se:8000/live/332/332/7008.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/530.ts</link>
 <thumbnail>https://github.com/migo-tv/migoptv/blob/master/LOGOS%20TV/cbc_eg.jpg?raw=true</thumbnail>
 </item>
 
 <item>
 <title>CBC Drama [COLOR=FF00FF00]HD[/COLOR]</title> 
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.fannan.se:8000/live/332/332/7005.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/528.ts</link>
 <thumbnail>https://github.com/migo-tv/migoptv/blob/master/LOGOS%20TV/cbc_eg_drama.jpg?raw=true</thumbnail>
 </item>
 	
@@ -105,75 +133,14 @@
 	
 	
 	
-	
-	
-	
-<channel> 
-<name>Canales ARABES 2</name>
-<thumbnail>https://i.ytimg.com/vi/gOvLf3YJtnE/hqdefault.jpg</thumbnail>
-<items>
-<item>
-<title>MTV [COLOR=FF00FF00]HD[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/live/jamil2/jamil2/137.ts</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/murr_tv_lebanon.jpg</thumbnail>
-</item>	
-	
-<item>
-<title>AL Jadeed [COLOR=FF00FF00]HD[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.78.31:8063/live/Etronics_2BtnsI/vehTXQCB/2740.ts</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/al_jadeed.jpg</thumbnail>	
-	
-<item>
-<title>MBC 1 [COLOR=FF00FF00]HD[/COLOR]</title>         
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.78.31:8063/live/Etronics_2BtnsI/vehTXQCB/2731.ts</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mbc1.jpg</thumbnail>
-</item>
-	
-<item>
-<title>MBC 4 D[COLOR=FF00FF00]HD[/COLOR]</title>         
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/live/jamil2/jamil2/64.ts</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mbc4.jpg</thumbnail>
-</item>
 
-<item>
-<title>MBC Drama [COLOR=FF00FF00]HD[/COLOR]</title>         
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/live/jamil2/jamil2/67.ts</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mbc_plus_drama_hd.jpg</thumbnail>
-</item>
-	
-<item>
-<title>OSN Ya hala +2 [COLOR=FF00FF00]HD[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://al-iptv.com:8080/live/ismail/ismail/8848.ts</link>
-<thumbnail>https://github.com/migo-tv/migoptv/blob/master/LOGOS%20TV/osn_ya_hala_hd_plus2.jpg?raw=true</thumbnail>
-</item>
-<item>
-<title>OSN Ya hala [COLOR=FF00FF00]HD[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/live/jamil2/jamil2/33.ts</link>
-<thumbnail>https://github.com/migo-tv/migoptv/blob/master/LOGOS%20TV/osn_ya_hala_hd.jpg?raw=true</thumbnail>
-</item>
-
-
-<item>
-<title>Syria [COLOR=FF00FF00]HD[/COLOR]</title> 
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/live/jamil2/jamil2/169.ts</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/syria_drama_channel.jpg</thumbnail>
-</item>
-	
-<item>
-<title>Syria Drama [COLOR=FF00FF00]HD[/COLOR]</title> 
-<link>http://selevision9876-i.akamaihd.net/hls/live/219116/98768/1.m3u8</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/syria_drama_channel.jpg</thumbnail>
-</item>
 	
 	
-<item>
-<title>LBC International [COLOR=FF00FF00]HD[/COLOR]</title>         
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/live/jamil2/jamil2/139.ts</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ll/lbc_sat.jpg</thumbnail>
-</item>
-
-</items>
-</channel> 
+	
+	
+	
+	
+	
 	
 
 	
