@@ -6,7 +6,48 @@
 
 
 <channel>	
-	
+		
+<item>
+<title>ART Hekayat 1 [COLOR=FF00FF00]HD[/COLOR]</title>         
+<link>http://superiptv1.ddns.net:8000/live/test2018/test2018/32.m3u8</link>
+<thumbnail>https://github.com/migo-tv/migoptv/blob/master/art_hekayat.jpg?raw=true</thumbnail>
+</item>
+<item>
+<title>ART Hekayat 2 [COLOR=FF00FF00]HD[/COLOR]</title>         
+<link>http://superiptv1.ddns.net:8000/live/test2018/test2018/33.m3u8</link>
+<thumbnail>https://github.com/migo-tv/migoptv/blob/master/art_hekayat_2.jpg?raw=true</thumbnail>
+</item>
+<item>
+<title>ART Movies</title>         
+<link>http://superiptv1.ddns.net:8000/live/test2018/test2018/34.m3u8</link>
+<thumbnail>https://github.com/migo-tv/migoptv/blob/master/LOGOS%20TV/art_movies_us.jpg?raw=true</thumbnail>
+</item>
+<item>
+<title>ART Tarab</title>         
+<link>http://superiptv1.ddns.net:8000/live/test2018/test2018/26.m3u8</link>
+<thumbnail>https://github.com/migo-tv/migoptv/blob/master/LOGOS%20TV/art_tarab.jpg?raw=true</thumbnail>
+</item>
+<item>
+<title>ART Variety</title>         
+<link>http://superiptv1.ddns.net:8000/live/test2018/test2018/25.m3u8</link>
+<thumbnail>https://github.com/migo-tv/migoptv/blob/master/LOGOS%20TV/art_variety_sa.jpg?raw=true</thumbnail>
+</item>
+<item>
+<title>ART Aflam 1 [COLOR=FF00FF00]HD[/COLOR]</title>         
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/6797.ts</link>
+<thumbnail>https://github.com/migo-tv/migoptv/blob/master/LOGOS%20TV/art_aflam_1.jpg?raw=true</thumbnail>
+</item>
+<item>
+<title>ART Aflam 2 [COLOR=FF00FF00]HD[/COLOR]</title>         
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/6796.ts</link>
+<thumbnail>https://github.com/migo-tv/migoptv/blob/master/LOGOS%20TV/art_aflam_2.jpg?raw=true</thumbnail>
+</item>
+<item>
+<title>ART Cinema [COLOR=FF00FF00]HD[/COLOR]</title>         
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/6795.ts</link>
+<thumbnail>https://github.com/migo-tv/migoptv/blob/master/LOGOS%20TV/art_cinema.jpg?raw=true</thumbnail>
+</item>	
+
 <item>
 <title>Syria TV [COLOR=FF00FF00]HD[/COLOR]</title> 
 <link>rtmp://82.137.248.16:1935/Sat?gmswf=3190193097 playpath=SatLive3 swfUrl=http://www.elahmad.com/tv/swf/player.swf?file=syriantv&amp;autostart=true&amp;/[[DYNAMIC]]/2/[[DYNAMIC]]/3 pageUrl=http://www.elahmad.com/tv/syria-tv-live.php</link>
