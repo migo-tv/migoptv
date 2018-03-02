@@ -6,7 +6,21 @@
 <thumbnail>https://i.ytimg.com/vi/gOvLf3YJtnE/hqdefault.jpg</thumbnail>
 <items>
 
-
+<item>
+<title>LBC International [COLOR=FF00FF00]HD[/COLOR]</title>         
+<link>http://selevision9891-i.akamaihd.net/hls/live/219336/98919/1.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ll/lbc_sat.jpg</thumbnail>
+</item>
+<item>
+<title>Abu Dhabi DRAMA [COLOR=FF00FF00]HD[/COLOR]</title>
+<link>http://adtv.ercdn.net/addrama/addrama_360p.m3u8</link>
+<thumbnail>https://github.com/migo-tv/migoptv/blob/master/LOGOS%20TV/abu_dhabi_drama.jpg?raw=true</thumbnail>
+</item>
+	
+	
+	
+	
+	
 	
 <item>
 <title>MBC 1 [COLOR=FF00FF00]HD[/COLOR]</title>         
@@ -49,11 +63,7 @@
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/murr_tv_lebanon.jpg</thumbnail>
 </item>	
 	
-<item>
-<title>LBC International [COLOR=FF00FF00]HD[/COLOR]</title>         
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.76.200:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/2481.ts</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ll/lbc_sat.jpg</thumbnail>
-</item>
+
 
 <item>
 <title>CBC [COLOR=FF00FF00]HD[/COLOR]</title> 
@@ -67,11 +77,7 @@
 <thumbnail>https://github.com/migo-tv/migoptv/blob/master/LOGOS%20TV/cbc_eg_drama.jpg?raw=true</thumbnail>
 </item>
 	
-<item>
-<title>Abu Dhabi DRAMA [COLOR=FF00FF00]HD[/COLOR]</title>
-<link>http://adtv.ercdn.net/addrama/addrama_360p.m3u8</link>
-<thumbnail>https://github.com/migo-tv/migoptv/blob/master/LOGOS%20TV/abu_dhabi_drama.jpg?raw=true</thumbnail>
-</item>
+
 	
 </items>
 </channel>
