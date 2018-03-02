@@ -76,13 +76,52 @@
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.76.200:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/2528.ts</link>
 <thumbnail>https://github.com/migo-tv/migoptv/blob/master/LOGOS%20TV/cbc_eg_drama.jpg?raw=true</thumbnail>
 </item>
-	
-
-	
 </items>
 </channel>
 
 
+	
+	
+<channel> 
+<name>The Voice 4</name>
+<thumbnail>https://i.ytimg.com/vi/RaZuzmhAVWc/hqdefault.jpg</thumbnail>
+<items>
+
+<item>
+<title>Ep01</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=g9iY3DfSt80</link>
+<thumbnail>https://i.ytimg.com/vi/g9iY3DfSt80/hqdefault.jpg</thumbnail>
+</item>
+<item>
+<title>Ep02</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=kzmoT2QCIP0</link>
+<thumbnail>https://i.ytimg.com/vi/kzmoT2QCIP0/hqdefault.jpg</thumbnail>
+</item>		
+<item>
+<title>Ep03</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=rFY6Pwb6uUc</link>
+<thumbnail>https://i.ytimg.com/vi/rFY6Pwb6uUc/hqdefault.jpg</thumbnail>
+</item>		
+	
+</items>
+</channel>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	
 	
 	
