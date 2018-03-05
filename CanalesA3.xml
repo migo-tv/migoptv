@@ -101,7 +101,13 @@
 <title>Ep03</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=cDqrnpwjh9o</link>
 <thumbnail>https://i.ytimg.com/vi/cDqrnpwjh9o/hqdefault.jpg</thumbnail>
-</item>		
+</item>
+	
+	<item>
+<title></title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=1aIO-z97nXs</link>
+<thumbnail>https://i.ytimg.com/vi/1aIO-z97nXs/hqdefault.jpg</thumbnail>
+</item>
 	
 </items>
 </channel>
@@ -366,6 +372,13 @@
 <thumbnail>https://i.ytimg.com/vi/-y02rmR7E0s/hqdefault.jpg</thumbnail>
 <items>
 
+<item>
+<title>THE MOVIE</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=VnMi5x5T7Cw</link>
+<thumbnail>https://i.ytimg.com/vi/VnMi5x5T7Cw/hqdefault.jpg</thumbnail>
+</item>	
+	
+	
 <item>
 <title>Ep01</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=-y02rmR7E0s</link>
