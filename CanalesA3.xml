@@ -82,6 +82,36 @@
 
 	
 	
+	
+	
+	<channel> 
+<name>Halwa Menak</name>
+<thumbnail>https://i.ytimg.com/vi/9CzyDt0ETBs/hqdefault.jpg</thumbnail>
+<items>
+
+<item>
+<title>05-02-2016</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=9CzyDt0ETBs</link>
+<thumbnail>https://i.ytimg.com/vi/9CzyDt0ETBs/hqdefault.jpg</thumbnail>
+</item>
+
+</items>
+</channel>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 <channel> 
 <name>The Voice 4</name>
 <thumbnail>https://i.ytimg.com/vi/RaZuzmhAVWc/hqdefault.jpg</thumbnail>
