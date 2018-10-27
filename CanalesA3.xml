@@ -23,14 +23,14 @@
 	
 	
 <item>
-<title>MBC 42 [COLOR=FF00FF00]HD[/COLOR]</title>         
-<link>http://185.115.33.88:8080/hls/mbc4.m3u8</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mbc4.jpg</thumbnail>
+<title>MBC 1 [COLOR=FF00FF00]HD[/COLOR]</title>         
+<link>http://185.115.33.77:8080/hls/mal-mbc_1.m3u8?mode=2&amp;params=eb592082254b10b5101ab1e2f3892561nJUxToMkqI2Zag-XIrTOhQG-MIs-XMSr2CTwM-0fPos=&amp;key=fcxrtwrpruxyoost</link>
+<thumbnail></thumbnail>
 </item>
 	
 <item>
 <title>MBC 4[COLOR=FF00FF00]HD[/COLOR]</title>         
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.115.33.88:8080/hls/mbc4.m3u8?mode=2&params=eb592082254b10b5101ab1e2f3892561nJUxToMkqI2Zag-XIrTOhQG-MIs-XMSr2CTwM-0fPos=&key=3F103C3114363436</link>
+<link>http://185.115.33.77:8080/hls/mbc4.m3u8?mode=2&params=eb592082254b10b5101ab1e2f3892561nJUxToMkqI2Zag-XIrTOhQG-MIs-XMSr2CTwM-0fPos=&key=fcxrtwrpruxyoost</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mbc4.jpg</thumbnail>
 </item>
 
