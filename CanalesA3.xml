@@ -12,9 +12,9 @@
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ll/lbc_sat.jpg</thumbnail>
 </item>
 <item>
-<title>Abu Dhabi DRAMA [COLOR=FF00FF00]HD[/COLOR]</title>
-<link>http://adtv.ercdn.net/addrama/addrama_360p.m3u8</link>
-<thumbnail>https://github.com/migo-tv/migoptv/blob/master/LOGOS%20TV/abu_dhabi_drama.jpg?raw=true</thumbnail>
+<title>SHAM FM [COLOR=FF00FF00]HD[/COLOR]</title>
+<link>http://185.115.33.82:8080/hls/Sham_FM.m3u8?mode=2&params=eb592082254b10b5101ab1e2f3892561nJUxToMkqI2Zag-XIrTOhQG-MIs-XMSr2CTwM-0fPos=&key=pgkfhkgyoosqabpa</link>
+<thumbnail></thumbnail>
 </item>
 	
 	
