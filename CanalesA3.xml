@@ -11,12 +11,7 @@
 <link>http://81.171.17.167:8086/hls/AljadeedJD.m3u8?key=yoosbuwhqmetagyw</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/al_jadeed.jpg</thumbnail>
 </item>
-<item>
-<title>AL Jadeed [COLOR=FF00FF00]HD[/COLOR]</title>
-<link>http://px4.mlljkjdsja.com:2086/hls/AljadeedJD.m3u8?key=yoosbuwhqmetagyw</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/al_jadeed.jpg</thumbnail>
-</item>	
-	
+
 <item>
 <title>MTV [COLOR=FF00FF00]HD[/COLOR]</title>         
 <link>http://81.171.17.167:8086/hls/MTVLebanonJD.m3u8?key=rvghiltyoosdhkll</link>
@@ -27,10 +22,7 @@
 <link>http://185.115.33.82:8080/hls/Syria_Drama.m3u8?key=trtbmqvyoosqfxoc</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/syria_drama_channel.jpg</thumbnail>
 </item>
-	
-	
-	
-	
+		
 	
 <item>
 <title>MBC 1 [COLOR=FF00FF00][/COLOR]</title>         
@@ -38,11 +30,7 @@
 <thumbnail></thumbnail>
 </item>
 	
-<item>
-<title>MBC 1 [COLOR=FF00FF00]2[/COLOR]</title>         
-<link>http://mlljkjdsja.com:8080/hls/mal-mbc_1.m3u8?key=trtbmqvyoosqfxoc</link>
-<thumbnail></thumbnail>
-</item>
+
 	
 <item>
 <title>MBC 4[COLOR=FF00FF00]HD[/COLOR]</title>         
