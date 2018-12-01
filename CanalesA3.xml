@@ -20,17 +20,12 @@
 	
 
 <item>
-<title>MTV [COLOR=FF00FF00]HD[/COLOR]</title>         
-<link>http://81.171.17.167:8086/hls/MTVLebanonJD.m3u8?key=dqnyooszuhnkoszm</link>
+<title>MTV[COLOR=FF00FF00]HD[/COLOR]</title>         
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/103.ts</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/murr_tv_lebanon.jpg</thumbnail>
 </item>
 	
-<item>
-<title>MTV 3[COLOR=FF00FF00]HD[/COLOR]</title>         
-<link>https://svs.itworkscdn.net/mtvlebanonlive/mtvlive.smil/playlist.m3u8?&amp;site=watcharab.com</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/murr_tv_lebanon.jpg</thumbnail>
-</item>
-	
+
 <item>
 <title>LBC [COLOR=FF00FF00]HD[/COLOR]</title>         
 <link>http://185.115.33.38:8080/hls/LBC.m3u8?key=eowicyoosvsdjija</link>
