@@ -8,20 +8,14 @@
 
 <item>
 <title>AL Jadeed [COLOR=FF00FF00]HD[/COLOR]</title>
-<link>http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/13731</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/al_jadeed.jpg</thumbnail>
-</item>
-	
-<item>
-<title>AL Jadeed 1[COLOR=FF00FF00]HD[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4347.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.115.33.92:8080/hls/AljadeedJD.m3u8?key=wafqjfwtppmyoose</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/al_jadeed.jpg</thumbnail>
 </item>
 	
 
 <item>
 <title>MTV[COLOR=FF00FF00]HD[/COLOR]</title>         
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/103.ts</link>
+<link>http://185.115.33.92:8080/hls/MTVLebanonJD.m3u8?key=nzneipyoosggozkd</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/murr_tv_lebanon.jpg</thumbnail>
 </item>
 	
