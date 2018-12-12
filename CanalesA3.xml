@@ -8,70 +8,32 @@
 
 <item>
 <title>AL Jadeed [COLOR=FF00FF00]HD[/COLOR]</title>
-<link>http://185.115.33.92:8080/hls/AljadeedJD.m3u8?key=lnchcyoosnfesxke</link>
+<link>http://81.171.17.167:8086/hls/AljadeedJD.m3u8?key=ykeptbtchkyoosxx</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/al_jadeed.jpg</thumbnail>
 </item>
-	
 
 <item>
-<title>MTV2[COLOR=FF00FF00]HD[/COLOR]</title>         
-<link>http://185.115.33.92:8080/hls/MTVLebanonJD.m3u8?key=kxkgdazskjyoospu</link>
+<title>MTV[COLOR=FF00FF00]HD[/COLOR]</title>         
+<link>http://81.171.17.167:8086/hls/MTVLebanonJD.m3u8?key=acmrltyoosmwbhcq</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/murr_tv_lebanon.jpg</thumbnail>
 </item>
-	
 
 <item>
 <title>LBC [COLOR=FF00FF00]HD[/COLOR]</title>         
-<link>http://185.115.33.38:8080/hls/LBC.m3u8?key=eowicyoosvsdjija</link>
+<link>http://185.115.33.38:8080/hls/LBC.m3u8?key=ncrlphqyoosmqixz</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ll/lbc_sat.jpg</thumbnail>
 </item>
-	
-<item>
-<title>Syria Drama</title> 
-<link>http://185.115.33.82:8080/hls/Syria_Drama.m3u8?key=qjyoosmptrlgtgvb</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/syria_drama_channel.jpg</thumbnail>
-</item>
-		
-	
-<item>
-<title>MBC 1 [COLOR=FF00FF00][/COLOR]</title>         
-<link>https://2202.janjua.pw:8088/live/MBC_101/playlist.m3u8?id=79986&pk=64899ebf83e9db3e5888794d7006b61a4aad0dcda4c73553e4eddcd45626377b</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mbc1.jpg</thumbnail>
-</item>
+
 <item>
 <title>MBC 1 (2)[COLOR=FF00FF00][/COLOR]</title>         
-<link>http://185.115.33.165:8080/hls/mal-mbc_1.m3u8?key=jtfppjnmlyyoosvl</link>
+<link>http://185.115.33.78:8080/hls/mal-mbc_1.m3u8?key=cuwyoosgbhuxvzwo</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mbc1.jpg</thumbnail>
 </item>
-	
 
-	
 <item>
 <title>MBC 4[COLOR=FF00FF00]HD[/COLOR]</title>         
-<link>http://185.115.33.165:8080/hls/mbc4.m3u8?key=qrccgvyoosfgkqte</link>
+<link>http://185.115.33.78:8080/hls/mbc4.m3u8?key=ipqjuyyooszwcyos</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mbc4.jpg</thumbnail>
-</item>
-<item>
-<title>MBC 4 (2)[COLOR=FF00FF00]HD[/COLOR]</title>         
-<link>http://185.115.33.45:8080/hls/MBC_4_HD.m3u8?key=qrccgvyoosfgkqte</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mbc4.jpg</thumbnail>
-</item>
-
-<item>
-<title>MBC Drama [COLOR=FF00FF00]HD[/COLOR]</title>         
-<link>http://81.171.17.167:8086/hls/MBC_Drama_HD.m3u8?key=jtfppjnmlyyoosvl</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mbc_plus_drama_hd.jpg</thumbnail>
-</item>
-<item>
-<title>MBC Drama 2 [COLOR=FF00FF00]HD[/COLOR]</title>         
-<link>http://185.115.33.45:8080/hls/MBC_Drama_HD.m3u8?key=jtfppjnmlyyoosvl</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mbc_plus_drama_hd.jpg</thumbnail>
-</item>
-	
-	<item>
-<title>syria[COLOR=FF00FF00]HD[/COLOR]</title>         
-<link>http://82.137.248.16:1935/Sat/stream11072018/playlist.m3u8?DVR</link>
-<thumbnail></thumbnail>
 </item>
 
 
