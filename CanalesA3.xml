@@ -51,14 +51,20 @@
 	
 	
 <channel> 
-<name>Programas 2018</name>
-<thumbnail></thumbnail>
-<items>
+<name>Bet el kel</name>
+<thumbnail>https://i.ytimg.com/vi/n-mQEB2U4bM/hqdefault.jpg</thumbnail>
+</item>
 
 <item>
-<title>05-02-2016</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=1mQUbc-d1ds</link>
-<thumbnail>https://i.ytimg.com/vi/9CzyDt0ETBs/hqdefault.jpg</thumbnail>
+<title>11-01-2019</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=n-mQEB2U4bM</link>
+<thumbnail>https://i.ytimg.com/vi/n-mQEB2U4bM/hqdefault.jpg</thumbnail>
+</item>
+	
+<item>
+<title>10-11-2018</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=sazCxBO-4TE</link>
+<thumbnail>https://i.ytimg.com/vi/sazCxBO-4TE/hqdefault.jpg</thumbnail>
 </item>
 
 </items>
