@@ -70,6 +70,24 @@
 </items>
 </channel>
 	
+
+	
+	
+	<channel> 
+<name>nuevo</name>
+<thumbnail>https://i.ytimg.com/vi/NoRXtRQC9Nc/hqdefault.jpg</thumbnail>
+</item>
+
+<item>
+<title>1</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=NoRXtRQC9Nc</link>
+<thumbnail>https://i.ytimg.com/vi/NoRXtRQC9Nc/hqdefault.jpg</thumbnail>
+</item>
+	
+
+
+</items>
+</channel>
 	
 	
 	
