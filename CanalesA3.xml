@@ -86,6 +86,28 @@
 	
 
 
+	<item>
+<title>2</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ocXEQNWeb44</link>
+<thumbnail>https://i.ytimg.com/vi/ocXEQNWeb44/hqdefault.jpg</thumbnail>
+</item>
+	
+	<item>
+<title>3</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ivorJ7q2PCI</link>
+<thumbnail>https://i.ytimg.com/vi/ivorJ7q2PCI/hqdefault.jpg</thumbnail>
+</item>
+	
+	<item>
+<title>4</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ISkgy64_9Iw</link>
+<thumbnail>https://i.ytimg.com/vi/ISkgy64_9Iw/hqdefault.jpg</thumbnail>
+</item>
+	
+	
+	
+
+
 </items>
 </channel>
 	
