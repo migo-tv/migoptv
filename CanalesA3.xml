@@ -8,31 +8,43 @@
 
 <item>
 <title>AL Jadeed [COLOR=FF00FF00]HD[/COLOR]</title>
-<link>http://81.171.17.167:8086/hls/AljadeedJD.m3u8?key=ykeptbtchkyoosxx</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/live/dVohgVNhJ2/qslTRWUruo/766.ts</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/al_jadeed.jpg</thumbnail>
 </item>
 
 <item>
 <title>MTV[COLOR=FF00FF00]HD[/COLOR]</title>         
-<link>http://81.171.17.167:8086/hls/MTVLebanonJD.m3u8?key=acmrltyoosmwbhcq</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/live/dVohgVNhJ2/qslTRWUruo/776.ts</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/murr_tv_lebanon.jpg</thumbnail>
 </item>
 
+	<item>
+<title>OTV[COLOR=FF00FF00]HD[/COLOR]</title>         
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/live/dVohgVNhJ2/qslTRWUruo/777.ts</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/oo/otv_lb.jpg</thumbnail>
+</item>
+	
 <item>
 <title>LBC [COLOR=FF00FF00]HD[/COLOR]</title>         
-<link>http://185.115.33.38:8080/hls/LBC.m3u8?key=ncrlphqyoosmqixz</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/live/dVohgVNhJ2/qslTRWUruo/779.ts</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ll/lbc_sat.jpg</thumbnail>
+</item>
+	
+<item>
+<title>LDC [COLOR=FF00FF00]HD[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/live/dVohgVNhJ2/qslTRWUruo/77.ts</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ll/ldc_lb.jpg</thumbnail>
 </item>
 
 <item>
-<title>MBC 1 (2)[COLOR=FF00FF00][/COLOR]</title>         
-<link>http://185.115.33.78:8080/hls/mal-mbc_1.m3u8?key=cuwyoosgbhuxvzwo</link>
+<title>MBC 1[COLOR=FF00FF00][/COLOR]</title>         
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/live/dVohgVNhJ2/qslTRWUruo/979.ts</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mbc1.jpg</thumbnail>
 </item>
 
 <item>
 <title>MBC 4[COLOR=FF00FF00]HD[/COLOR]</title>         
-<link>http://185.115.33.78:8080/hls/mbc4.m3u8?key=ipqjuyyooszwcyos</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/live/dVohgVNhJ2/qslTRWUruo/976.ts</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mbc4.jpg</thumbnail>
 </item>
 
@@ -40,11 +52,15 @@
 	
 <item>
 <title>Syria TV[COLOR=FF00FF00]HD[/COLOR]</title>         
-<link>http://82.137.248.16:1935/Sat/stream20112018/playlist.m3u8?DVR</link>
-<thumbnail></thumbnail>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/live/dVohgVNhJ2/qslTRWUruo/608.ts</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/syria_satellite_channel.jpg</thumbnail>
 </item>
 
-
+<item>
+<title>Syria Drama[COLOR=FF00FF00]HD[/COLOR]</title>         
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tptv.cz:80/live/dVohgVNhJ2/qslTRWUruo/611.ts</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/syria_drama_channel.jpg</thumbnail>
+</item>
 
 	
 	
