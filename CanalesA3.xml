@@ -27,8 +27,6 @@
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ll/lbc_sat.jpg</thumbnail>
 </item>
 
- <item><title>LDC [COLOR=FF00FF00]HD[/COLOR]</title><link>http://lv003.cdn.lbcdn.com/live/m3u8/H7sKl3SdLDC.m3u8?__token__=ip=190.38.123.201~exp=2910964146~acl=*~data=1351~hmac=9314290d650f20810b0163eb7865078ab20ebc35b7770414f85816cca19ebf61</link><thumbnail>http://www.lyngsat-logo.com/logo/tv/ll/ldc_lb.jpg</thumbnail></item> 
-
 
 <item><title>MTV [COLOR=FF00FF00]HD[/COLOR]</title><link>http://lv003.cdn.lbcdn.com/live/m3u8/H7sKl3SdMtvL.m3u8?__token__=ip=190.38.123.201~exp=2910964146~acl=*~data=1351~hmac=9314290d650f20810b0163eb7865078ab20ebc35b7770414f85816cca19ebf61</link><thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/murr_tv_lebanon.jpg</thumbnail></item>
 
