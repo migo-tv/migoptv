@@ -6,16 +6,10 @@
 <thumbnail>https://github.com/migo-tv/migoptv/blob/master/LOGOS%20TV/Ramadan19cabecera.png?raw=true</thumbnail>
 <items>
 
-
-<item>
-<title>1</title>
-<link>http://livecdnh3.tvanywhere.ae/hls/jadeed/04.m3u8?fluxustv.m3u8</link>
-<thumbnail></thumbnail>
-</item>
 	
 <item>
-<title>2</title>
-<link>http://livecdnh2.tvanywhere.ae/hls/lbc_int/04.m3u8?fluxustv.m3u8</link>
+<title>MBC 1</title>
+<link>http://livecdnh2.tvanywhere.ae/hls/mbc1/03.m3u8?fluxustv.m3u8</link>
 <thumbnail></thumbnail>
 </item>	
 	
