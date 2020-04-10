@@ -19,7 +19,11 @@
 <link>http://livecdnh3.tvanywhere.ae/hls/jadeed/04.m3u8?fluxustv.m3u8</link>
 <thumbnail>http://www.pixentral.com/pics/1PDtMQpSeV39pmgEmb6xstFc2YMO.jpg</thumbnail>
 </item>
-
+<item>
+<title>AL JADEED [COLOR=FF00FF00]HD[/COLOR]</title>
+<link>http://livecdnh3.tvanywhere.ae/hls/jadeed/03.m3u8?fluxustv.m3u8</link>
+<thumbnail>http://www.pixentral.com/pics/1PDtMQpSeV39pmgEmb6xstFc2YMO.jpg</thumbnail>
+</item>
 
 <item>
 <title>LBC International [COLOR=FF00FF00]HD[/COLOR]</title>
@@ -27,9 +31,49 @@
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ll/lbc_sat.jpg</thumbnail>
 </item>
 
+<item>
+<title>LBC International [COLOR=FF00FF00]SD[/COLOR]</title>
+<link>http://livecdnh2.tvanywhere.ae/hls/lbc_int/03.m3u8?fluxustv.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ll/lbc_sat.jpg</thumbnail>
+</item>
+	
+http://161.0.157.6/PLTV/88888888/224/<item>
+<title>LANA [COLOR=FF00FF00]HD[/COLOR]</title>
+<link>https://svs.itworkscdn.net/lanatvlive/lana/chunks.m3u8?DVR&v?fluxustv.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/migo-tv/migoptv/master/LOGOS%20TV/lana-tv-lb.jpg</thumbnail>
+</item>
+	
+<item>
+<title>Sama Syria [COLOR=FF00FF00]HD[/COLOR]</title>
+<link>http://95.170.215.109/hls/m3u8/SAMA-TV-Backup.m3u8?fluxustv.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sama_tv.jpg</thumbnail>
+</item>	
 
-<item><title>MTV [COLOR=FF00FF00]HD[/COLOR]</title><link>http://lv003.cdn.lbcdn.com/live/m3u8/H7sKl3SdMtvL.m3u8?__token__=ip=190.38.123.201~exp=2910964146~acl=*~data=1351~hmac=9314290d650f20810b0163eb7865078ab20ebc35b7770414f85816cca19ebf61</link><thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/murr_tv_lebanon.jpg</thumbnail></item>
-
+<item>
+<title>Syria TV [COLOR=FF00FF00]HD[/COLOR]</title> 
+<link>http://95.170.215.109/hls/m3u8/SYRIA-Backup.m3u8?fluxustv.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/migo-tv/migoptv/master/LOGOS%20TV/syrian-satellite-channel-sy.jpg</thumbnail>
+</item>	
+	
+	
+<item>
+<title>Syria Drama [COLOR=FF00FF00]HD[/COLOR]</title> 
+<link>http://livecdnh2.tvanywhere.ae/hls/syria_drama/04.m3u8?fluxustv.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/migo-tv/migoptv/master/LOGOS%20TV/syria-drama-sy.jpg</thumbnail>
+</item>
+	
+<item>
+<title>Rotana Clip [COLOR=FF00FF00]HD[/COLOR]</title>         
+<link>http://livecdnh3.tvanywhere.ae/hls/rotclip/index.m3u8?fluxustv.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rotana_clip.jpg</thumbnail>
+</item>	
+	
+<item>
+<title>Rotana Musica [COLOR=FF00FF00]HD[/COLOR]</title>         
+<link>http://livecdnh3.tvanywhere.ae/hls/rotmusic/index.m3u8?fluxustv.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/rotana_mousica.jpg</thumbnail>
+</item>	
+	
 	
 </items>
 </channel>
