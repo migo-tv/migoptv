@@ -3,16 +3,6 @@
 
 <!-- main node which handles the screen -->
 <component name="MainScene" extends="Scene">
-
-  <children>
-  	<!-- video -->
-    <Video
-      id="Video"
-      visible="true"
-      width="1920"
-      height="1080"
-      translation="[0,0]"/>
-
     <!-- menu -->
     <LabelList
       id="MenuList"
@@ -25,8 +15,6 @@
           url="http://zufreelist.net:8080/zutvondemannueva/Kl1F5AGT6C/4"
           description="ts" />
     </LabelList>
-  </children>
-
   <!-- main handler -->
   <script type="text/brightscript" uri="pkg:/components/MainScene.brs"/>
 </component>
