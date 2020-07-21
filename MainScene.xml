@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--********** Copyright 2016 Roku Corp.  All Rights Reserved. **********-->
+
+<!-- main node which handles the screen -->
+<component name="MainScene" extends="Scene">
+
+  <children>
+  	<!-- video -->
+    <Video
+      id="Video"
+      visible="true"
+      width="1920"
+      height="1080"
+      translation="[0,0]"/>
+
+    <!-- menu -->
+    <LabelList
+      id="MenuList"
+      translation="[100,50]"
+      itemSize="[600,100]"
+      visible="false">
+      <ContentNode id="menucontent" role="content">
+        <ContentNode
+          title="Bein Sports Ñ"
+          url="http://zufreelist.net:8080/zutvondemannueva/Kl1F5AGT6C/4"
+          description="ts" />
+        <ContentNode
+          title="US m3u8"
+          url="https://raw.githubusercontent.com/migo-tv/migoptv/master/Iptvmido.m3u8"
+          description="ts" />
+        <ContentNode
+          title="US ts'"
+          url="https://raw.githubusercontent.com/migo-tv/migoptv/master/Iptvmido.m3u"
+          description="ts" />
+        <ContentNode
+          title="iptvmido ts"
+          url="https://raw.githubusercontent.com/migo-tv/migoptv/master/Iptvmido.ts"
+          description="ts" />
+    </LabelList>
+  </children>
+
+  <!-- main handler -->
+  <script type="text/brightscript" uri="pkg:/components/MainScene.brs"/>
+</component>
