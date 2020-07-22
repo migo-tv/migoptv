@@ -1,0 +1,203 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcastRF="http://radiofrance.fr/Lancelot/Podcast#" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" version="2.0">
+
+<channel>
+
+<title>Toute une vie</title>
+
+<link>
+
+https://www.franceculture.fr/emissions/une-vie-une-oeuvre
+
+</link>
+
+<description>
+
+"Toute une vie" succède à "Une vie, une ouvre" : chaque samedi, à 15h, le portrait radiophonique de femmes et hommes d'exception.
+
+</description>
+
+<language>fr</language>
+
+<copyright>Radio France</copyright>
+
+<lastBuildDate>Tue, 21 Jul 2020 23:23:28 +0200</lastBuildDate>
+
+<generator>Radio France</generator>
+
+<image>
+
+<url>
+
+https://cdn.radiofrance.fr/s3/cruiser-production/2019/07/a7489047-1670-4d1b-8e13-73e054c70f58/1400x1400_rf_omm_0000017847_ite.jpg
+
+</url>
+
+<title>Toute une vie</title>
+
+<link>
+
+https://www.franceculture.fr/emissions/une-vie-une-oeuvre
+
+</link>
+
+</image>
+
+<itunes:author>France Culture</itunes:author>
+
+<itunes:category text="Arts">
+
+<itunes:category text="Books"/>
+
+</itunes:category>
+
+<itunes:explicit>no</itunes:explicit>
+
+<itunes:image href="https://cdn.radiofrance.fr/s3/cruiser-production/2019/07/a7489047-1670-4d1b-8e13-73e054c70f58/1400x1400_rf_omm_0000017847_ite.jpg"/>
+
+<itunes:owner>
+
+<itunes:email>podcast@radiofrance.com</itunes:email>
+
+<itunes:name>Radio France</itunes:name>
+
+</itunes:owner>
+
+<itunes:subtitle>Toute une vie</itunes:subtitle>
+
+<itunes:summary>
+
+"Toute une vie" succède à "Une vie, une ouvre" : chaque samedi, à 15h, le portrait radiophonique de femmes et hommes d'exception.
+
+</itunes:summary>
+
+<podcastRF:originStation>5</podcastRF:originStation>
+
+<googleplay:block>yes</googleplay:block>
+
+<item>
+
+<title>
+
+Lettres de Russie (2/5) : Nina Berberova (1901-1993), "je suis un fleuve"
+
+</title>
+
+<link>
+
+https://www.franceculture.fr/emissions/une-vie-une-oeuvre/lettres-de-russie-25-nina-berberova-1901-1993-je-suis-un-fleuve
+
+</link>
+
+<description>
+
+durée : 00:59:21 - Une vie, une oeuvre - par : Julien Thèves - Née en Russie peu avant la Révolution d’Octobre, émigrée à Paris puis aux Etats-Unis, Nina Berberova est l’une des auteures russes les plus importantes du 20ème siècle. Son œuvre donne vie aux exilés, raconte la grande Histoire, dans de courts récits au style unique. - réalisation : Laurent Paulré - invités : Ida Junker Traductrice, autrice et spécialiste de Nina Berberova; Michel Niqueux Professeur Émérite de l'Université de Lausanne en littérature et civilisation russe; Bertrand Le Meignen Biographe de Nina Berberova; Bertrand Py Directeur éditorial et co-fondateur d'Actes Sud; Eva Chanet Éditrice chez Actes Sud; Murl Barker Universitaire américain
+
+</description>
+
+<author>podcast@radiofrance.com</author>
+
+<category>Arts Books</category>
+
+<enclosure url="http://rf.proxycast.org/6a0a32fb-ecd8-4007-a1ed-099225f0c757/10471-21.07.2020-ITEMA_22386607-2020C3330S0203-1779455909.mp3" length="57011817" type="audio/mpeg"/>
+
+<guid isPermalink="false">014cc7d7-fe27-4dad-b813-79adc89d6f27</guid>
+
+<pubDate>Tue, 21 Jul 2020 11:58:45 +0200</pubDate>
+
+<podcastRF:businessReference>3330</podcastRF:businessReference>
+
+<podcastRF:magnetothequeID>2020C3330S0203</podcastRF:magnetothequeID>
+
+<itunes:title>
+
+Lettres de Russie (2/5) : Nina Berberova (1901-1993), "je suis un fleuve"
+
+</itunes:title>
+
+<itunes:author>France Culture</itunes:author>
+
+<itunes:explicit>no</itunes:explicit>
+
+<itunes:keywords>
+
+Lettres,de,Russie,(2/5),:,Nina,Berberova,(1901-1993),,"je,suis,un,fleuve",
+
+</itunes:keywords>
+
+<itunes:subtitle>
+
+Lettres de Russie (2/5) : Nina Berberova (1901-1993), "je suis un fleuve"
+
+</itunes:subtitle>
+
+<itunes:summary>
+
+durée : 00:59:21 - Une vie, une oeuvre - par : Julien Thèves - Née en Russie peu avant la Révolution d’Octobre, émigrée à Paris puis aux Etats-Unis, Nina Berberova est l’une des auteures russes les plus importantes du 20ème siècle. Son œuvre donne vie aux exilés, raconte la grande Histoire, dans de courts récits au style unique. - réalisation : Laurent Paulré - invités : Ida Junker Traductrice, autrice et spécialiste de Nina Berberova; Michel Niqueux Professeur Émérite de l'Université de Lausanne en littérature et civilisation russe; Bertrand Le Meignen Biographe de Nina Berberova; Bertrand Py Directeur éditorial et co-fondateur d'Actes Sud; Eva Chanet Éditrice chez Actes Sud; Murl Barker Universitaire américain
+
+</itunes:summary>
+
+<itunes:duration>00:59:21</itunes:duration>
+
+<googleplay:block>yes</googleplay:block>
+
+</item>
+
+<title>
+
+Retrouvez tous les épisodes sur l’appli Radio France
+
+</title>
+
+<link>
+
+https://www.radiofrance.fr/application-mobile-radio-france
+
+</link>
+
+<description>
+
+Retrouvez tous les épisodes sur l’appli Radio France
+
+</description>
+
+<author>podcast@radiofrance.com</author>
+
+<enclosure url="https://media.radiofrance-podcast.net/podcast09/app_rf_promotion.mp3?replayCu=10471&stationId=5" length="0" type="audio/mpeg"/>
+
+<guid isPermalink="true">
+
+https://media.radiofrance-podcast.net/podcast09/app_rf_promotion.mp3?replayCu=10471&stationId=5
+
+</guid>
+
+<pubDate>Tue, 29 Aug 2006 23:59:59 +0200</pubDate>
+
+<itunes:title>
+
+Retrouvez tous les épisodes sur l’appli Radio France
+
+</itunes:title>
+
+<itunes:author>Radio France</itunes:author>
+
+<itunes:explicit>no</itunes:explicit>
+
+<itunes:subtitle>
+
+Retrouvez tous les épisodes sur l’appli Radio France
+
+</itunes:subtitle>
+
+<itunes:summary>
+
+Retrouvez tous les épisodes sur l’appli Radio France
+
+</itunes:summary>
+
+<itunes:duration>00:00:12</itunes:duration>
+
+</item>
+
+</channel>
+
+</rss>
