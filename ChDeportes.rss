@@ -1,24 +1,8 @@
 <?xml version=»1.0″ encoding=»UTF-8″ ?>
-<rss version=»2.0″>
-
-<channel>
-
-<title>El podcast de Radio Libres</title>
-<link>https://www.radioslibres.net/</link>
-<description>Radios Libres presenta su podcast sobre radios comunitarias y tecnologías libres.</description>
-<copyright>CC 4.0 – BY-SA<copyright>
-
-<item>
-
-<title>Episodio 1 – Bienvenida</title>
-<link>https://www.radioslibres.net/podcasts/episodio-1.html</link>
-<description>En el episodio inaugural de nuestro primer podcast les contaremos cómo será esta temporada.</description>
-<author>Radios Libres</author>
-<pubDate>Thu, 12 Sep 2019</pubDate>
-<enclosure url=»https://www.radioslibres.net/podcasts/episodio1.ogg» type=»audio/ogg» length=»300″ />
-
-</item>
-
-</channel>
-
-</rss>
+xml version="1.0" encoding="UTF-8"?> <rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0"> <channel> <title>Developer Sample Library</title> <link /> <description /> <language>en</language> <pubDate>Thu, 07 Jul 2016 15:53:22 GMT</pubDate> <item> <title>...With Laura Miller</title> <link>http://roku.content.video.llnw.net/smedia/59021fabe3b645968e382ac726cd6c7b/4k/Pis2H4XgJiWPmCa1yTXpBZBXFvqzjp9Zcg23NNYjg/laura-miller-seriestv-promo---civilized_v4.mp4</link> <description>RAW. VEGAN. NOT GROSS.</description> <pubDate>Thu, 22 Oct 2015 20:21:34 GMT</pubDate> <guid isPermaLink="false">fec6ff363e9f4f7e95bcbc313def5ab7</guid> <media:content channels="2" bitrate="450.0" duration="25" fileSize="1482253" framerate="23.976" height="360" type="video/mp4" width="640" isDefault="true" url="http://roku.content.video.llnw.net/smedia/59021fabe3b645968e382ac726cd6c7b/4k/Pis2H4XgJiWPmCa1yTXpBZBXFvqzjp9Zcg23NNYjg/laura-miller-seriestv-promo---civilized_v4.mp4"> <media:description>RAW. VEGAN. NOT GROSS.</media:description> <media:keywords>a, episode 40, food, laura miller, raw, roku recommends, tastemade, vegan</media:keywords> <media:thumbnail url="http://img.delvenetworks.com/WQIfq-O2RZYjjgqxybNbHs/_sb_Nj6fT34lby8MT3vWrc/YRO.540x302.jpeg" /> 
+  <media:title>...With Laura Miller</media:title> 
+  </media:content>
+  </item>
+  
+  </channel>
+  </rss>
