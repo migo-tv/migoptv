@@ -3,16 +3,15 @@
 <channel>
 
 <title>MakeUseOf RSS Feed</title>
-<link>//www.makeuseof.com/</link>
+<link>http://www.makeuseof.com/</link>
 <description>Cool Websites, Software and Internet Tips</description>
 <lastBuildDate>Wed, July 4 2018</lastBuildDate>
 
 <item> <title>Entry Title</title>
-<link>URL Link to the entry</link>
+<link>https://trinity-lh.akamaihd.net/i/GolTVModel4A_d@422865/master.m3u8</link>
 <guid>https://www.mysite.com/?p=584674</guid>
 <description>This is the description of the content...</description>
-<pubDate>Wed, July 4 2018</pubDate>
-</item>
-
-</channel>
-</rss>
+<pubDate>July 4 2018</pubDate>
+</item>  
+  </channel>
+  </rss>
