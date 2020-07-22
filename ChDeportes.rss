@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0"> 
+<channel> 
+<title>ms nos fav</title> 
+<link /> 
+<description /> 
+<language>es</language> 
+<pubDate>Thu, 21 Jul 2020 21:12:02 GMT</pubDate> 
+
+<item> 
+<title>Bein SportsÑ</title>
+<link>http://zufreelist.net:8080/zutvondemannueva/Kl1F5AGT6C/4</link>
+<description>Canal de Deportes en español</description>
+<pubDate>Thu, 21 Jul 2020 21:12:02 GMT</pubDate>
+<guid isPermaLink="false">fec6ff363e9f4f7e95bcbc313def5ab7</guid> 
+<media:content channels="2" bitrate="450.0" duration="25" fileSize="1482253" framerate="23.976" height="360" type="ts" width="640" isDefault="true" url="http://zufreelist.net:8080/zutvondemannueva/Kl1F5AGT6C/4">
+<media:description>Canal de Deportes en español</media:description>
+<media:keywords>Prueba</media:keywords> 
+<media:thumbnail url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/BeIN_Sports.png/240px-BeIN_Sports.png" /> 
+<media:title>Bein SportsÑ</media:title> 
+</media:content>
+</item>
+
+
+
+<title>Coming to the Stage</title>
+<link>http://roku.content.video.llnw.net/smedia/59021fabe3b645968e382ac726cd6c7b/X0/P0wm-t0WgZX17CogAPfjDDdzZFeCG_Ki2oEPZLt84/coming-to-the-stage.mp4</link>
+<description />
+<pubDate>Thu, 26 May 2016 18:58:52 GMT
+</pubDate>
+<guid isPermaLink="false">ff0d8b87a2a24569a3df10a3762be2fc</guid> 
+<media:content channels="2" bitrate="1328.0" duration="84" fileSize="14155509" framerate="23.976" height="720" type="video/mp4" width="1280" isDefault="true" url="http://roku.content.video.llnw.net/smedia/59021fabe3b645968e382ac726cd6c7b/X0/P0wm-t0WgZX17CogAPfjDDdzZFeCG_Ki2oEPZLt84/coming-to-the-stage.mp4">
+<media:keywords>c, comedy dynamics, episode 66, roku recommends</media:keywords> 
+<media:thumbnail url="http://img.delvenetworks.com/WQIfq-O2RZYjjgqxybNbHs/_w2Lh6KiRWko98Qo3Yr4vw/1vG.540x302.jpeg" /> 
+<media:title>Coming to the Stage</media:title> 
+</media:content> 
+</item>
+</channel>
+</rss>
