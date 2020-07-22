@@ -7,20 +7,7 @@
 <language>es</language> 
 <pubDate>Thu, 21 Jul 2020 21:12:02 GMT</pubDate> 
 
-<item> 
-<title>Bein Sports</title>
-<link>http://roku.content.video.llnw.net/smedia/59021fabe3b645968e382ac726cd6c7b/VZ/hunEHvDvM_JAwWhn7L7CuUkIBbluOs9OnVN4oXhqo/song-small.mp4</link>
-<description>Canal de Deportes en español</description>
-<pubDate>Thu, 21 Jul 2020 21:12:02 GMT</pubDate>
-<guid isPermaLink="false">fec6ff363e9f4f7e95bcbc313def5ab7</guid> 
-<media:content channels="2" type="video/mp4" isDefault="true" url="http://roku.content.video.llnw.net/smedia/59021fabe3b645968e382ac726cd6c7b/VZ/hunEHvDvM_JAwWhn7L7CuUkIBbluOs9OnVN4oXhqo/song-small.mp4">
-<media:description>Canal de Deportes en español</media:description>
-<media:keywords>Prueba</media:keywords> 
-<media:thumbnail url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/BeIN_Sports.png/240px-BeIN_Sports.png" /> 
-<media:title>Bein Sports</media:title> 
-</media:content>
-</item>
-
+<item> <title>...With Laura Miller</title> <link>http://roku.content.video.llnw.net/smedia/59021fabe3b645968e382ac726cd6c7b/4k/Pis2H4XgJiWPmCa1yTXpBZBXFvqzjp9Zcg23NNYjg/laura-miller-seriestv-promo---civilized_v4.mp4</link> <description>RAW. VEGAN. NOT GROSS.</description> <pubDate>Thu, 22 Oct 2015 20:21:34 GMT</pubDate> <guid isPermaLink="false">fec6ff363e9f4f7e95bcbc313def5ab7</guid> <media:content channels="2" bitrate="450.0" duration="25" fileSize="1482253" framerate="23.976" height="360" type="video/mp4" width="640" isDefault="true" url="http://roku.content.video.llnw.net/smedia/59021fabe3b645968e382ac726cd6c7b/4k/Pis2H4XgJiWPmCa1yTXpBZBXFvqzjp9Zcg23NNYjg/laura-miller-seriestv-promo---civilized_v4.mp4"> <media:description>RAW. VEGAN. NOT GROSS.</media:description> <media:keywords>a, episode 40, food, laura miller, raw, roku recommends, tastemade, vegan</media:keywords> <media:thumbnail url="http://img.delvenetworks.com/WQIfq-O2RZYjjgqxybNbHs/_sb_Nj6fT34lby8MT3vWrc/YRO.540x302.jpeg" /> <media:title>...With Laura Miller</media:title> </media:content> </item>
 
 </channel>
 </rss>
