@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:media="http://search.yahoo.com/mrss/" 
 version="2.0"> 
-  <channel> 
-    <title>Developer Sample Library</title> 
+  <channel>
+    <title>Developer Sample Library</title>
     <link>http://search.yahoo.com/mrss</link/>
     <description>testt<description/>
-    <language>en</language> 
-    <pubDate>Thu, 07 Jul 2016 15:53:22 GMT</pubDate> 
-    <item> 
-      <title>...With Laura Miller</title> 
+    <language>en</language>
+    <pubDate>Thu, 07 Jul 2016 15:53:22 GMT</pubDate>
+    <item>
+      <title>...With Laura Miller</title>
       
 <link>http://roku.content.video.llnw.net/smedia/59021fabe3b645968e382ac726cd6c7b/4k/Pis2H4XgJiWPmCa1yTXpBZBXFvqzjp9Zcg23NNYjg/laura-miller-seriestv-promo---civilized_v4.mp4</link>
       <description>RAW. VEGAN. NOT GROSS.</description> 
