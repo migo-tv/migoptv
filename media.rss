@@ -14,10 +14,6 @@
         <media:statistics views="5" favorites="5" />
         <media:tags>news: 5, abc:3</media:tags>
       </media:community>
-      <media:comments>
-        <media:comment>comment1</media:comment>
-        <media:comment>comment2</media:comment>
-      </media:comments>
       <media:embed url="http://www.foo.com/player.swf" width="512" height="323">
         <media:param name="type">application/x-shockwave-flash</media:param>
         <media:param name="width">512</media:param>
@@ -40,13 +36,6 @@
       <media:license type="text/html" href="http://www.licensehost.com/license"> Sample license for a video</media:license>
       <media:subTitle type="application/smil" lang="en-us" href="http://www.foo.org/subtitle.smil" />
       <media:peerLink type="application/x-bittorrent " href="http://www.foo.org/sampleFile.torrent" />
-      <media:location description="My house" start="00:01" end="01:00">
-        <georss:where>
-          <gml:Point>
-          <gml:pos>35.669998 139.770004</gml:pos>
-          </gml:Point>
-        </georss:where>
-      </media:location>
       <media:restriction type="sharing" relationship="deny" />
       <media:scenes>
         <media:scene>
