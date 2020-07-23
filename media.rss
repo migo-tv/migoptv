@@ -1,36 +1,489 @@
-<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
-  <channel>
-    <title>Song Site</title>
-    <link>http://www.foo.com</link>
-    <description>Songs galore at different bitrates</description>
-    <item>
-      <title>Cool song by an artist</title>
-      <link>http://www.foo.com/item1.htm</link>
-      <media:group>
-        <media:content url="http://www.foo.com/song64kbps.mp3"
-          fileSize="1000" bitrate="64" type="audio/mpeg"
-          isDefault="true" expression="full" />
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcastRF="http://radiofrance.fr/Lancelot/Podcast#" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" version="2.0">
 
-        <media:content url="http://www.foo.com/song128kbps.mp3"
-          fileSize="2000" bitrate="128" type="audio/mpeg"
-          expression="full" />
+<channel>
 
-        <media:content url="http://www.foo.com/song256kbps.mp3"
-          fileSize="4000" bitrate="256" type="audio/mpeg"
-          expression="full" />
+<title>Toute une vie</title>
 
-        <media:content url="http://www.foo.com/song512kbps.mp3.torrent"
-          fileSize="8000" type="application/x-bittorrent;enclosed=audio/mpeg"
-          expression="full" />
+<link>https://www.franceculture.fr/emissions/une-vie-une-oeuvre</link>
 
-        <media:content url="http://www.foo.com/song.wav"
-          fileSize="16000" type="audio/x-wav" expression="full" />
+<description>"Toute une vie" succède à "Une vie, une ouvre" : chaque samedi, à 15h, le portrait radiophonique de femmes et hommes d'exception.</description>
 
-        <media:credit role="musician">band member 1</media:credit>
-        <media:credit role="musician">band member 2</media:credit>
-        <media:category>music/artist name/album/song</media:category>
-        <media:rating>nonadult</media:rating>
-      </media:group>
-    </item>
-  </channel>
+<language>fr</language>
+
+<copyright>Radio France</copyright>
+
+<lastBuildDate>Wed, 22 Jul 2020 23:22:41 +0200</lastBuildDate>
+
+<generator>Radio France</generator>
+
+<image>
+
+<url>https://cdn.radiofrance.fr/s3/cruiser-production/2019/07/a7489047-1670-4d1b-8e13-73e054c70f58/1400x1400_rf_omm_0000017847_ite.jpg</url>
+
+<title>Toute une vie</title>
+
+<link>https://www.franceculture.fr/emissions/une-vie-une-oeuvre</link>
+
+</image>
+
+<itunes:author>France Culture</itunes:author>
+
+<itunes:category text="Arts">
+
+<itunes:category text="Books"/>
+
+</itunes:category>
+
+<itunes:explicit>no</itunes:explicit>
+
+<itunes:image href="https://cdn.radiofrance.fr/s3/cruiser-production/2019/07/a7489047-1670-4d1b-8e13-73e054c70f58/1400x1400_rf_omm_0000017847_ite.jpg"/>
+
+<itunes:owner>
+
+<itunes:email>podcast@radiofrance.com</itunes:email>
+
+<itunes:name>Radio France</itunes:name>
+
+</itunes:owner>
+
+<itunes:subtitle>Toute une vie</itunes:subtitle>
+
+<itunes:summary>"Toute une vie" succède à "Une vie, une ouvre" : chaque samedi, à 15h, le portrait radiophonique de femmes et hommes d'exception.</itunes:summary>
+
+<podcastRF:originStation>5</podcastRF:originStation>
+
+<googleplay:block>yes</googleplay:block>
+
+<item>
+
+<title>Lettres de Russie (3/5) : Léon Tolstoï (1828-1910), inventeur du roman "univers"</title>
+
+<link>https://www.franceculture.fr/emissions/une-vie-une-oeuvre/lettres-de-russie-35-leon-tolstoi-1828-1910-inventeur-du-roman-univers</link>
+
+<description>durée : 00:59:30 - Une vie, une oeuvre - par : Laetitia Le Guay - Homme passionné par l'histoire du peuple russe, obsédé par la mort et le bonheur terrestre, tiraillé par des angoisses existentielles, Léon Tolstoï a réalisé de grandes romans épiques qui frappent par le réalisme et l'humilité de leurs personnages. - réalisation : Pascale Rayet </description>
+
+<author>podcast@radiofrance.com</author>
+
+<category>Arts Books</category>
+
+<enclosure url="http://rf.proxycast.org/71e20d88-2f7e-44bb-84b4-ba4d7ad9e947/10471-22.07.2020-ITEMA_22387339-2020C3330S0204-1779455909.mp3" length="57141435" type="audio/mpeg"/>
+
+<guid isPermalink="false">a58c113a-f948-4026-8bb6-73755c2f7201</guid>
+
+<pubDate>Wed, 22 Jul 2020 11:58:45 +0200</pubDate>
+
+<podcastRF:businessReference>3330</podcastRF:businessReference>
+
+<podcastRF:magnetothequeID>2020C3330S0204</podcastRF:magnetothequeID>
+
+<itunes:title>Lettres de Russie (3/5) : Léon Tolstoï (1828-1910), inventeur du roman "univers"</itunes:title>
+
+<itunes:author>France Culture</itunes:author>
+
+<itunes:explicit>no</itunes:explicit>
+
+<itunes:keywords>Lettres,de,Russie,(3/5),:,Léon,Tolstoï,(1828-1910),,inventeur,du,roman,"univers"</itunes:keywords>
+
+<itunes:subtitle>Lettres de Russie (3/5) : Léon Tolstoï (1828-1910), inventeur du roman "univers"</itunes:subtitle>
+
+<itunes:summary>durée : 00:59:30 - Une vie, une oeuvre - par : Laetitia Le Guay - Homme passionné par l'histoire du peuple russe, obsédé par la mort et le bonheur terrestre, tiraillé par des angoisses existentielles, Léon Tolstoï a réalisé de grandes romans épiques qui frappent par le réalisme et l'humilité de leurs personnages. - réalisation : Pascale Rayet </itunes:summary>
+
+<itunes:duration>00:59:30</itunes:duration>
+
+<googleplay:block>yes</googleplay:block>
+
+</item>
+
+<item>
+
+<title>Lettres de Russie (2/5) : Nina Berberova (1901-1993), "je suis un fleuve" </title>
+
+<link>https://www.franceculture.fr/emissions/une-vie-une-oeuvre/lettres-de-russie-25-nina-berberova-1901-1993-je-suis-un-fleuve</link>
+
+<description>durée : 00:59:21 - Une vie, une oeuvre - par : Julien Thèves - Née en Russie peu avant la Révolution d’Octobre, émigrée à Paris puis aux Etats-Unis, Nina Berberova est l’une des auteures russes les plus importantes du 20ème siècle. Son œuvre donne vie aux exilés, raconte la grande Histoire, dans de courts récits au style unique. - réalisation : Laurent Paulré - invités : Ida Junker Traductrice, autrice et spécialiste de Nina Berberova; Michel Niqueux Professeur Émérite de l'Université de Lausanne en littérature et civilisation russe; Bertrand Le Meignen Biographe de Nina Berberova; Bertrand Py Directeur éditorial et co-fondateur d'Actes Sud; Eva Chanet Éditrice chez Actes Sud; Murl Barker Universitaire américain </description>
+
+<author>podcast@radiofrance.com</author>
+
+<category>Arts Books</category>
+
+<enclosure url="http://rf.proxycast.org/6a0a32fb-ecd8-4007-a1ed-099225f0c757/10471-21.07.2020-ITEMA_22386607-2020C3330S0203-1779455909.mp3" length="57011817" type="audio/mpeg"/>
+
+<guid isPermalink="false">014cc7d7-fe27-4dad-b813-79adc89d6f27</guid>
+
+<pubDate>Tue, 21 Jul 2020 11:58:45 +0200</pubDate>
+
+<podcastRF:businessReference>3330</podcastRF:businessReference>
+
+<podcastRF:magnetothequeID>2020C3330S0203</podcastRF:magnetothequeID>
+
+<itunes:title>Lettres de Russie (2/5) : Nina Berberova (1901-1993), "je suis un fleuve" </itunes:title>
+
+<itunes:author>France Culture</itunes:author>
+
+<itunes:explicit>no</itunes:explicit>
+
+<itunes:keywords>Lettres,de,Russie,(2/5),:,Nina,Berberova,(1901-1993),,"je,suis,un,fleuve",</itunes:keywords>
+
+<itunes:subtitle>Lettres de Russie (2/5) : Nina Berberova (1901-1993), "je suis un fleuve" </itunes:subtitle>
+
+<itunes:summary>durée : 00:59:21 - Une vie, une oeuvre - par : Julien Thèves - Née en Russie peu avant la Révolution d’Octobre, émigrée à Paris puis aux Etats-Unis, Nina Berberova est l’une des auteures russes les plus importantes du 20ème siècle. Son œuvre donne vie aux exilés, raconte la grande Histoire, dans de courts récits au style unique. - réalisation : Laurent Paulré - invités : Ida Junker Traductrice, autrice et spécialiste de Nina Berberova; Michel Niqueux Professeur Émérite de l'Université de Lausanne en littérature et civilisation russe; Bertrand Le Meignen Biographe de Nina Berberova; Bertrand Py Directeur éditorial et co-fondateur d'Actes Sud; Eva Chanet Éditrice chez Actes Sud; Murl Barker Universitaire américain </itunes:summary>
+
+<itunes:duration>00:59:21</itunes:duration>
+
+<googleplay:block>yes</googleplay:block>
+
+</item>
+
+<item>
+
+<title>Lettres de Russie (1/5) : Nicolas Gogol, le rire au bord de l’abîme (1809-1852)</title>
+
+<link>https://www.franceculture.fr/emissions/une-vie-une-oeuvre/lettres-de-russie-15-nicolas-gogol-le-rire-au-bord-de-labime-1809-1852</link>
+
+<description>durée : 00:58:47 - Une vie, une oeuvre - par : Laetitia Le Guay - Nicolas Gogol devient l’une des figures principales de l’Âge d’or de la littérature russe. Son plus grand succès est sa pièce le Révizor, où le spectacle de la corruption de tous provoque un rire ravageur. - réalisation : Ghislaine David </description>
+
+<author>podcast@radiofrance.com</author>
+
+<category>Arts Books</category>
+
+<enclosure url="http://rf.proxycast.org/e9e0a351-0870-4240-b065-644e0506d845/10471-20.07.2020-ITEMA_22385916-2020C3330S0202-1779455909.mp3" length="56457148" type="audio/mpeg"/>
+
+<guid isPermalink="false">069d39cf-1800-408f-a830-bc36daad4f7a</guid>
+
+<pubDate>Mon, 20 Jul 2020 11:58:45 +0200</pubDate>
+
+<podcastRF:businessReference>3330</podcastRF:businessReference>
+
+<podcastRF:magnetothequeID>2020C3330S0202</podcastRF:magnetothequeID>
+
+<itunes:title>Lettres de Russie (1/5) : Nicolas Gogol, le rire au bord de l’abîme (1809-1852)</itunes:title>
+
+<itunes:author>France Culture</itunes:author>
+
+<itunes:explicit>no</itunes:explicit>
+
+<itunes:keywords>Lettres,de,Russie,(1/5),:,Nicolas,Gogol,,le,rire,au,bord,de,l’abîme,(1809-1852)</itunes:keywords>
+
+<itunes:subtitle>Lettres de Russie (1/5) : Nicolas Gogol, le rire au bord de l’abîme (1809-1852)</itunes:subtitle>
+
+<itunes:summary>durée : 00:58:47 - Une vie, une oeuvre - par : Laetitia Le Guay - Nicolas Gogol devient l’une des figures principales de l’Âge d’or de la littérature russe. Son plus grand succès est sa pièce le Révizor, où le spectacle de la corruption de tous provoque un rire ravageur. - réalisation : Ghislaine David </itunes:summary>
+
+<itunes:duration>00:58:47</itunes:duration>
+
+<googleplay:block>yes</googleplay:block>
+
+</item>
+
+<item>
+
+<title>1945 : 75 ans après (3/8) : Claude Lanzmann (1925-2018), un corps, une oeuvre </title>
+
+<link>https://www.franceculture.fr/emissions/une-vie-une-oeuvre/1945-75-ans-apres-38-claude-lanzmann-1925-2018-un-corps-une-oeuvre</link>
+
+<description>durée : 00:59:10 - Une vie, une oeuvre - par : Anaïs Kien - Claude Lanzmann a signé avec Shoah, le plus grand témoignage sur la destruction des juifs d'Europe, une oeuvre monumentale réalisée par un engagement viscéral et une grande détermination, caractéristique de celui qui dirigea Les Temps Modernes pendant plus de trente ans. - réalisation : Yvon Croizier - invités : Juliette Simont Docteure en philosophie, Maîtresse de recherche au Fonds National de la Recherche de Belgique, co-directrice de la revue Les Temps Modernes; Corinna Coulmas Philosophe et autrice; Caroline Champetier Directrice de la photographie; Laura Koeppel Animatrice du ciné-club du cinéma Le Vincennes; Annette Wieviorka Historienne, directrice de recherches au CNRS.; Ruth Zylberman Écrivaine et réalisatrice </description>
+
+<author>podcast@radiofrance.com</author>
+
+<category>Arts Books</category>
+
+<enclosure url="http://rf.proxycast.org/b18b91dc-8411-4241-a434-5ae7af3ad948/10471-18.07.2020-ITEMA_22384950-2020C3330S0200-1779455909.mp3" length="56825925" type="audio/mpeg"/>
+
+<guid isPermalink="false">5f706da9-b4c3-41f2-91e1-2dfd89af9bd6</guid>
+
+<pubDate>Sat, 18 Jul 2020 17:58:45 +0200</pubDate>
+
+<podcastRF:businessReference>3330</podcastRF:businessReference>
+
+<podcastRF:magnetothequeID>2020C3330S0200</podcastRF:magnetothequeID>
+
+<itunes:title>1945 : 75 ans après (3/8) : Claude Lanzmann (1925-2018), un corps, une oeuvre </itunes:title>
+
+<itunes:author>Christine BERNARD</itunes:author>
+
+<itunes:explicit>no</itunes:explicit>
+
+<itunes:keywords>1945,:,75,ans,après,(3/8),:,Claude,Lanzmann,(1925-2018),,un,corps,,une,oeuvre,</itunes:keywords>
+
+<itunes:subtitle>1945 : 75 ans après (3/8) : Claude Lanzmann (1925-2018), un corps, une oeuvre </itunes:subtitle>
+
+<itunes:summary>durée : 00:59:10 - Une vie, une oeuvre - par : Anaïs Kien - Claude Lanzmann a signé avec Shoah, le plus grand témoignage sur la destruction des juifs d'Europe, une oeuvre monumentale réalisée par un engagement viscéral et une grande détermination, caractéristique de celui qui dirigea Les Temps Modernes pendant plus de trente ans. - réalisation : Yvon Croizier - invités : Juliette Simont Docteure en philosophie, Maîtresse de recherche au Fonds National de la Recherche de Belgique, co-directrice de la revue Les Temps Modernes; Corinna Coulmas Philosophe et autrice; Caroline Champetier Directrice de la photographie; Laura Koeppel Animatrice du ciné-club du cinéma Le Vincennes; Annette Wieviorka Historienne, directrice de recherches au CNRS.; Ruth Zylberman Écrivaine et réalisatrice </itunes:summary>
+
+<itunes:duration>00:59:10</itunes:duration>
+
+<googleplay:block>yes</googleplay:block>
+
+</item>
+
+<item>
+
+<title>Création au féminin (premier volet) (5/5) : Hedy Lamarr (1914-2000), la dame sans passeport d'Hollywood</title>
+
+<link>https://www.franceculture.fr/emissions/une-vie-une-oeuvre/creation-au-feminin-premier-volet-55-hedy-lamarr-1914-2000-la-dame-sans-passeport-dhollywood</link>
+
+<description>durée : 00:58:51 - Une vie, une oeuvre - par : Hélène Frappat - Le destin hors norme d'Hedy Lamarr, juive viennoise devenue star d'Hollywood et co-auteur d'un système secret de communication applicable aux torpilles radio-guidées, est aujourd'hui encore l'odyssée contemporaine d'une liberté de femme qui s'invente. - réalisation : Angélique Tibau - invités : Vivianne Perret Écrivain, historienne, scénariste et chroniqueuse radio; Jean-Louis Desvignes Général, ancien officier Chiffre à l'Etat-major des Armées, ancien directeur de l'Agence Nationale de la Sécurité des Systèmes d'information.; Christian Viviani Coordinateur et rédacteur de la revue Positif, professeur à l’université de Caen-Basse Normandie; Serge Bromberg Critique de cinéma, spécialiste du cinéma américain de l'âge classique.; Antoine Sire Auteur; Nina Childress Peintre </description>
+
+<author>podcast@radiofrance.com</author>
+
+<category>Arts Books</category>
+
+<enclosure url="http://rf.proxycast.org/8cf4d79e-e915-4fc8-acde-a552aabae906/10471-17.07.2020-ITEMA_22384392-2020C3330S0199-1779455909.mp3" length="56529182" type="audio/mpeg"/>
+
+<guid isPermalink="false">45d8508f-5993-4423-a85b-5acd3deb967f</guid>
+
+<pubDate>Fri, 17 Jul 2020 11:58:45 +0200</pubDate>
+
+<podcastRF:businessReference>3330</podcastRF:businessReference>
+
+<podcastRF:magnetothequeID>2020C3330S0199</podcastRF:magnetothequeID>
+
+<itunes:title>Création au féminin (premier volet) (5/5) : Hedy Lamarr (1914-2000), la dame sans passeport d'Hollywood</itunes:title>
+
+<itunes:author>Christine BERNARD</itunes:author>
+
+<itunes:explicit>no</itunes:explicit>
+
+<itunes:keywords>Création,au,féminin,(premier,volet),(5/5),:,Hedy,Lamarr,(1914-2000),,la,dame,sans,passeport,d'Hollywood</itunes:keywords>
+
+<itunes:subtitle>Création au féminin (premier volet) (5/5) : Hedy Lamarr (1914-2000), la dame sans passeport d'Hollywood</itunes:subtitle>
+
+<itunes:summary>durée : 00:58:51 - Une vie, une oeuvre - par : Hélène Frappat - Le destin hors norme d'Hedy Lamarr, juive viennoise devenue star d'Hollywood et co-auteur d'un système secret de communication applicable aux torpilles radio-guidées, est aujourd'hui encore l'odyssée contemporaine d'une liberté de femme qui s'invente. - réalisation : Angélique Tibau - invités : Vivianne Perret Écrivain, historienne, scénariste et chroniqueuse radio; Jean-Louis Desvignes Général, ancien officier Chiffre à l'Etat-major des Armées, ancien directeur de l'Agence Nationale de la Sécurité des Systèmes d'information.; Christian Viviani Coordinateur et rédacteur de la revue Positif, professeur à l’université de Caen-Basse Normandie; Serge Bromberg Critique de cinéma, spécialiste du cinéma américain de l'âge classique.; Antoine Sire Auteur; Nina Childress Peintre </itunes:summary>
+
+<itunes:duration>00:58:51</itunes:duration>
+
+<googleplay:block>yes</googleplay:block>
+
+</item>
+
+<item>
+
+<title>Création au féminin (premier volet) (4/5) : Isadora Duncan (1877-1927) ou l'art de danser sa vie </title>
+
+<link>https://www.franceculture.fr/emissions/une-vie-une-oeuvre/creation-au-feminin-premier-volet-45-isadora-duncan-1877-1927-ou-lart-de-danser-sa-vie</link>
+
+<description>durée : 00:58:51 - Une vie, une oeuvre - par : Céline du Chéné - Isadora Duncan a été un objet de fascination totale pour ses contemporains. Venue de l’autre côté de l’océan, cette danseuse aux pieds nus, sans corset, a sidéré le public de la Belle époque par son audace, sa manière de danser, sa soif de liberté et son esprit révolutionnaire. - réalisation : Laurent Paulré - invités : Boris Charmatz Danseur, chorégraphe et directeur du Musée de la danse à Rennes.; Laetitia Doat Interprète, chorégraphe, pédagogue, maître de conférences au département Arts/danse, université Lille 3, directrice artistique de la compagnie Edges; Florence Rochefort Historienne des femmes et du genre; Elisabeth Schwartz Danseuse, pédagogue, chercheuse en danse, notamment autour de la danse d’Isadora Duncan, de Rudolf Laban et de la danse du début du XXème siècle.; Jules Stromboni Auteur et dessinateur de bande dessinée; Amy Swanson Danseuse, chorégraphe, fondatrice du Regard du Cygne; Geneviève Vincent Historienne de la danse et écrivain </description>
+
+<author>podcast@radiofrance.com</author>
+
+<category>Arts Books</category>
+
+<enclosure url="http://rf.proxycast.org/6d44afcb-cb3f-4b6c-951b-22899869bfee/10471-16.07.2020-ITEMA_22383655-2020C3330S0198-1779455909.mp3" length="56518359" type="audio/mpeg"/>
+
+<guid isPermalink="false">7ec0ee96-772b-4b74-ba82-5bc57408e911</guid>
+
+<pubDate>Thu, 16 Jul 2020 11:58:45 +0200</pubDate>
+
+<podcastRF:businessReference>3330</podcastRF:businessReference>
+
+<podcastRF:magnetothequeID>2020C3330S0198</podcastRF:magnetothequeID>
+
+<itunes:title>Création au féminin (premier volet) (4/5) : Isadora Duncan (1877-1927) ou l'art de danser sa vie </itunes:title>
+
+<itunes:author>Christine BERNARD</itunes:author>
+
+<itunes:explicit>no</itunes:explicit>
+
+<itunes:keywords>Création,au,féminin,(premier,volet),(4/5),:,Isadora,Duncan,(1877-1927),ou,l'art,de,danser,sa,vie,</itunes:keywords>
+
+<itunes:subtitle>Création au féminin (premier volet) (4/5) : Isadora Duncan (1877-1927) ou l'art de danser sa vie </itunes:subtitle>
+
+<itunes:summary>durée : 00:58:51 - Une vie, une oeuvre - par : Céline du Chéné - Isadora Duncan a été un objet de fascination totale pour ses contemporains. Venue de l’autre côté de l’océan, cette danseuse aux pieds nus, sans corset, a sidéré le public de la Belle époque par son audace, sa manière de danser, sa soif de liberté et son esprit révolutionnaire. - réalisation : Laurent Paulré - invités : Boris Charmatz Danseur, chorégraphe et directeur du Musée de la danse à Rennes.; Laetitia Doat Interprète, chorégraphe, pédagogue, maître de conférences au département Arts/danse, université Lille 3, directrice artistique de la compagnie Edges; Florence Rochefort Historienne des femmes et du genre; Elisabeth Schwartz Danseuse, pédagogue, chercheuse en danse, notamment autour de la danse d’Isadora Duncan, de Rudolf Laban et de la danse du début du XXème siècle.; Jules Stromboni Auteur et dessinateur de bande dessinée; Amy Swanson Danseuse, chorégraphe, fondatrice du Regard du Cygne; Geneviève Vincent Historienne de la danse et écrivain </itunes:summary>
+
+<itunes:duration>00:58:51</itunes:duration>
+
+<googleplay:block>yes</googleplay:block>
+
+</item>
+
+<item>
+
+<title>Création au féminin (premier volet) (3/5) : P. D. James (1920-2014), qui a poussé Humpty Dumpty ?</title>
+
+<link>https://www.franceculture.fr/emissions/une-vie-une-oeuvre/creation-au-feminin-premier-volet-35-p-d-james-1920-2014-qui-a-pousse-humpty-dumpty</link>
+
+<description>durée : 00:58:58 - Une vie, une oeuvre - par : Françoise Estèbe - A l'occasion du festival lyonnais "Quai du Polar" 2015, hommage à la baronne du crime, P. D. James, disparue pendant l'hiver. - réalisation : Marie-Laure Ciboulet - invités : Christine Jordis Romancière, essayiste et éditrice; Marianne Payot Journaliste à l'Express; François Rivière Critique littéraire, éditeur, romancier, traducteur, biographe et scénariste de bande dessinée; Françoise du Sorbier Traductrice - Agrégée d'anglais - Ancien professeur de littérature anglaise à la Sorbonne (Paris) </description>
+
+<author>podcast@radiofrance.com</author>
+
+<category>Arts Books</category>
+
+<enclosure url="http://rf.proxycast.org/962af431-5f26-4aee-9782-6f7d55a110c2/10471-15.07.2020-ITEMA_22382925-2020C3330S0197-1779455909.mp3" length="56634246" type="audio/mpeg"/>
+
+<guid isPermalink="false">c682dbff-5368-46c5-8568-d51c081841dd</guid>
+
+<pubDate>Wed, 15 Jul 2020 11:58:45 +0200</pubDate>
+
+<podcastRF:businessReference>3330</podcastRF:businessReference>
+
+<podcastRF:magnetothequeID>2020C3330S0197</podcastRF:magnetothequeID>
+
+<itunes:title>Création au féminin (premier volet) (3/5) : P. D. James (1920-2014), qui a poussé Humpty Dumpty ?</itunes:title>
+
+<itunes:author>Christine BERNARD</itunes:author>
+
+<itunes:explicit>no</itunes:explicit>
+
+<itunes:keywords>Création,au,féminin,(premier,volet),(3/5),:,P.,D.,James,(1920-2014),,qui,a,poussé,Humpty,Dumpty,?</itunes:keywords>
+
+<itunes:subtitle>Création au féminin (premier volet) (3/5) : P. D. James (1920-2014), qui a poussé Humpty Dumpty ?</itunes:subtitle>
+
+<itunes:summary>durée : 00:58:58 - Une vie, une oeuvre - par : Françoise Estèbe - A l'occasion du festival lyonnais "Quai du Polar" 2015, hommage à la baronne du crime, P. D. James, disparue pendant l'hiver. - réalisation : Marie-Laure Ciboulet - invités : Christine Jordis Romancière, essayiste et éditrice; Marianne Payot Journaliste à l'Express; François Rivière Critique littéraire, éditeur, romancier, traducteur, biographe et scénariste de bande dessinée; Françoise du Sorbier Traductrice - Agrégée d'anglais - Ancien professeur de littérature anglaise à la Sorbonne (Paris) </itunes:summary>
+
+<itunes:duration>00:58:58</itunes:duration>
+
+<googleplay:block>yes</googleplay:block>
+
+</item>
+
+<item>
+
+<title>Création au féminin (premier volet) (2/5) : Cesaria Evora (1941-2011), la diva aux pieds nus</title>
+
+<link>https://www.franceculture.fr/emissions/une-vie-une-oeuvre/creation-au-feminin-1-25-cesaria-evora-1941-2011-la-diva-aux-pieds-nus</link>
+
+<description>durée : 00:58:49 - Une vie, une oeuvre - par : Elodie Maillot - Surnommée la diva aux pieds nus, Cesaria Evora est née au Cap-Vert le 27 août 1941. Chanteuse de morna, musique nostalgique cap-verdienne, elle la popularisa auprès du grand public, devenant une vraie icône nationale. Sa chanson "Sodade" est connue dans le monde entier. - réalisation : Nathalie Salles - invités : Teofilo Chantre Chanteur et compositeur cap-verdien; Véronique Mortaigne Journaliste et auteur; Bonga Musicien </description>
+
+<author>podcast@radiofrance.com</author>
+
+<category>Arts Books</category>
+
+<enclosure url="http://rf.proxycast.org/1f2782a4-4d86-4e91-af7a-c8b16924c174/10471-14.07.2020-ITEMA_22382198-2020C3330S0196-1779455909.mp3" length="56492831" type="audio/mpeg"/>
+
+<guid isPermalink="false">f3b67d01-7f55-4737-872e-5bf09ab74d7a</guid>
+
+<pubDate>Tue, 14 Jul 2020 11:58:45 +0200</pubDate>
+
+<podcastRF:businessReference>3330</podcastRF:businessReference>
+
+<podcastRF:magnetothequeID>2020C3330S0196</podcastRF:magnetothequeID>
+
+<itunes:title>Création au féminin (premier volet) (2/5) : Cesaria Evora (1941-2011), la diva aux pieds nus</itunes:title>
+
+<itunes:author>France Culture</itunes:author>
+
+<itunes:explicit>no</itunes:explicit>
+
+<itunes:keywords>Création,au,féminin,(premier,volet),(2/5),:,Cesaria,Evora,(1941-2011),,la,diva,aux,pieds,nus</itunes:keywords>
+
+<itunes:subtitle>Création au féminin (premier volet) (2/5) : Cesaria Evora (1941-2011), la diva aux pieds nus</itunes:subtitle>
+
+<itunes:summary>durée : 00:58:49 - Une vie, une oeuvre - par : Elodie Maillot - Surnommée la diva aux pieds nus, Cesaria Evora est née au Cap-Vert le 27 août 1941. Chanteuse de morna, musique nostalgique cap-verdienne, elle la popularisa auprès du grand public, devenant une vraie icône nationale. Sa chanson "Sodade" est connue dans le monde entier. - réalisation : Nathalie Salles - invités : Teofilo Chantre Chanteur et compositeur cap-verdien; Véronique Mortaigne Journaliste et auteur; Bonga Musicien </itunes:summary>
+
+<itunes:duration>00:58:49</itunes:duration>
+
+<googleplay:block>yes</googleplay:block>
+
+</item>
+
+<item>
+
+<title>Création au féminin (premier volet) (1/5) : Silencieuse Pina Bausch (1940-2009)</title>
+
+<link>https://www.franceculture.fr/emissions/une-vie-une-oeuvre/creation-au-feminin-15-silencieuse-pina-bausch-1940-2009</link>
+
+<description>durée : 00:58:52 - Une vie, une oeuvre - par : Matthieu Garrigou-Lagrange - Pina Bausch a développé un art de la scène mêlant des chorégraphies classiques et un jeu théâtral marqué par la violence des rapports inter-humains. Qui était donc cette femme discrète, et investie pourtant d'une aura éclatante ? - réalisation : Jean-Claude Loiseau - invités : Jo Ann Endicott Danseuse; Bénédicte Billiet Danseuse; Nazareth Panadero Danseuse; Jutta Geiger Danseuse; Brigitte Gauthier Professeure à l’Université d’Evry, historienne du théâtre et du cinéma, auteure; Rudolf Rach Directeur des éditions L'Arche; Gérard Violette Directeur de théâtre, directeur artistique, et administrateur; Dominique Frétard Journaliste et critique spécialisée dans la musique et la danse </description>
+
+<author>podcast@radiofrance.com</author>
+
+<category>Arts Books</category>
+
+<enclosure url="http://rf.proxycast.org/de45538c-f629-4bdb-ba92-a51a252f61e4/10471-13.07.2020-ITEMA_22381501-2020C3330S0195-1779455909.mp3" length="56543298" type="audio/mpeg"/>
+
+<guid isPermalink="false">908070b2-e658-4826-89c1-d8f657cbc390</guid>
+
+<pubDate>Mon, 13 Jul 2020 11:58:45 +0200</pubDate>
+
+<podcastRF:businessReference>3330</podcastRF:businessReference>
+
+<podcastRF:magnetothequeID>2020C3330S0195</podcastRF:magnetothequeID>
+
+<itunes:title>Création au féminin (premier volet) (1/5) : Silencieuse Pina Bausch (1940-2009)</itunes:title>
+
+<itunes:author>France Culture</itunes:author>
+
+<itunes:explicit>no</itunes:explicit>
+
+<itunes:keywords>Création,au,féminin,(premier,volet),(1/5),:,Silencieuse,Pina,Bausch,(1940-2009)</itunes:keywords>
+
+<itunes:subtitle>Création au féminin (premier volet) (1/5) : Silencieuse Pina Bausch (1940-2009)</itunes:subtitle>
+
+<itunes:summary>durée : 00:58:52 - Une vie, une oeuvre - par : Matthieu Garrigou-Lagrange - Pina Bausch a développé un art de la scène mêlant des chorégraphies classiques et un jeu théâtral marqué par la violence des rapports inter-humains. Qui était donc cette femme discrète, et investie pourtant d'une aura éclatante ? - réalisation : Jean-Claude Loiseau - invités : Jo Ann Endicott Danseuse; Bénédicte Billiet Danseuse; Nazareth Panadero Danseuse; Jutta Geiger Danseuse; Brigitte Gauthier Professeure à l’Université d’Evry, historienne du théâtre et du cinéma, auteure; Rudolf Rach Directeur des éditions L'Arche; Gérard Violette Directeur de théâtre, directeur artistique, et administrateur; Dominique Frétard Journaliste et critique spécialisée dans la musique et la danse </itunes:summary>
+
+<itunes:duration>00:58:52</itunes:duration>
+
+<googleplay:block>yes</googleplay:block>
+
+</item>
+
+<item>
+
+<title>Il y a cinquante ans, 1969 : Eric Rohmer (1920-2010)</title>
+
+<link>https://www.franceculture.fr/emissions/une-vie-une-oeuvre/eric-rohmer-1920-2010-0</link>
+
+<description>durée : 00:59:33 - Une vie, une oeuvre - par : Hélène FRAPPAT, Matthieu Garrigou-Lagrange, Christine BERNARD - Maurice Schérer, alias Eric Rohmer, est l’auteur d’un cinéma de l’économie, réaliste, fait de sagesse et de pureté, devenu un quasi manifeste. Portrait d'un homme discret, d'un cinéaste libre et indépendant. - invités : Antoine DE BAECQUE, Françoise Fabian, Francoise ETCHEGARAY, Jean Douchet, Pascal Bonitzer, Noël Herpe, Barbet Schroeder, Jackie Raynal, Diane BARATIER, Arielle Dombasle - Antoine de Baecque : Professeur d'histoire du cinéma à l'Ecole Normale Supérieure Françoise Fabian : Comédienne Françoise Etchegaray : Productrice Jean Douchet : cinéaste, historien et critique de cinéma Pascal Bonitzer : Scénariste, réalisateur et écrivain, ancien rédacteur aux Cahiers du cinéma. Noël Herpe : écrivain, cinéaste et historien du cinéma Barbet Schroeder : Cinéaste Jackie Raynal : Monteuse Diane Baratier : directrice de la photographie Arielle Dombasle : actrice, chanteuse et réalisatrice - réalisé par : Angélique Tibau</description>
+
+<author>podcast@radiofrance.com</author>
+
+<category>Arts Literature</category>
+
+<enclosure url="http://rf.proxycast.org/1598109438722449408/10471-27.07.2019-ITEMA_22116180-0.mp3?public" length="57425920" type="audio/mpeg"/>
+
+<guid isPermalink="true">http://media.radiofrance-podcast.net/podcast09/10471-27.07.2019-ITEMA_22116180-0.mp3</guid>
+
+<pubDate>Sat, 27 Jul 2019 16:59:30 +0200</pubDate>
+
+<podcastRF:businessReference>3330</podcastRF:businessReference>
+
+<podcastRF:magnetothequeID>2019C3330S0208</podcastRF:magnetothequeID>
+
+<itunes:title>Il y a cinquante ans, 1969 : Eric Rohmer (1920-2010)</itunes:title>
+
+<itunes:author>Hélène FRAPPAT, Matthieu Garrigou-Lagrange, Christine BERNARD</itunes:author>
+
+<itunes:explicit>no</itunes:explicit>
+
+<itunes:keywords>Il,y,a,cinquante,ans,,1969,:,Eric,Rohmer,(1920-2010)</itunes:keywords>
+
+<itunes:subtitle>Il y a cinquante ans, 1969 : Eric Rohmer (1920-2010)</itunes:subtitle>
+
+<itunes:summary>durée : 00:59:33 - Une vie, une oeuvre - par : Hélène FRAPPAT, Matthieu Garrigou-Lagrange, Christine BERNARD - Maurice Schérer, alias Eric Rohmer, est l’auteur d’un cinéma de l’économie, réaliste, fait de sagesse et de pureté, devenu un quasi manifeste. Portrait d'un homme discret, d'un cinéaste libre et indépendant. - invités : Antoine DE BAECQUE, Françoise Fabian, Francoise ETCHEGARAY, Jean Douchet, Pascal Bonitzer, Noël Herpe, Barbet Schroeder, Jackie Raynal, Diane BARATIER, Arielle Dombasle - Antoine de Baecque : Professeur d'histoire du cinéma à l'Ecole Normale Supérieure Françoise Fabian : Comédienne Françoise Etchegaray : Productrice Jean Douchet : cinéaste, historien et critique de cinéma Pascal Bonitzer : Scénariste, réalisateur et écrivain, ancien rédacteur aux Cahiers du cinéma. Noël Herpe : écrivain, cinéaste et historien du cinéma Barbet Schroeder : Cinéaste Jackie Raynal : Monteuse Diane Baratier : directrice de la photographie Arielle Dombasle : actrice, chanteuse et réalisatrice - réalisé par : Angélique Tibau</itunes:summary>
+
+<itunes:duration>00:59:33</itunes:duration>
+
+<googleplay:block>yes</googleplay:block>
+
+</item>
+
+<item>
+
+<title>Retrouvez tous les épisodes sur l’appli Radio France</title>
+
+<link>https://www.radiofrance.fr/application-mobile-radio-france</link>
+
+<description>Retrouvez tous les épisodes sur l’appli Radio France</description>
+
+<author>podcast@radiofrance.com</author>
+
+<enclosure url="https://media.radiofrance-podcast.net/podcast09/app_rf_promotion.mp3?replayCu=10471&stationId=5" length="0" type="audio/mpeg"/>
+
+<guid isPermalink="true">https://media.radiofrance-podcast.net/podcast09/app_rf_promotion.mp3?replayCu=10471&stationId=5</guid>
+
+<pubDate>Tue, 29 Aug 2006 23:59:59 +0200</pubDate>
+
+<itunes:title>Retrouvez tous les épisodes sur l’appli Radio France</itunes:title>
+
+<itunes:author>Radio France</itunes:author>
+
+<itunes:explicit>no</itunes:explicit>
+
+<itunes:subtitle>Retrouvez tous les épisodes sur l’appli Radio France</itunes:subtitle>
+
+<itunes:summary>Retrouvez tous les épisodes sur l’appli Radio France</itunes:summary>
+
+<itunes:duration>00:00:12</itunes:duration>
+
+</item>
+
+</channel>
+
 </rss>
