@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>Joel Test Channel</title>
+    <link />
+    <description />
+    <language>en-us</language>
+    <pubDate>Fri, 04 Apr 2014 21:36:10 GMT</pubDate>
+    <item>
+      <title>MBC 5</title>
+      <link>https://shls-mbc5-prod.shahid.net/mbc5-prod.m3u8</link>
+      <description />
+      <pubDate>Fri, 04 Apr 2014 18:46:25 GMT</pubDate>
+      <guid isPermaLink="false">def0f1f386504636bcefa8d7fb95a099</guid>
+      <media:content channels="4" streamFormat="hls" url="https://shls-mbc5-prod.shahid.net/mbc5-prod.m3u8">
+        <media:keywords>trailer</media:keywords>
+        <media:thumbnail url="http://img.delvenetworks.com/WQIfq-O2RZYjjgqxybNbHs/3vDx84ZQRjYvO-o1_uVoJk/gWa.540x228.jpeg" />
+        <media:title>MBC 5</media:title>
+      </media:content>
+    </item>
+         
+    <item>
+      <title>rstick-transcode</title>
+      <link>http://s2.cpl.delvenetworks.com/media/59021fabe3b645968e382ac726cd6c7b/5897fe99aa464c05902c9dc7e2b56204/47d8217e780040a3a18463bfcde44c78/rstick-transcode.mp4</link>
+      <description />
+      <pubDate>Fri, 04 Apr 2014 18:47:05 GMT</pubDate>
+      <guid isPermaLink="false">5897fe99aa464c05902c9dc7e2b56204</guid>
+      <media:content channels="4" bitrate="450.0" duration="84" fileSize="4812693" framerate="29.97" height="360" type="video/mp4" width="640" isDefault="true" url="http://s2.cpl.delvenetworks.com/media/59021fabe3b645968e382ac726cd6c7b/5897fe99aa464c05902c9dc7e2b56204/47d8217e780040a3a18463bfcde44c78/rstick-transcode.mp4">
+        <media:keywords>promo</media:keywords>
+        <media:thumbnail url="http://img.delvenetworks.com/WQIfq-O2RZYjjgqxybNbHs/WJf-mapGTAUkCydx-K1YgQ/uxv.540x302.jpeg" />
+        <media:title>rstick-transcode</media:title>
+      </media:content>
+    </item>
+    
+    <item>
+      <title>MBC 1</title>
+      <link>https://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod.m3u8</link>
+      <description />
+      <pubDate>Fri, 04 Apr 2014 18:46:25 GMT</pubDate>
+      <guid isPermaLink="false">def0f1f386504636bcefa8d7fb95a099</guid>
+      <media:content channels="4" streamFormat="hls" url="https://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod.m3u8">
+        <media:keywords>scene</media:keywords>
+        <media:thumbnail url="https://i.imgur.com/eKBXOKd.png" />
+        <media:title>MBC 1</media:title>
+      </media:content>
+    </item>
+    
+    <item>
+      <title>Abu Dhabi</title>
+      <link>https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8</link>
+      <description />
+      <pubDate>Fri, 04 Apr 2014 18:46:25 GMT</pubDate>
+      <guid isPermaLink="false">def0f1f386504636bcefa8d7fb95a099</guid>
+      <media:content channels="4" streamFormat="hls" url="https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8">
+        <media:keywords>scene</media:keywords>
+        <media:thumbnail url="https://upload.wikimedia.org/wikipedia/en/c/c0/Abu_Dhabi_Al_Oula_logo.png" />
+        <media:title>Abu Dhabi</media:title>
+      </media:content>
+    </item>
+  </channel>
+</rss>
